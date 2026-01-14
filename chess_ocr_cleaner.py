@@ -153,7 +153,10 @@ def prune_move_dump(line: str, keep_tokens: int) -> str | None:
 # Diagram / garbage detection
 # -----------------------------
 BOARD_COORD_RE = re.compile(r"\b(a\s*b\s*c\s*d\s*e\s*f\s*g\s*h|abcdefgh)\b", re.IGNORECASE)
-RANKS_RE = re.compile(r"^\s*[8-1]\s*(?:[^\w\s]\s*){4,}")
+RANKS_RE = re.compile(r"^\s*[1-8]\s*(?:[^\w\s]\s*){4,}")
+RANK_PIECE_LINE_RE = re.compile(
+    r"^\s*[1-8]\s+(?:[KQRBNPkqrbnp1-8][\s\|/\\]+){6,}[KQRBNPkqrbnp1-8]\s*$"
+)
 BOX_CHARS_RE = re.compile(r"[■□▪▫▢▣◆◇♔♕♖♗♘♙♚♛♜♝♞♟]")
 
 def is_diagramish_line(line: str) -> bool:
@@ -166,6 +169,8 @@ def is_diagramish_line(line: str) -> bool:
     if BOX_CHARS_RE.search(s):
         return True
     if RANKS_RE.match(s):
+        return True
+    if RANK_PIECE_LINE_RE.match(s):
         return True
 
     # common OCR "tm tm tm" style rubble
