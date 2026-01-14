@@ -1,3 +1,16 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 1373
+- Part One - Endgames for Beginners (Unrated-999) | jump_offset: 26
+- Part Two - End games for Class "E" (1000- 1199) | jump_offset: 26
+- Part Three - Endgames for Class "D" (1200- 1399) | jump_offset: 26
+- Part Four - Endgames for Class "C" (1400- 1599) | jump_offset: 26
+- Part Five - End games for Class "B" (1600- 1799) | jump_offset: 26
+- Part Six - Endgames for Class "A" (1800-1999) | jump_offset: 26
+- Part Seven - Endgames for Experts (2000-2199) | jump_offset: 26
+- Part Eight - Endgames for Masters (2200-2399) | jump_offset: 28
+- Part Nine - End games for Pure Pleasure | jump_offset: 28
+<<<END_TOC>>>
 SILMAN'S
 COMPLETE
 ENDGAME

@@ -1,3 +1,16 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Statistics | jump_offset: 802
+- 1 Rook and Pawn vs Rook | jump_offset: 498
+- 2 Rook and Two Pawns vs Rook | jump_offset: 593
+- 3 Rook and Pawn vs Rook and Pawn | jump_offset: 1707
+- 4 Rook and Two Pawns vs Rook and Pawn | jump_offset: 2520
+- 5 Principles of Rook Endings | jump_offset: 9899
+- 6 Theoretical Endgames | jump_offset: 10086
+- 7 Historic Games | jump_offset: 10212
+- 8 Double-Rook Endings | jump_offset: 10565
+- Solutions | jump_offset: 538
+<<<END_TOC>>>
 Understanding Rook Endgames Karsten MuSter and Yakov KonovaJ
 GEIME I
 Karsten MuSter and Yakov Konova! First published in the UK-by Gambit Publications Ltd 2016 Copyright Q Karsten Muller and Yakov Konoval 2016 The light of Karsten Muller and Yakov Konoval to be identified as the authors of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988. 411 rights reserved. No part of this publication may be reproduced, stored in or introduced into a etrieval system, or transmitted, in any form or by any means (electronic, mechanical, photoco- aying, recording or otherwise), without prior permission of the publisher. In particular, no part of his publication may be scanned, transmitted via the Internet or uploaded to a website without the publisher's permission. Any person who does any unauthorized act in relation to this publication nay be liable to criminal prosecution and civil claims for damage.

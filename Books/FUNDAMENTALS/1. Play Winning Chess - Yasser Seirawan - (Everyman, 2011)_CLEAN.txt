@@ -1,3 +1,14 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Chapter One: The Evolution of Chess | jump_offset: 352
+- Chapter Two: The First Principle: Force | jump_offset: 110
+- Chapter Three: The Second Principle: Time | jump_offset: 176
+- Chapter Four: The Third Principle: Space | jump_offset: 455
+- Chapter Five: The Fourth Principle: Pawn Structure | jump_offset: 459
+- Chapter Six: Annotated Games | jump_offset: 102
+- Chapter Seven: The Four Principles and You | jump_offset: 117
+- Answers to Quizzes and Tests | jump_offset: 1221
+<<<END_TOC>>>
 Published by Gloucester Publishers plc, formerly Everyman Publishers plc, Northburgh House, 10 Northburgh Street, London EClV OAT Copyright Q 2003 Yasser Seirawan Reprinted 2004 twice, 2005, 2006, 2007, 2009, 2010, 2011 All rights reserved. No part of the contents of this book may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, electrostatic, magnetic tape, photocopying, recording or otherwise, without prior permission of the publisher. British Library Cataloguing-in-Publication Data A catalogue record for this book is available from the British Library. Print ISBN: 978 1 85744 331 8 ePUB ISBN 9781857448214 Kindle ISBN 9781857449068 Distributed in North America by The Globe Pequot Press, P.0 Box 480, 246 Goose Lane, Guilford, CT 06437-0480 All other sales enquiries should be directed to Everyman Chess, Northburgh House, 10 Northburgh Street, London EClV OAT Tel: 020 7253 7887 Fax: 020 7490 3708 Email: mailto:info@everymanchess.com Website: www.everymanchess.com Everyman is the registered trade mark of Random House Inc. and is used in this work under license from Random House Inc.
 
 EVERYMAN CHESS SERIES

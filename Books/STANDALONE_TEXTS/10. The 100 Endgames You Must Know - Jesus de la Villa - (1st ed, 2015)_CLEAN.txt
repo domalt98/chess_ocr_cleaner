@@ -1,3 +1,21 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 28
+- 1. Basic endings | jump_offset: 75
+- 2. Basic Test | jump_offset: 233
+- 3. Knight vs. Pawn | jump_offset: 351
+- 4. Queen vs. Pawn | jump_offset: 412
+- 5. Rook vs. Pawn | jump_offset: 493
+- 6. Rook vs. 2 Pawns | jump_offset: 625
+- 7. Same-coloured bishops: Bishop + Pawn vs. Bishop | jump_offset: 682
+- 8. Bishop vs. Knight: one pawn on the board | jump_offset: 745
+- 9. Opposite-coloured bishops: Bishop + 2 pawns vs. Bishop | jump_offset: 828
+- 10. Rook + Pawn vs. Rook | jump_offset: 991
+- 11. Rook + two Pawns vs. Rook | jump_offset: 1302
+- 12. Pawn endings | jump_offset: 1486
+- 13. Other material relations | jump_offset: 1775
+- 14. Final Test | jump_offset: 2070
+<<<END_TOC>>>
 100 Endgames You Must Know
 
 Shortlisted for The Guardian Chess Book of the Year Award "[Former Women's World Chess Champion Alexandra Kosteniuk] said she had really enjoyed De la Villa's 100 Endgames You Must Know and had made flashcards out of the 100 positions. One side of the card had the position, the solution was written out on the reverse, and she quizzed herself until she knew all 100." Elisabeth Vicary, USCF Online "If you really have no patience for endgames, at least read Jesus de la Villa's 100 Endgames You Must Know." Gary Walters Chess "The greatest strength of the book: breaking things down into well-worded chunks of easily digestible information." Marsh Towers Chess Reviews "De la Villa does the job quite well. He emphasizes the practical and prefers understanding to memorization." IM John Donaldson, jeremysilman.com (comparing 100 Endgames with John Nunn's Understanding Endgames) "Though Nunn's comments are clear and to the point, I found De la Villa's discussions easier to digest." Ted Greiner, British Correspondence Chess Association "Admirable" Justin Horton, Kingpin Magazine "A clear exposition of the most imortant endgames, with exercises to test your knowledge." British Chess Magazine "The instructional explanations, the many diagrams and the pleasant presentation make this endgame book an interesting publication for club players with a rating from 1600." Max Euwe Centre, Amsterdam "An excellent book to enhance your endgame skills." Johan Hut, Gooi- en Eemlander "Every club player should study this splendid book." B.H.Wilders, Nederlands Dagblad "We all admired 100 Endgames for its clarity and practical value." Danny King & Ronan Bennett, The Guardian "I like it a lot. It may be the first chess book since more than 25 years I will study thoroughly." WIM Rike Wohlers-Armas Jesús de la Villa

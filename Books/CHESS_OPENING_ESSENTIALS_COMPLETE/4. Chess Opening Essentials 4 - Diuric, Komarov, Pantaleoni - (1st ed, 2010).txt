@@ -1,3 +1,31 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 38
+- Introduction | jump_offset: 101
+- Minor Responses to 1.Nf3 | jump_offset: 130
+- 1...d7-d5 | jump_offset: 1169
+- Minor lines after 1.Nf3 | jump_offset: 441
+- Reti Opening | jump_offset: 569
+- King's Indian Attack | jump_offset: 215
+- English Opening 1.c2-c4 | jump_offset: 1402
+- Minor defences to 1.c2-c4 | jump_offset: 1431
+- English against the Dutch | jump_offset: 1501
+- English 1...Nf6 | jump_offset: 1589
+- Queen's Indian set-up 1 | jump_offset: 61
+- Lines with 2.Nc3 | jump_offset: 1831
+- King's Indian set-up | jump_offset: 4058
+- Defences with 2...e6 | jump_offset: 2098
+- Nimzo-lndian set-up | jump_offset: 69
+- Flohr-Mikenas System | jump_offset: 69
+- Symmetrical English 1.c2-c4 c7-c5 | jump_offset: 2486
+- Keres System | jump_offset: 3054
+- Hedgehog System | jump_offset: 3136
+- English 1...e5 | jump_offset: 3499
+- King's Indian set-up 3 | jump_offset: 81
+- Minor Openings | jump_offset: 1402
+- Rare Openings | jump_offset: 5581
+- Index of Players | jump_offset: 6050
+<<<END_TOC>>>
 Chess Opening Essentials 4 7/le lrlerts c(� P!rtllS Be/1 i1zrl 1 !.�L C/1 ess 0p e 11 in g:fl �t(·l'an Djuric • Dimit1·i "-.onw•·o, • Claudio Pantaleoni Chess Opening Essentials \olumc q: L e la I l.�f3 I Other F irst Moves • Helps beginners to develop a solid understanding of fundamental opening ideas • Gives casual players the ability to choose the opening that suits their style and taste • A tool for club players to test and review their opening repertoire • A reference book to which advanced players keep returning. Chess Opening Essentials is an accessihk prilllcr and a rcf'<'rt>uce book at the same time.lt gi\('S a flaYOllr of' hem eYer: opening "� orks and explains the similarities ,,�ith other openings as "ell as the di.lT<'rcnccs. In addition. it also points at the \arious midclleganl(' plans that appl_, r!fter the opening has ended. Crandmaster·s Dimitri Komarov and Stefan Djuric. and Tnternational \last er Clau dio Pantaleoni do not propagate forcing tactical 'ariations to be lllemorizcd lllC cbanicall.". hut t'xplain \\hat .\mr sbonlcl actnally he trying to achien' "h<'n playing the opt'ning of' ,,onr choiee.TIH'.' include the t n ain altt>rnati\t' responses aud gi\C' dear indications for furtlwr sluch. This thorough. understandable. and Y<'r.' readable manual gi'es .' ou a foundation on 'Yhich to build :our repertoire. Beginning awl inrproYing cht>ss pla:ers slwuld get this p<merfnl hook before the.' bu.Y an)" othe r chess opening hook! * * * ""\ot onl.' is the main line e'plaincd and the reader made lwngr. ' f' or more. hut he gets enongh strategic knmdt>clge aud insider-Lips to get. e\en ifhc pla.'s the opening f'or the first time. into th<' middlegamf' saf'el_,." Rochadc Em·opa Magazine '"�\II s.\stems are clearl.' listed and presented. \\ithout losing itscl f iu e1rdlcss \ariations." Ft·eeChess.com "'I don't think sonwthing like Chess Opening Essentials. in this size .. wl <'.\.ists. For pla_ \<'rs '"ith a rating up to IDOO, this hook cmers a large part o f tlw road." Schake•·s.lnfo Essentials l.c4 First P solid understanding opening ideas ability opening opening repertoire accessible as listed size
 ISBN 9789056913083
 Games I Chess $28.95 € 24.95

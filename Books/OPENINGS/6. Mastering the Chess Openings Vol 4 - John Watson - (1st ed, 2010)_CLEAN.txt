@@ -1,3 +1,20 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 2065
+- 1 Reti: Open and Closed Variations | jump_offset: 26
+- 2 Reti: Slav Variations | jump_offset: 236
+- 3 Modern Kingside Fianchetto | jump_offset: 387
+- 4 Modern Queenside Fianchetto | jump_offset: 657
+- 5 Gambits | jump_offset: 939
+- 6 f-Pawns and Reversed Openings | jump_offset: 1286
+- 7 Symmetry and its Descendants | jump_offset: 1646
+- 8 Irregular Openings and Initial Moves | jump_offset: 1796
+- 9 Choosing and Preparing Openings | jump_offset: 2012
+- 10 The Future of Openings | jump_offset: 2115
+- Index of Openings for Volume 4 | jump_offset: 2122
+- Index of Players | jump_offset: 2207
+- Index of Openings for the Entire Series | jump_offset: 2209
+<<<END_TOC>>>
 Mastering the Chess Openings Volume 4 John Watson
 UJAI~IBIITI
 First published in the UK by Gambit Publications Ltd 2010 Copyright Q John Watson 2010 The right of John Watson to be identified as the author of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988. All rights reserved. No part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form or by any means (electronic, mechanical, photo- copying, recording or otherwise), without prior permission of the publisher. In particular, no part of this publication may be scanned, transmitted via the Internet or uploaded to a website without the publisher's permission. Any person who does any unauthorized act in relation to this publica- tion may be liable to criminal prosecution and civil claims for damage.

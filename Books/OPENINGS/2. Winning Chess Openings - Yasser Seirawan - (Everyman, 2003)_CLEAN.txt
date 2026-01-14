@@ -1,3 +1,16 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Early Days | jump_offset: 66
+- Basic Opening Principles | jump_offset: 246
+- Classical King Pawn Openings | jump_offset: 277
+- Classical Queen Pawn Openings | jump_offset: 725
+- Modern King Pawn Defenses | jump_offset: 1095
+- Modern Queen Pawn Defenses | jump_offset: 1723
+- An Opening Solution | jump_offset: 2280
+- A Solution to the Queen Pawn Opening | jump_offset: 2419
+- A Solution to the King Pawn Opening | jump_offset: 2520
+- Glossary | jump_offset: 2706
+<<<END_TOC>>>
 Contents Acknowledgments v Introduction vii
 CHAPTER ONE
 Early Days 1

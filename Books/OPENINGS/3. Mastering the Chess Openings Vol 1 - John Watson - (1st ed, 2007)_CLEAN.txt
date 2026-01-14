@@ -1,3 +1,23 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- TOC | jump_offset: 516
+- 1 The Nature of Chess Openings: Fundamentals | jump_offset: 27
+- 2 Opening Ideas and Positional Features | jump_offset: 120
+- 3 The Significance of Structure | jump_offset: 207
+- 4 Introduction to 1 e4 and the Open Games | jump_offset: 562
+- 5 Giuoco Piano | jump_offset: 32
+- 6 Two Knights Defence | jump_offset: 646
+- 7 Philidor Defence | jump_offset: 36
+- 8 Ruy Lopez | jump_offset: 780
+- 9 King's Gambit | jump_offset: 42
+- 10 Introduction to the Semi-Open Games | jump_offset: 44
+- 11 Sicilian Defence | jump_offset: 45
+- 12 Caro-Kann Defence | jump_offset: 46
+- 13 French Defence | jump_offset: 48
+- 14 Pirc Defence | jump_offset: 50
+- Index of Players | jump_offset: 51
+- Index of Openings | jump_offset: 51
+<<<END_TOC>>>
 Mastering the Chess Openings Volume 1 John Watson First published in the UK by Gambit Publications Ltd 2006 Copyright Q John Watson 2006 The right of John Watson to be identified as the author of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988. All rights reserved. This book is sold subject to the condition that it shall not, by way of trade or otherwise, be lent, re-sold, hired out or otherwise circulated in any form of binding or cover other than that in which it is published and without a similar condition including this condition being im posed on the subsequent purchaser.
 ISBN-13: 978-1-904600-60-2
 ISBN-10: 1-904600-60-3

@@ -1,3 +1,18 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 21
+- 1 Introduction to 1 d4 and the Closed Games | jump_offset: 22
+- 2 Queen's Gambit Declined | jump_offset: 23
+- 3 Slav and Semi-Slav | jump_offset: 445
+- 4 Introduction to the Indian Defences | jump_offset: 752
+- 5 Nimzo- lndian Defence | jump_offset: 756
+- 6 Queen's Indian Defence | jump_offset: 1087
+- 7 King's Indian Defence | jump_offset: 1237
+- 8 Grunfeld Defence | jump_offset: 1707
+- 9 Modern Benoni | jump_offset: 1987
+- Index of Players | jump_offset: 2185
+- Index of Openings | jump_offset: 2189
+<<<END_TOC>>>
 Mastering the Chess Openings Volume 2 John Watson First published in the UK by Gambit Publications Ltd 2007 Copyright Q John Watson 2007 The right of John Watson to be identified as the author of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988. All rights reserved. This book is sold subject to the condition that it shall not, by way of trade or otherwise, be lent, re-sold, hired out or otherwise circulated in any form of binding or cover other than that in which it is published and without a similar condition including this condition being im posed on the subsequent purchaser.
 ISBN- 1 3 : 978-1 -904600-69-5
 ISBN- 10: 1 -904600-69-7

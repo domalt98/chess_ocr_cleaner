@@ -1,3 +1,29 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 57
+- Game 01 : Capablanca-Corzo, 09th Match, 1901 | jump_offset: 536
+- Game 02 : Capablanca-Corzo, 11th Match, 1901 | jump_offset: 922
+- Game 03 : Marshall-Capablanca, 05th Match, 1909 | jump_offset: 1424
+- Game 04 : Marshall-Capablanca, 23rd Match, 1909 | jump_offset: 530
+- Game 05 : Capablanca-Kreymbourg, New York, 1910 | jump_offset: 667
+- Game 06 : Capablanca-Corzo/Blanco/Portela, Havana, 1910 | jump_offset: 846
+- Game 07 : Capablanca-Janowsky, San Sebastian, 1911 | jump_offset: 1003
+- Game 08 : Leonhardt-Capablanca, San Sebastian, 1911 | jump_offset: 1186
+- Game 09 : Carranza-Capablanca, Buenos Aires, 1911 | jump_offset: 1385
+- Game 10 : Capablanca-Janowsky, New York, 1913 | jump_offset: 536
+- Game 11 : Kline-Capablanca, New York, 1913 | jump_offset: 1669
+- Game 12 : Stapfer-Capablanca, New York, 1913 | jump_offset: 559
+- Game 13 : Capablanca-Kupchik, Havana, 1913 | jump_offset: 1980
+- Game 14 : Capablanca-Beynon, New York, 1913 | jump_offset: 2119
+- Game 15 : Duras-Capablanca, New York, 1913 | jump_offset: 2239
+- Game 16: Capablanca-Teichmann, Berlin, 1913 | jump_offset: 2488
+- Game 17: Capablanca-Salwe, Lodz, 1913 | jump_offset: 2640
+- Game 18 : Nimzowitsch-Capablanca, Riga, 1913 | jump_offset: 2781
+- Game 19 : Fahndrich/Kaufmann-Capablanca/Reti, Vienna, 1914 | jump_offset: 3017
+- Game 20 : Capablanca-Villegas, Buenos Aires, 1914 | jump_offset: 3169
+- Game 21 : Ed. Lasker-Capablanca, New York, 1915 | jump_offset: 3283
+- Game 22 : Capablanca-White, New York, 1915 | jump_offset: 3432
+<<<END_TOC>>>
 CAPABLANCA'S
 BEST CHESS
 ENDINGS

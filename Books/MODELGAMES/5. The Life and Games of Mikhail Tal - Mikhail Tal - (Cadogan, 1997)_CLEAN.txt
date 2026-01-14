@@ -1,3 +1,15 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- 1 My First Steps | jump_offset: 23
+- 2 A Young Master | jump_offset: 210
+- 3 T he Road to the World | jump_offset: 450
+- 4 World Champion | jump_offset: 620
+- 5 Unwell Again | jump_offset: 843
+- 6 Recovered | jump_offset: 1123
+- 7 A Candidate Again | jump_offset: 1250
+- 8 My 'Death' and my New Life | jump_offset: 1612
+- 9 Recent Events | jump_offset: 1750
+<<<END_TOC>>>
 The Life and Games of Mikhail Tal
 CADOGAN CHESS SERIES
 Other classic biographical and autobiographical titles available from Cadogan include: The Sorcerer's Apprentice Bronstein & Fiirstenberg Fire on Board: Shirov's Best Games Alexei Shirov The Genius of Paul Morphy Chris Ward Paul Keres Best Games, volume 1 Paul Keres Best Games, volume 2 Egon Varnusz Vasily Smyslov: Endgame Virtuoso Vasily Smyslov Taimanov's Selected Games Mark Taimanov Timman's Selected Games Studies and Games Jan Timman

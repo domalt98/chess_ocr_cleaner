@@ -1,3 +1,14 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 29
+- Chapter 1 First Principles Endings, Middlegame and Openings | jump_offset: 97
+- Chapter 2 Endgame Principles | jump_offset: 339
+- Chapter 3 Planning a Win in Middlegame Play | jump_offset: 539
+- Chapter 4 General Theory | jump_offset: 603
+- Chapter 5 Endgame Strategy | jump_offset: 785
+- Chapter 6 Further Openings and Middlegames | jump_offset: 977
+- Chapter 7 Illustrative Games | jump_offset: 1051
+<<<END_TOC>>>
 iciu no
 
 CHESS

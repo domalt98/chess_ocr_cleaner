@@ -1,3 +1,16 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 19
+- Symbols | jump_offset: 19
+- Introduction: An Unusual Experiment | jump_offset: 19
+- 1 Analysis of Variations | jump_offset: 20
+- 2 Positional Judgement | jump_offset: 489
+- 3 Planning | jump_offset: 1009
+- 4 The Ending | jump_offset: 1227
+- 5 A Player’s Knowledge | jump_offset: 29
+- Solutions to the Exercises | jump_offset: 1338
+- Index of Names | jump_offset: 1375
+<<<END_TOC>>>
 Think Like a Grandmaster Alexander Kotov Translated by Bernard Cafferty Algebraic Classics Series Series Editor: Dr. John Nunn GM B. T. Batsford Ltd, London First published in the USSR English translation Q B.T. Batsford Ltd, 1971 Fifth impression 1978 Reprinted 1980, 1982, 1984, 1985, 1986, 1988, 1990, 1994 First algebraic edicon 1995 Reprinted 2001, 2002 (twice), 2004
 ISBN 0 7134 7885 3
 British Library Cataloguing-in-Publicaton Data. A catalogue record for this book is available from the Britsh Library. All rights reserved. No part of this book may be reproduced, by any means, without prior permission of the publisher. Typeset by John Nunn and Petra Fink and printed mmGreat Britain by Creative Print and Design for the publisher: BT Batsford Ltd The Chrysalis Building Bramley Road London W10 6SP An imprint of Chrysalis Books Group plc United States and Canada by Sterling Publishing Co., South, New York, NY10016, USA

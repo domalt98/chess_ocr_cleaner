@@ -1,3 +1,25 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- 1 Activity | jump_offset: 5504
+- 2 The Art of Pawn Play | jump_offset: 467
+- 3 Do Not Rush! | jump_offset: 191
+- 4 The Right Exchange | jump_offset: 1139
+- 5 Thinking in Schemes | jump_offset: 1638
+- 6 Weaknesses | jump_offset: 1749
+- 7 The Fight for the Initiative | jump_offset: 2155
+- 8 Prophylaxis and Prevention of Counterplay | jump_offset: 2355
+- 9 The Bishop-Pair in the Endgame | jump_offset: 2418
+- 10 Zugzwang | jump_offset: 2879
+- 11 Fortresses | jump_offset: 327
+- 12 Stalemate | jump_offset: 3506
+- 13 Mate | jump_offset: 3592
+- 14 Domination | jump_offset: 1920
+- 15 Converting an Advantage | jump_offset: 1943
+- 16 The Art of Defence | jump_offset: 4234
+- 17 Typical Mistakes | jump_offset: 686
+- 18 Rules of Thumb | jump_offset: 4581
+- Solutions | jump_offset: 217
+<<<END_TOC>>>
 Contents Foreword by John Nunn 8 Authors' Preface Introduction Symbols
 1 Activity 15
 A) King Activity 15 Al) An Endgame is Not a Middlegame 15 A2) Cutting Off the King 24 A3) Barriers 29 A4) The Bodycheck 30 A5) The Reti Manoeuvre 32 B) Rook Activity 33 C) Activity in General 36

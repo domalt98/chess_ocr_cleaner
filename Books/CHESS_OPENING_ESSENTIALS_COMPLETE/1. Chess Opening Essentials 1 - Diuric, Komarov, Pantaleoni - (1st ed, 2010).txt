@@ -1,3 +1,34 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Introduction | jump_offset: 1126
+- Centre Game | jump_offset: 44
+- Danish Gambit | jump_offset: 1946
+- Bishop’s Opening | jump_offset: 44
+- Vienna Game | jump_offset: 788
+- King’s Gambit | jump_offset: 776
+- Latvian Caunter Gambit | jump_offset: 1080
+- Philidor Defence | jump_offset: 1245
+- Petroff Defence | jump_offset: 1452
+- Ponziani Opening | jump_offset: 1873
+- The Goring Gambit | jump_offset: 326
+- Scotch Gambit | jump_offset: 1931
+- Scotch Game | jump_offset: 1933
+- Four Knights- Opening | jump_offset: 1456
+- Hungarian Defence | jump_offset: 2459
+- Evans Gambit | jump_offset: 2491
+- Giuoco Piano | jump_offset: 2825
+- The Italian Game | jump_offset: 1988
+- Two Knights Defence | jump_offset: 1984
+- Ruy Lopez | jump_offset: 2068
+- Minor Defences after 1.e4 | jump_offset: 6492
+- Nimzowitsch Defence | jump_offset: 6492
+- Scandinavian Defence | jump_offset: 6492
+- Alekhine Defence | jump_offset: 6492
+- Pirc Defence | jump_offset: 6492
+- Caro-Kahn Defence | jump_offset: 6492
+- French Defence | jump_offset: 6492
+- Sicilian Defence | jump_offset: 2068
+<<<END_TOC>>>
 Chess Opening ussentials Tue Compcete 1.e4 Chess Opening Essentials Volume 1 - The Complete 1.e4 Chess Opening Essentials Volume 1 - The Complete 1 .e4 Stefan Djuric - Dimitri Komarov - Claudio Pantaleoni Chess Opening Essentials Volume 1 - The Complete 1.e4 New In Chess 2007 Stefan Djuric - Dimitri Komarov - Claudio Pantaleoni Chess Opening Essentials Volume 1 - The Complete 1 .e4 New In Chess 2007
 2007 New In Chess
 Q Messaggerie Scacchistiche 2004 Revised and updated Engish edition published by New In Chess, Alkmaar, The Netherlands www.newinchess.com This edition is published by arrangement with Le due Torri - Chess Department Store - Italy - www.chess.it All rights reserved. No part of this book may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior written permission from the publisher. Editor: Pierluigi Passerotti Cover design: Steven Boland Supervisor: Peter Boel Translator: Richard Jones Proofreading: René Olthof Production: Anton Schermer

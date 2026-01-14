@@ -1,3 +1,14 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 20
+- Introduction | jump_offset: 20
+- Chess Notation and Symbols | jump_offset: 20
+- The Kingside Attack | jump_offset: 20
+- The Queen's Pawn Opening | jump_offset: 135
+- The Chess Master Explains his Ideas | jump_offset: 371
+- Index of Players | jump_offset: 582
+- Index of Openings | jump_offset: 51
+<<<END_TOC>>>
 First published by Faber & Faber First algebraic edition published in the United Kingdom in 1998 by Batsford
 151 Freston Road
 London W10 6TH An imprint of Anova Books Company Ltd Copyright Q Batsford Text copyright Q Irving Chemev The moral right of the author has been asserted. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means electronic, mechanical, photocopying, recording or otherwise, without the prior written permission of the copyright owner.

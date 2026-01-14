@@ -1,3 +1,20 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 27
+- Other Signs and Symbols | jump_offset: 156
+- 1 The Basic Mates | jump_offset: 28
+- 2 Pawn Endings | jump_offset: 34
+- 3 Knight Endings | jump_offset: 1012
+- 4 Bishop Endings | jump_offset: 1865
+- 5 Bishop vs Knight | jump_offset: 2783
+- 6 Rook Endings | jump_offset: 3605
+- 7 Rook vs Minor Piece(s) | jump_offset: 6345
+- 8 Rook and Minor Piece vs | jump_offset: 7515
+- 9 Queen Endings | jump_offset: 8031
+- 10 Further Queen Endings | jump_offset: 8423
+- 11 Endgame Strategy | jump_offset: 9088
+- 12 Further Exercises | jump_offset: 9251
+<<<END_TOC>>>
 Karsten Muller and Frank Lamprecht
 FUNDAMENTAL
 CHESS
