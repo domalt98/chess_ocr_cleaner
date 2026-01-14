@@ -1,3 +1,14 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 19
+- Games 1-20 | jump_offset: 20
+- Games 21-40 | jump_offset: 42
+- Games 41-60 | jump_offset: 62
+- Games 61-80 | jump_offset: 82
+- Games 81-100 | jump_offset: 102
+- Book | jump_offset: 295
+- Games 101-104 | jump_offset: 122
+<<<END_TOC>>>
 Alexander Alekhine's Best Games Alexander Alekhine Additional material by C.H.O'D. Alexander and John Nunn Foreword by Garry Kasparov Games selected by Raymond Keene Algebraic Classics Series Series Editor: Dr. John Nunn GM B. T. Batsford Ltd, London The material in this book was first published in three volumes by G. Bell and Sons: My Best Games of Chess 1908·1923 (1927) My Best Games of Chess 1924·1937 (1939) Alekhine's Best Games of Chess 1938·45 ( 1949) First Batsford Edition 1989 This selection of algebraicised games Q B . T. Batsford 1996 Additional material Q John Nunn 1996
 ISBN 0 7 134 7970 1
 British Library Cataloguing-in-Publication Data. A catalogue record for this book is available from the British Library. All rights reserved. No part of this book may be reproduced, by any means, without prior permission of the publisher. Typeset by John Nunn and printed in Great Britain by Redwood Books, Trowbridge, Wilts for the publishers, B . T. Batsford Ltd,

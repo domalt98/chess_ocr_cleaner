@@ -1,3 +1,15 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Introduction | jump_offset: 16
+- King and Pawn Endings | jump_offset: 308
+- Queen and Pawn Endings | jump_offset: 656
+- Rook Endings | jump_offset: 785
+- Bishop Endings | jump_offset: 1791
+- Knight Endings | jump_offset: 2006
+- Bishop vs. Knight | jump_offset: 2318
+- Rook vs. Minor Pieces | jump_offset: 2679
+- The Rare and the "Perfect" | jump_offset: 2948
+<<<END_TOC>>>
 inning Chess ataaattaaLfiranUtateiLjl/f!-
 EVERYMAN CHESS
 Contents Acknowledgments Introduction

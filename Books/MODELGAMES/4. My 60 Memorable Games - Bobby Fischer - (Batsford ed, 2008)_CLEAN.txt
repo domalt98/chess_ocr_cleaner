@@ -1,3 +1,14 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 17
+- Games 1-15 | jump_offset: 726
+- Games 16-30 | jump_offset: 983
+- Games 31-45 | jump_offset: 1660
+- Games 46-60 | jump_offset: 2462
+- Bobby Fischer’s Tournament and Match Record | jump_offset: 3127
+- Index to Openings | jump_offset: 3132
+- List of Opponents | jump_offset: 3134
+<<<END_TOC>>>
 This edition first published in the United Kingdom in 2008 by B T Batsford Old West London Magistrates' Court
 10 Southcombe Street
 London

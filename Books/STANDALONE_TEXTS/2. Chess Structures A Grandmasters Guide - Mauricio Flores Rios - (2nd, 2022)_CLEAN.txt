@@ -1,3 +1,33 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 34
+- Introduction | jump_offset: 902
+- Chapter 1 The Isolani | jump_offset: 376
+- Chapter 2 Hanging Pawns | jump_offset: 554
+- Chapter 3 Caro-Kann Formation | jump_offset: 888
+- Chapter 4 Slav Formation | jump_offset: 1229
+- Chapter 5 The Carlsbad Formation | jump_offset: 1593
+- Chapter 6 Stonewall | jump_offset: 1911
+- Chapter 7 Grunfeld Centre | jump_offset: 2399
+- Chapter 8 NajdorfType I | jump_offset: 2620
+- Chapter 9 Najdorf Type II | jump_offset: 2964
+- Chapter 10 The Hedgehog | jump_offset: 3398
+- Chapter 11 The Maroczy | jump_offset: 3983
+- Chapter 12 Asymmetric Benoni | jump_offset: 4409
+- Chapter 13 Symmetric Benoni | jump_offset: 4736
+- Chapter 14 KID Type I | jump_offset: 5088
+- Chapter 15 KID Type II | jump_offset: 5466
+- Chapter 16 KID Type III | jump_offset: 5807
+- Chapter 17 Open KID | jump_offset: 6271
+- Chapter 18 KID Complex | jump_offset: 6582
+- Chapter 19 French Type I | jump_offset: 6859
+- Chapter 20 French Type II | jump_offset: 7094
+- Chapter 21 French Type III | jump_offset: 7483
+- Chapter 22 Miscellaneous | jump_offset: 7768
+- Chapter 23 Exercises | jump_offset: 8176
+- Chapter 24 Solutions | jump_offset: 8307
+- Name Index | jump_offset: 8912
+<<<END_TOC>>>
 First edition 2015 by Quality Chess UK Ltd Copyright Q 2015 Mauricio Flores Rios Chess Structures -A Grandmaster Guide All rights reserved. No part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, electrostatic, magnetic tape, photocopying, recording or otherwise, without prior permission of the publisher. Paperback ISBN 978-1-78483-000-7 Hardcover ISBN 978-1-78483-001-4 All sales or enquiries should be directed to Quality Chess UK Ltd,
 20 Balvie Road, Milngavie, Glasgow G62 7TA, United Kingdom
 Phone +44 141 204 2073 e-mail: info@qualitychess.co. uk website: www .qualitychess.co.uk Distributed in North America by National Book Network Distributed in Rest of the World by Quality Chess UK Ltd through Sunrise Handicrafts, ul. Skromna 3, 20-704 Lublin, Poland Typeset by Jacob Aagaard Proofreading by Andrew Greet, Colin McNab and Daniel McGowan Edited by David Friedgood and John Shaw Cover design by www .adamsondesign.com Author photograph by Luciana Morales Printed in Estonia by Tallinna Raamatutriikikoja LLC Chess Structures A Grandmaster Guide By Mauricio Flores Rios Quality Chess www .qualitychess.co. uk Contents Foreword by Axel Bachmann Keys to Symbols used and Bibliography Preface Introduction Family One - d4 and ... dS

@@ -1,3 +1,22 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 25
+- Bibliography | jump_offset: 25
+- 1 Introduction to the English Opening | jump_offset: 26
+- 2 Reversing the Sicilian: 2nd Moves | jump_offset: 27
+- 3 Introduction to 2 Nc3: Black Plays Flexibly | jump_offset: 29
+- 4 2... Nf6 and g3 Systems | jump_offset: 430
+- 5 Four Knights Variation | jump_offset: 702
+- 6 Three Knights and Closed English | jump_offset: 953
+- 7 Pure Symmetrical Variation | jump_offset: 1245
+- 8 Main Lines with 2 Nf3 and d4 | jump_offset: 1599
+- 9 Asymmetrical Variations | jump_offset: 1977
+- 10 The Hedgehog Variation | jump_offset: 2160
+- 11 Mikenas Attack and Nimzo-English | jump_offset: 44
+- 12 King's Indian Variations | jump_offset: 2440
+- Index of Variations | jump_offset: 2515
+- Index of Players | jump_offset: 2635
+<<<END_TOC>>>
 Mastering the Chess Openings Volume 3 John Watson tHAI~IBIITI First published in the UK by Gambit Publications Ltd 2008 Copyright Q John Watson 2008 The right of John Watson to be identified as the author of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988. All rights reserved. This book is sold subject to the condition that it shall not, by way of trade or otherwise, be lent, re-sold, hired out or otherwise circulated in any form of binding or cover other than that in which it is published and without a similar condition including this condition being im- posed on the subsequent purchaser.
 ISBN-13: 978-1-904600-98-5
 ISBN -10: 1-904600-98-0

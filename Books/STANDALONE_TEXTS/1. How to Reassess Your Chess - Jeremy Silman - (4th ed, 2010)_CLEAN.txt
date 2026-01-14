@@ -1,3 +1,21 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 4614
+- Part One Imbalances | jump_offset: 29
+- Part Two Minor Pieces | jump_offset: 1441
+- Part Three Rooks | jump_offset: 1273
+- Part Four Psychological Meanderings | jump_offset: 156
+- Part Five Target Consciousness | jump_offset: 3283
+- Part Six Statics Vs. Dynamics | jump_offset: 1368
+- Part Seven Space | jump_offset: 4195
+- The Great Land Grab | jump_offset: 2015
+- Part Eight Passed Pawns | jump_offset: 4257
+- Creation | jump_offset: 1441
+- Part Nine Other Imbalances | jump_offset: 4340
+- Answers to Tests | jump_offset: 34
+- Instructive Articles | jump_offset: 34
+- Introduction | jump_offset: 4614
+<<<END_TOC>>>
 HOW TD REA55E55
 YDUR CHE55
 ���=TIDN

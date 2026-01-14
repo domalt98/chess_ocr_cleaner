@@ -1,3 +1,35 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- CONTENTS | jump_offset: 1064
+- ROUND ONE | jump_offset: 380
+- ROUND TWO | jump_offset: 1186
+- ROUND THREE | jump_offset: 693
+- ROUND FOUR | jump_offset: 1477
+- ROUND FIVE | jump_offset: 75
+- ROUND SIX | jump_offset: 2208
+- ROUND SEVEN | jump_offset: 98
+- ROUND EIGHT | jump_offset: 112
+- ROUND NINE | jump_offset: 90
+- ROUND TEN | jump_offset: 100
+- ROUND ELEVEN | jump_offset: 115
+- ROUND TWELVE | jump_offset: 126
+- ROUND THIRTEEN | jump_offset: 1808
+- ROUND FOURTEEN | jump_offset: 143
+- ROUND SIXTEEN | jump_offset: 2208
+- ROUND SEVENTEEN | jump_offset: 2265
+- ROUND EIGHTEEN | jump_offset: 2336
+- ROUND NINETEEN | jump_offset: 186
+- ROUND TWENTY | jump_offset: 2596
+- ROUND TWENTY-ONE | jump_offset: 2587
+- ROUND TWENTY-TWO | jump_offset: 2649
+- ROUND TWENTY-THREE | jump_offset: 2775
+- ROUND TWENTY-FOUR | jump_offset: 2862
+- ROUND TWENTY-SIX | jump_offset: 3004
+- ROUND TWENTY-SEVEN | jump_offset: 3079
+- ROUND TWENTY-EIGHT | jump_offset: 3158
+- ROUND TWENTY-NINE | jump_offset: 3229
+- ROUND THIRTY | jump_offset: 240
+<<<END_TOC>>>
 ZURICH
 INTERNATIONAL CHESS
 TOURNAMENT, 1953

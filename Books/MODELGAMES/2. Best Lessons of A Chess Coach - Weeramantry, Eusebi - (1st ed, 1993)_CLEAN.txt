@@ -1,3 +1,12 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- TOC | jump_offset: 1754
+- PART A OUTPOST SQUARES | jump_offset: 23
+- PART B WEAK SQUARES | jump_offset: 447
+- PART C THE INITIATIVE | jump_offset: 968
+- PART D COORDINATION AND CONTROL | jump_offset: 1595
+- GLOSSARY | jump_offset: 2491
+<<<END_TOC>>>
 BEST LESSONS OF
 A CHESS COACH
 Extended Edition Sunil Weeramantry and Edward Eusebi

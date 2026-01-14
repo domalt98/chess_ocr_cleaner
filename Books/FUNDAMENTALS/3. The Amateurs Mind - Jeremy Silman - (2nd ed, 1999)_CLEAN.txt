@@ -1,3 +1,18 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- CONTENTS | jump_offset: 37
+- PREFACE | jump_offset: 38
+- INTRODUCTION | jump_offset: 38
+- THE BATTLE BETWEEN BISHOPS AND KNIGHTS | jump_offset: 38
+- AOUISITION OF THE CENTER, TERRITORY, AND SPACE | jump_offset: 482
+- THE CONFUSING SUBJECT OF PAWN STRUCTURE | jump_offset: 886
+- MATERIAL | jump_offset: 241
+- DEVELOPMENT AND INITIATIVE | jump_offset: 1316
+- MANY IMBALANCES ONE BOARD | jump_offset: 38
+- USING THE ROOKS | jump_offset: 1994
+- THE CURSE OF THE MINDLESS KING HUNTER | jump_offset: 2125
+- WHICH SIDE OF THE BOARD SHOULD YOU PLAY ON? | jump_offset: 2270
+<<<END_TOC>>>
 Other Siles Press books by Jeremy Silman How to Reassess Your Chess--3rd Edition . The Complete Book of Chess Strategy
 INTO
 by Jeremy

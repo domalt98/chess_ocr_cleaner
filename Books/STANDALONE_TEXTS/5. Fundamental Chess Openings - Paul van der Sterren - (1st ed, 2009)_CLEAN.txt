@@ -1,3 +1,10 @@
+<<<BEGIN_TOC>>>
+TABLE_OF_CONTENTS:
+- Contents | jump_offset: 2289
+- 1.d4 | jump_offset: 232
+- Flank Openings | jump_offset: 1771
+- 1.e4 | jump_offset: 280
+<<<END_TOC>>>
 First published in English language in the UK by Gambit Publications Ltd 2009 Based on De wereld van de schaakopeningen, published in three volumes in Dutch language by Tirion Uitgevers BV Copyright Q Paul van der Sterren 2009 The right of Paul van der Sterren to be identified as the author of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988. All rights reserved. This book is sold subject to the condition that it shall not. by way of trade or otherwise, be lent, re-sold, hired out or otherwise circulated in any form of binding or cover other than that in which it is published and without a similar condition including this condition being imposed on the subsequent purchaser.
 ISBN-13: 978-1-906454-13-5
 ISBN-10: 1-906454-13-2
