@@ -1,0 +1,1420 @@
+iciu no
+
+CHESS
+FUNDAMENTALS
+
+BY
+JOSE' R. CAPABLANCA
+CHESS CHAMPION OF THE WORLD
+
+NEW YORK
+HARCOURT, BRACE AND COMPANY
+LONDON: G. BELL AND SONS, LTD.
+Preface
+
+Chess Fundamentals was first published thirteen years ago. Since then there have appeared at different times a number of articles dealing with the so-called Hypermodern Theory. Those who have read the articles may well have thought that something new, of vital importance, had been discovered. The fact is that the Hypermodern Theory is merely the application, during the opening stages generally, of the same old principles through the medium of somewhat new tactics. There has been no change in the fundamentals. The change has been only a change of form, and not always for the best at that.
+
+In chess the tactics may change but the strategic fundamental principles are always the same, so that Chess Fundamentals is as good now as it was thirteen years ago. It will be as good a hundred years from now; as long in fact as the laws and rules of the game remain what they are at present. The reader may therefore go over the contents of the book with the assurance that there is in it everything he needs, and that there is nothing to be added and nothing to be changed. Chess Fundamentals was the one standard work of it kind thirteen years ago and the author firmly believes that it is the one standard work of its kind now.
+
+J. R. Capablanca New York Sept. 1, 1934 Contents
+
+Chapter 1 First Principles
+1. Simple Mates 1
+2. Pawn Promotion 3
+3. Pawn Endings 4
+4. Some Winning Positions in the Middlegame 6
+5. Relative Value of the Pieces 8
+6. General Strategy of the Opening 9
+7. Control of the Centre 9
+8. Traps 11
+
+Chapter 2 Endgame Principles
+9. A Cardinal Principle 12
+10. A Classical Ending 12
+11. Obtaining a Passed Pawn 13
+12. How to find out Which Pawn will be First to
+Queen 14
+13. The Opposition 14
+14. The Relative Value of Knight and Bishop 16
+15. How to Mate with a Knight and a Bishop 20
+16. Queen against Rook 20
+
+Chapter 3 Planning a Win in Middlegame Play
+17. Attacking Without the Aid of Knights 22
+18. Attacking with Knights as a Prominent Force 23
+19. Winning by Indirect Attack 24
+
+Chapter 4 General Theory
+20. The Initiative 25
+21. Direct Attacks en Masse 25
+22. The Force of the Threatened Attack 26
+23. Relinquishing the Initiative 27
+24. Cutting Off Pieces from the Scene of Action 28
+25. A Player's Motives Criticized in a Specimen
+Game 30
+
+Chapter 5 Endgame Strategy
+26. The Sudden Attack from a Different Side 32
+27. The Danger of a Safe Position 34
+28. Endings with One Rook and Pawns 35
+29. A Difficult Ending: Two Rooks and Pawns 36
+30. Rook, Bishop and Pawns vs. Rook, Knight and
+Pawns 38
+
+Chapter 6 Further Openings and Middlegames
+31. Some Salient Points about Pawns 40
+32. Some Possible Developments from a Ruy Lopez
+33. The Influence of a "Hole" 42
+
+Chapter 7 Illustrative Games Game 1 Marshall, F - Capablanca, J 1-0 45 Game 2 Rubinstein, A - Capablanca, J 1-0 46 Game 3 Janowski, D - Capablanca, J 1-0 47 Game 4 Capablanca, J - Znosko Borovsky, E 0-1 48 Game 5 Lasker, E - Capablanca, J 1-0 49 Game 6 Chajes, O - Capablanca, J 1-0 51 Game 7 Capablanca, J - Burn, A 1-0 53 Game 8 Mieses, J - Capablanca , J 0-1 54 Game 9 Capablanca, J - Teichmann, R 1-0 55 Game 10 Capablanca, J - Marshall, F 1-0 56 Game 11 Capablanca, J - Janowski, D 1-0 57 Game 12 Capablanca, J - Chajes, O 1-0 58 Game 13 Morrison, J - Capablanca, J 0-1 59 Game 14 Marshall, F - Capablanca, J 0-1 60
+
+[diagram]
+Example 2 [Capablanca, J. RJ
+[diagram]
+Example 1 fCezpflWawca J. RJ l.Ke2 [Since the Black King is in the center of the board, the best way to proceed is to advance your own King. | Kd5 2,Ke3 [As the Rook has not yet come into play, it is better to advance the King straight into the center of the board, not in front, but to one side of the other King ] Kc4 [Should now the Black King move 2...Ke5 the Rook drives it back hv 3.Rh5+ ]
+3.Rh5 Kc3
+[If instead 3,.,Kb4 there follows 4.Kd3 ]
+4.Rh4 [Keeping the King confined to as few squares as
+possible. Now the ending may continue as follows.] Kc2 5.Rc4+ Kb3 6.Kd3 Kb2 7.Rb4+ Ka3 8 Kc3 Ka2 [It should be noticed how often the White King has moved next to the Rook, not only to defend it but also to reduce the mobility of the opposing King. Now White mates in three moves.] 9.Ra4+ Kbl lO.RaS [Or any square on the a-file, forcing the Black King in front of the White.] Kcl 11.Rai# l.Ra7 [In this position the power of the Rook is demonstrated by the first move, which immediately confines the Black King to the last rank- and the mate is quickly accomplishedJ Kg8 2,Kg2 [The combined action of King and Rook is needed to arrive at a position in which mate can be forced. The general principle for a beginner to follow is to keep his King as much as possible on the same rank, or, as in this case, tile, as the opposing King. When, in this case, the King has been brought to the sixth rank, it is better to place it not on the same file, but on the one next to it towards the centerJ Kf8 3.Kf3 Ke8 4,Ke4 Kd8
+5.Kd5 Kc8
+|On move 5 Black could have played 5...Ke8 and, according to principle. White would have continued 6.Kd6 Kf8 (the Black King will ultimately be forced to move in front of the White King and be mated by a8) 7.Ke6 KgS 8.Kf6 Kh8
+9.Kg6 Kg8 10,Ra8# ]
+6.Kd6
+[Not 6.Kc6 because then the Black King will go back to Kd8 and it will take much longer to mate. ] 6,..Kb8 [If now the King moves back to 6...Kd8 7.Ra8# mates as once, |
+7.Rc7 Ka8 8_Kc6 Kb8 9.Kb6 Ka8 10.Rc8#
+[It has taken exactly ten moves to mate from the original position ] 1 Chapter 1
+
+First Principles Endings, Middlegame and Openings
+
+1. Simple Mates
+
+The first thing a student should do, is to familiarize himself with the power of the pieces. This can best be done by learning how to accomplish quickly some of the simple mates.
+
+In the ending of Rook and King against King, the principle is to drive the opposing King to the last line of any side of the board.
+
+In this position it took eleven moves to mate, and, under any conditions, I believe it should be done in under twenty. While it may be monotonous, it is worth while for the beginner to practice such things, as it will teach him the proper handling of his pieces.
+
+[diagram]
+Example 4 /Capab/anca, J. RJ
+[diagram]
+Example 3 /Capab/artczr, /?./ [Since the Black King is in the corner, White can play as follows,] l,Bd3 Kg7 2.Bg5 Kf7 3.Bf5 [Already the Black King is confined to a few squares. If the Black King, in the original position, had been in the center of the board, or away from the last row, White should have advanced his King, and then, with the aid of his Bishops, restricted the Black King's movements to as few squares as possible. | Kg7 4Kf2 | In this ending the Black King must not only be driven to the edge of the board, but be must also be forced into a comer, and, before a mate can be given, the While King must be brought to the sixth rank and, at the same time, in one of the last two files; in this case either h6, g6, 17, or f8; and as h6 and g6 are the nearest squares, it is to either of these squares that the King ou girt to go.] Kf7 5.Kg3 Kg7 6.Kh4 Kf7 7.Kh3 Kg7
+8.Bg6 Kg8 9.Kh6 KfB [White must now mark time
+and move one of the Bishops, so as to force the Black King to go back. | 10.Bh5 Kg8 ll.Be7 KhS | Now the White Bishop must Lake up a position from which it can give check next move along the White diagonal, when the Black King moves back to g8. |
+12.Bg4 Kg8 13.Be6+ KhS 14.Bf6#
+l.Qc6 | A good way to begin is to make the first move with the Queen, trying to limit the Black King's mobility as much as possible.] Kd4 2.Kd2 [Already the Black King has only one available square. ] Ke5 3.Ke3 Kf5 4.Qd6 Kg5 ' [Should Black play 4,..Kg4then 5.Qg6+ J
+5.Qe6 Kh4 6.Qg6 Kh3 7.KI3 Kh4
+[However the King moves the Queen mates, c.g.
+7...K112 8.Qg2# ]
+8.Qg4#
+2
+
+Now we come to two Bishops and King against King. Here it has taken fourteen moves to force the mate and, in any position, it should be done in under thirty.
+
+In all endings of this kind, care must be taken not to drift into a stalemate.
+
+In this particular ending one should remember that the King must not only be driven to the edge of the board, but also into a corner. In all such endings, however, it is immaterial whether the King is forced on to the last rank, or to an outside file, e.g. h4 or a5, e8 or d1.
+
+We now come to Queen and King against King. As the Queen combines the power of the Rook and the Bishop, it is the easiest mate of all and should always be accomplished in under ten moves.
+
+In this ending, as in the case of the Rook, the Black King must be forced to the edge of the board; only the Queen being so much more powerful than the Rook, the process is far easier and shorter. These are the three elementary endings and in all of these the principle is the same. In each case the cooperation of the King is needed. In order to force a mate without the aid of the King, at least two Rooks are required.
+
+[diagram]
+Example 6 [Capablanca, J, R.J O Pawn Promotion
+[diagram]
+Example 5 [Capablanca, J. R.] l.Ke4 Ke6 [Black docs not allow the While King to advance, therefore White is now compelled to advance his pawn so as to force Black to move away. lie is then able to advance his own King.] 2.e3 Kf6 3.Kd5 Ke7 [If Black had played 3...Kf5 then White would be forced to advance the pawn 4.c4+ since he could not advance his King without leaving Black the opportunity to play 4.. Qe4, winning the pawn. Since he has not done so, it is better for White not to advance the pawn yet, since its own safety does not require it, but to try to bring the King still further forward. ]
+4.Ke5 Kd7 5,Kf6 Ke8 [Nowr the White pawn is too
+far back and it may be brought up within protection of the King.] 6.e4 Kd7 7.e5 [Now it would not do to play 7.KF7 because Black would play Kd6 and While would have to bring back his King to protect the pawn. Therefore he must continue. |
+7...Ke8
+11lad he moved anywhere else 7...Kd8 While could have played 8.K17 followed by the advance of the pawn to c6. c7, c8: all these squares being protected by lhe King. As Black tries to prevent that. While must now force him to move away, at the same time al wavs keeping lhe King in front of the pawn. ]
+8.Ke6 '
+[ 8.e6 would make it a draw; as Black would then play Kf8 and we w ould have a position similar to the one explained in connection with Example 5. ]
+8..,Kf8 9.Kd7 [King moves and the White pawn
+advances to e8, becomes a Queen, and it is all over.] I.e3 Ke5 [The position is drawn, and the way to proceed is for Black to keep the King always directly in front of the pawn, and when it cannot be done, as for instance in this position because of the White King, then the Black King must be kept in front of the White King ] 2.Kd3 Kd5 [This is a very important move. Any other move would lose, as will be shown later. As the Black King cannot be kept close up to the pawn, it must be brought as far forward as possible and. at the same lime, in front of the White King ] 3 e4+ Ke5
+4.Ke3 Ke6 5.Kf4 Kf6 ( Again the same case. As the
+White King comes up, the Black King must be kept in front of it, since it cannot be brought up to the pawn. [
+6.e5+ Ke6 7.Ke4 Ke7 8 Kd5 Kd7 9.e6+ Ke7
+10,Ke5 Ke8 ll>Kd6 Kd8 [If now White advances the pawn, the Black King gets in front of it.] 12.e7+ [If instead of advancing the pawn White withdraws his King, Black brings his King up to the pawn and, when forced to go back, he moves to e8 in front of the pawn ready to come up again or to move in front of the White King, should the latter advance.] Ke8 13.Ke6 [White must either give up the pawn or play this move, and a stalemate results.] 3
+2. Pawn Promotion
+
+The gain of a pawn is the smallest material advantage that can be obtained in a game; and it often is sufficient to win, even when the pawn is the only remaining unit, apart from the Kings. It is essential, speaking generally, that the King should be in front of his pawn, with at least one intervening square.
+
+If the opposing King is directly in front of the pawn, then the game cannot be won. This can best be explained by the following examples.
+
+The whole mode of procedure is very important and the student should become thoroughly conversant with its details; for it involves principles to be taken up later on, and because many a beginner has lost identical positions from lack of proper knowledge. At this stage of the book I cannot lay too much stress on its importance.
+
+In this position White wins, as the King is in front of his pawn and there is one intervening square. The method to follow is to advance the King as far as is
+[diagram]
+Example 8 [Capablanca, J. R.J l.Ke4 [In this position White can*! win by 1X5 Black's best answer would be g6 draws. The student should work this out ] [He cannot win by l.g5 because g6 draws. lliis. because of the principle of the "opposition" which governs this ending as well as all the pawn endings al readys given, and which will be explained more fully later on. White can win, however, by playing 1. Qe4. ] l...Ke6 [If l...g6 2.Kd4 Ke6 3.Kc5 Kf6 4,Kd6 Kt7 5.g5 Kg7 6.Ke7 Kg8 7.Kf6 Kh7 8. Kf7 and White wins the pawn. ] 2X5+ Kf6 3.Kf4 g6 [If this pawn is kept back we arrive al the ending shown in Example 7. | 4.g5+ Kf7
+5.f6 Ke6 6.Ke4 Kf7 7.Ke5 Kf8 | White cannot force
+his l-pawn into a Queen (find out why), hut by giving his pawn up he can win the other pawn and the game. |
+8.f7 Kxf7 9.Kd6 Kf8 10.Ke6 Kg7 lLKe7 Kg8
+12.Kf6 Kh7 13.K17 Kh8 14.Kxg6 Kg8 [There is
+still some resistance in Black's position. In fact, the on ly way to w in is the one given here, as will easily be seen by experiment.] 15,Kh6 Kh8 16,g6 Kg8 17. g7 Kf7 18.Kh7 [And White Queens the pawn and wins ] O Pawn Endings
+[diagram]
+Example 7 [Capablanca. J. R.] LKd7 [White cannot win by playing In this position White cannot win by playing 1.f6 because Black plays, not l...gxf6, which would lose, but Kg8 and if then
+2.fxg7 (If 2/7+ Kf8 and White will never be able
+to Queen his pawn without losing it ,*if 2.Ke7 gxf6
+3.Kxf6 Kf8 and draws. ) 2. .. Kxg7 and draws, as
+shown in a previous case. White, however, can win in the original position by playing l. d7, ] L,.Kg8 2,Ke7 Kh8 3X6 gxf6 [If 3".Kg8 4.17+ Kh8 5X8Q#]
+4.KX7 f5 5.g7+ Kh7 6.g8Q+ Kh6 7.Qg6#
+4 compatible with the safety of the pawn and never to advance the pawn until it is essential to its own safety.
+
+This ending is like the previous one, and for the same reasons should be thoroughly understood before proceeding any further.
+
+3. Pawn Endings
+
+I shall now give a couple of simple endings of two pawns against one, or three against two, that the reader may see how they can be won. Fewer explanations will be given, as it is up to the student to work things out for himself. Furthermore, nobody can learn how to play well merely from the study of a book; it can only serve as a guide and the rest must be done by the teacher, if the student has one; if not, the student must realize by long and bitter experience the practical application of the many things explained in the book.
+
+This ending, apparently so simple, should show the student the enormous difficulties to be surmounted, even when there are hardly any pieces left, when playing against an adversary who knows how to use the resources at his disposal, and it should show the student, also, the necessity of paying strict attention to these elementary things which form the basis of true mastership in Chess.
+
+[diagram]
+Example 10 [Capablanca, J. R.J
+[diagram]
+Example 9
+J. R. ]
+l.g4 [IL is generally advisable Lo advance the pawn that is free from opposition. | a5 [Black makes an advance on the oilier side, and now White considers whether or not he should stop the advance. In this case cither way wins, but generally the advance should be stopped when the opposing King is far away ] 2a4 Kf6 3.h4 Ke6 [If 3...Kg6 then the simple counting will show that White goes to the other side with his King, wins the pawn at a5, and then Queens his single pawn long before Black can do the same. |
+4.g5 Kf7 5 Kf5 Kg7 6h5 Kf7
+[If 6...116 7.g6 and then the two pawns defend themselves and White can go to the other side with his King, to win the other pawn. | 7Ke5 [Now it is time to go lo the other side with the King, win the Black pawn and Queen the single pawn Iliis is typical of all such endings and should be worked out by the student in this case and in similar cases which he can pul up. |
+1.fS Ke7
+[If 1...g6 2.1'6 and we have a similar ending to one of those shown previously ] [If 1...116 2.g5 ]
+2.Ke5 Kf7 3,g5 Ke7
+[If 3...g6 4.f6 J [and if 3...116 4.g6+ and in either ease we have a similar ending to one of those already shown. ]
+4.h5 [And by following it up with g5-g6 we have the
+same ending previously shown. If Black should play
+4...g6 himself we have the following.] g6 5.hxg6
+hxg6 6.f6+ [With the same result.] 5
+
+In this ending White can win by advancing any of the three pawns on the first move, but it is convenient to follow the general rule, whenever there is no good reason against it, of advancing the pawn that has no pawn opposing it.
+
+Having now seen the case when the pawn are all on one side of the board we shall now examine a case when there are pawns on both sides of the board.
+
+In these cases the general rule is to act immediately on the side where you have the superior forces.
+
+Winning Middlegames Example 12 /Ca/rabtawca, J. R.] Winning Middlegames Example 11 [Capablanca, J. RJ
+1.Nxc6 Bg5
+[I le cannot take 1...Qx c6 because White threatens 32 mate by 2.Qxh7 1 followed by 3,Rh3 1. ]
+2.Ne7+ Qxe7
+[Again if 2...Bxe7 3.Qxh7+ Kxh7 4.Rh3+ KgS
+5.Rh8# ]
+3.Rxe7 Bxe7 4.Qd7 [White wins one of the two
+Bishops, remains with a Queen and a Bishop against a Rook and a Bishop, and should therefore win easily.] l...Re8 [White now uncovers his real and most effective threat.] 2.Qxh7+ Kxh7 3.Rh3+ Kg8
+4.Rh8#
+6
+4. Some Winning Positions in the Middlegame
+
+By the time the student has digested all that has been previously explained, he, no doubt, is anxious to get to the actual game and play with all the pieces. However, before considering the openings, we shall devote a little time to some combinations that often arise during the game, and which will give the reader some idea of the beauty of the game, once he becomes better acquainted with it.
+
+It is Black's move, and thinking that White merely threatens to play 2.Qh6 and to mate on g7, Black plays
+1...Re8 threatening mate by way of 2...Re1#. White
+now uncovers his real and most effective threat.
+
+The same type of combination may come as the result of a somewhat more complicated position.
+
+White is a piece behind, and unless he can win it back quickly he will lose.
+
+These two examples show the danger of advancing the g-pawn one square, after having castled on that side.
+
+Winning Middlegames Example 13 fCapaManca, J. R.] Winning Middlegames Example 1 5
+J. R.]
+[diagram]
+LNf6+ gxf6 [Forced, otherwise 1- Kh8 2.Qxh7# mates. | 2,Qg3+ Kh8 3.Bxf5# l.Bxh7+ Kxh7 2.Qh5+ Kg8 3,Ng5 [Black cannot slop mate al h7 except by sacrificing the Queen. J Qe4
+4.Nxe4 [White is left with a Queen for a Rook, j
+Winning Middlegames Example 14 [Capab/anca, J. RJ
+1.Bxd7 Qxd7
+[If l...Bxe4 2.Qc3 threatens mate, and therefore wins the Queen, which is already attacked. ]
+2.Nf6+ gxf6 3.Rg3+ Kh8 4.Bxf6#
+7
+
+This is another very interesting type of combination. Black has a Rook for a Knight and should therefore win, unless White is able to obtain some compensation immediately. White, in fact, mates in a few moves.
+
+The same type of combination occurs in a more complicated form in this position.
+
+A very frequent type of combination is shown in this position. Here White is the Exchange and a pawn behind, but he can win quickly.
+
+Winning Middlegames Example 16 fCapab/anca. J. RJ l.Nxe7+ [Tins clears the line for the Bishop.] Bxe7 [To stop the Knight from moving to g5 after the sacrifice of the Bishop] 2.Rxe7 Nxe7 [Best ]
+3.Bxh7+ Kxh7
+[If 3...Kh8 4.Qh5 g6 5.Bxg6+ Kg7 6.Qh7+ Kf6
+7.g5+ Ke6 8.Bxf7+ Rxf7 9.Qe4# ]
+4.Qh5+ Kg8 5.Ng5 Rc8 6.Qh7+ KfB 7.Qh8+ Ng8
+8.NH7+ Ke7 9.Rel+ Kd8 10,Qxg8#
+8
+
+The same type of combination is seen here in a more complicated form.
+
+This combination is rather long and has many variations, therefore a beginner will hardly be able to fathom it; but, knowing the type of combination, he might under similar circumstances undertake and carry out a brilliant attack which he would otherwise never think of. It will be seen that all the combinations shown have for a foundation the proper coordination of the pieces, which have all been brought to bear against a weak point.
+
+5. Relative Value of the Pieces
+
+Before going on to the general principles of the openings, it is advisable to give the student an idea of the proper relative value of the pieces. There is no complete and accurate table for all of them, and the only thing to do is to compare the pieces separately.
+
+For all general theoretical purposes the Bishop and the Knight have to be considered as of the same value, though it is my opinion that the Bishop will prove the more valuable piece in most cases; and it is well known that two Bishops are almost always better than two Knights.
+
+The Bishop will be stronger against pawns than the Knight, and in combination with pawns will also be stronger against the Rook than the Knight will be.
+
+A Bishop and a Rook are also stronger than a Knight and a Rook, but a Queen and a Knight may be stronger than a Queen and a Bishop.
+
+A Bishop will often be worth more than three pawns, but a Knight very seldom so, and may even not be worth so much.
+
+A Rook will be worth a Knight and two pawns, or a Bishop and two pawns, but as said before, the Bishop will be a better piece against the Rook.
+
+Two Rooks are slightly stronger than a Queen. They are slightly weaker than two Knights and a Bishop, and a little more so than two Bishops and a Knight. The power of the Knight decreases as the pieces are changed off. The power of the Rook, on the contrary, increases.
+
+The King, a purer defensive piece throughout the middlegame, becomes an offensive piece once all the pieces are off the board, and sometimes even when there are one or two minor pieces left. The handling of the King becomes of paramount importance once the endgame stage is reached.
+
+C49
+General Strategy of Opening Example 17 fCapablanca, J. KJ l.e4 e5 2.NI3 [This is both an attacking and a developing move. Black can now either reply with the identical move or play as follows.] Nc6 [This developing move at the same time defends the e- pawn.] 3,Nc3 Nf6 [These moves are of a purely developing nature ] 4.B65 [It is generally advisable not to bring this Bishop out until one Knight is out, preferably the King's Knight. rIhe Bishop could also have been played to c4, but it is advisable whenever possible to combine development and attack.] Bb4 [Black replies in the same manner, threatening a possible exchange of Bishop for Knight with ...ftxe4 to follow. | 5,O-O | An indirect way of preventing 5... Jbcc3, which more experience or study will show to be bad. At the same lime the Kook is brought into action in the center, a very important point ] O-O [Black follows the same line of reasoning.] 6,d3 d6 [These moves have a two-fold object, viz.: to protect the e-pawn and to open the diagonal for the development of the Queen's Bishop. | 7.Bg5 [A very powerfill move, which brings us to the middlegame stage, as there is already in view a combination to win quickly by ftd5. The threat makes il impossible for Black to continue the same course. Ibcrc is a long analysis showing that Black should lose if he also plays 7...j g4.] Bxc3 [He is now forced to play this capture, as experience has shown, thus bringing up to notice three things.]
+6. General Strategy of the Opening
+
+The main thing is to develop the pieces quickly. Get them into play as fast as you can.
+
+From the outset two moves, 1.e4 or 1.d4, open up lines for the Queen and a Bishop. Therefore, theoretically one of these two moves must be the best, as no other first move accomplishes so much. Suppose we begin
+1.e4:
+
+This example brings to our notice three things.
+
+First, the complete development of the opening has taken only seven moves. (This varies up to ten or twelve moves in some very exceptional cases. As a rule, eight should be enough.) Second, Black has been compelled to exchange a Bishop for a Knight, but as a compensation he has isolated White's a-pawn and doubled a pawn. (This, at such an early stage of the game, is rather an advantage for White, as the pawn is doubled towards the centre of the board.) Third, White by the exchange brings up a pawn to control the square d4, puts Black on the defensive, as experience will show, and thus keeps the initiative, an unquestionable advantage. The value of the initiative is explained in Chapter 4.
+
+The stratetical principles expounded above are the same for all the openings, only their tactical application varies according to the circumstances.
+
+Before proceeding further I wish to lay stress on the following point which the student should bear in mind.
+
+Before development has been completed no piece should be moved more than once, unless it is essential in order to obtain either material advantage or to secure freedom of action.
+
+The beginner would do well to remember this, as well as what has already been stated: viz., bring out the Knights before bringing out the Bishops.
+
+7. Control of the Centre
+
+The four squares, e4, e5, d4, and d5 are the centre squares, and control of these squares is called control of the centre. The control of the centre is of great importance. No violent attack can succeed without controlling at least two of these squares, and possibly three. Many a manoeuvre in the opening has for its sole object the control of the centre, which invariably ensures the initiative. It is well always to bear this in mind, since it will often be the reason of a series of moves which could not otherwise be properly understood. As this book progresses I shall dwell more fully on these different points. At present I shall devote some time to openings taken at random and explain the moves according to general principles. The student will in that way train his mind in the proper direction, and will thus have less trouble in finding a way out when confronted with a new and difficult situation.
+
+C41
+Control of the Center Example 19 /Capab/anca, J. R./ I.e4 e5 2.Nf3 d6 3,d4 Bg4 | A bad move, which violates one of the principles set down, according to which at least one Knight should be developed before the Bishops are brought out, and also because it exchanges a Bishop for a Knight, which in the opening is generally bad. unless there is some compensation.]
+4.dxe5 Bxf3
+[ 4...dxe5 loses a pawn. ]
+5 Qxf3 dxe5 6 Bc4 Qf6
+[If 6 -.Nf6 7.Qb3 wins a pawn. |
+7.Qb3 b6 8.Nc3 c6 [To prevent 9.Nd5. Black,
+however, has no pieces out except his Queen, and White, w ith a Bishop and a Knight already development, has a chance of obtaining an advantage quickly by playing 9,Qd5 anyway. lhe student is left to work out the many variations arising from this position.]
+C41
+Control of the Center Example 18 fCapahZtfnca, J. RJ Le4 e5 2.Nf3 d6 [ A timid move. Black assumes a defensive attitude at once. On principle the move is wrong. In the openings, whenever possible, pieces should be moved in preference to pawns.] 3,d4 | White takes the offensive immediately and strives to control the center so as to have ample room to deploy his forces.] Nd7 | Black does not wish to relinquish the center and also prefers the text move to 3...Nc6 which would be the more natural square for the Knight. But on principle 3... d7 is wrong, because it blocks the action of the Queen's Bishop, and instead of facilitating the action of Black's pieces, tends, on the contrary, to cramp them. ]
+4.Bc4 h6
+| Black is forced to pay the penalty of his previous move. Such a move on Black's part condemns by itself any form of opening that makes it necessary'. While threatened 5,Qg5 and Black could not stop it with 4...Be? because of 5.dxe5 Nxe5 (if 5...dxe5
+6.Qd5) 6.Nxe5 dxe5 7,Qh5 and White wins a pawn
+and has besides a perfectly safe position. | 5,Nc3 Ngf6 6.Be3 Be7 7.Qe2 [It should be noticed that White docs not castle yet. The reason is that he wants to deploy his forces first, and through the last move force Black to play 7...c6 to make room for the Queen as White threatens 3;Sdl, to be followed by 9. dxc5. Black's other alternatives would finally force him to play r..exd4, thus abandoning the center to White.] c6 8.Rdl Qc7 9.(KO [With this last move White completes his development, while Black is evidently somewhat hampered. A simple examination will suffice to show that White's position is unassailable. There are no weak spots in his armour, and his pieces are ready for any maneuver that he may wish to carry out in order to begin the attack on the enemy's position.)
+
+The student should carefully study this example. It will show him that it is sometimes convenient to delay castling. I have given the moves as they come to mind without following any standard book on openings. Whether the moves given by me agree or not with the standard works, I do not know, but at the present stage of this book it is not convenient to enter into discussions of mere technicalities which the student will be able to understand when he has become more proficient.
+
+These examples will show the practical application of the principles previously enunciated. The student is warned against playing pawns in preference to pieces at the beginning of the game, especially pawn to Rook's third, which are moves very commonly indulged in by beginners.
+
+Opening Traps Example 21 fCapub/cmca, J. KJ
+[diagram]
+Opening Traps Example 20 [Capablanca, J. RJ
+1."Nf6
+[Black having the move, should play l...e6 But suppose he plays l...Nf6 instead. ]
+2.Bxf7+
+[ 2.Ne5 would also give White the advantage, the threat being of course if 1...&xdl 2.j|xf7 mate. Nor docs Bh5 help matters, because of 3.Qxh5 and l...He6 leaves Black with the inferior position. But White's move in the text secures an immediate material advantage, and the beginner at any rate should never miss such an opportunity for the sake of a speculative advantage in position. |
+2...Kxf7 3,Ne5+ Kg8 4.Nxg4 [And White has won a
+pawn besides having the better position.] l.dxeS Nxe5 [Black should have recaptured with the pawn.] 2.Nxe5 Bxdl 3.Bxf7+ Ke7 4.Nd5#
+8. Traps
+
+I shall now give a few positions or traps to be avoided in the openings, and in which (practice has shown) beginners are often caught.
+
+There are a good many other traps - in fact, there is a book written on traps on the chess board; but the type given above is the most common of all. A Classical Ending Example 23 [Capablanca, J. R.] A Cardinal Principle Example 22 [Capablanca, J. R.] I.Kg3 Ke3 2.Kg2 [If 2.Kg4 Kf2 3.h4 g6 will win. ]
+2...Kf4 3.KJ2 Kg4 4 Kg2 Kh4 J.Kgl Kh3
+[The first part has been completed. The second part will be short and will consist in advancing the h-pawn up to the King.] 6.Khl h5 7.Kgl h4 (This ends the second part. The third part will consist in timing the advance of the g-pawn so as to play ,..g4-g3 when the White King is at hl . It now becomes evident how necessary it is to be able to move the g-pawn either one or two squares according to the position of the White King, as indicated previously. In this case, as it i s White's move, the pawn will be advanced two squares since the White King will be in the comer, but if it were now Black's move the g-pawn should only be advanced one square since the White King is at gl .]
+8.Khl g5 9 Kgl g4 lO.Khl g3 ll,hxg3
+[If 11.Kgl g2 ] II. ..hxg3 12.Kgl g2 13.K12 Kh2 [And wins.] I.a4 a5 2.Kg2 Kf4 [Best: sec why.] 3.b4 [Best.] axb4 4.a5 b3 5,a6 b2 6.a7 blQ 7,a8Q Qe4+
+8.Qxe4+ Kxe4 [This brings the game to a position
+which is won by Black, and which constitutes one of the classical endings of King and pawns. I shall try to explain the guiding idea of it to those not familiar with it.] Chapter 2
+
+Endgame Principles
+
+We shall now go back to the endings in search of a few more principles, then again to the middle game, and finally to the openings once more, so that the advance may not only be gradual but homogeneous. In this way the foundation on which we expect to build the structure will be firm and solid.
+
+9. A Cardinal Principle
+
+In the position shown above, White can draw by playing 1.b4 according to the general rule that governs such cases, i.e. to advance the pawn that is free from opposition. But suppose that White, either because he does not know this principle or because he does not, in this case, sufficiently appreciate the value of its application; suppose, we say, that he plays 1.a4. Then Black can win by playing 1...a5, applying one of the cardinal principles of the high strategy of chess:
+
+A unit that holds two.
+
+In this case one pawn would hold two of the opponent's pawns. The student cannot lay too much stress on this principle. It can be applied in many ways, and it constitutes one of the principal weapons in the hands of a master.
+
+The example given should be sufficient proof. We have given a few moves of the main variation after
+1.a4.
+
+10. A Classical Ending
+
+In this position White's best line of defence consists in keeping his pawn where it stands at h2. As soon as the pawn is advanced it becomes easier for Black to win. On the other hand, Black's plan to win (supposing that White does not advance his pawn) may be divided into three parts. The first part will be to get his King to h3, at the same time keeping intact the position of his pawns. (This is all important, since, in order to win the game, it is essential at the end that Black may able to advance his rearmost pawn one or two squares according to the position of the White King.)
+
+It is in this analytical way that the student should try to learn. He will thus train his mind to follow a logical Obtaining a Passed Pawn Example 24b fCapa&Zaraa, J. 2?.J Obtaining a Passed Pawn Example 24a [Capablanca, J. /?./ l".b6 2,cxb6 cxb6 [It would not be advisable to try to obtain a passsed pawn because the White pawns would be nearer to Queen than the single Black pawn.]
+3.axb6 axb6 [The game properly played would be a
+draw. The student should work this out for himself.]
+1.b6 axb6
+[If l...cxb6 2.a6]
+2.c6 bxc6 3.a6 lAs in this case the White pawn is
+nearer to Queen than any of the Black pawns, White will win.] sequence in reasoning out any position. This example is excellent training, since it is easy to divide it into three stages and to explain the main point of each part.
+
+The next subject we shall study is the simple opposition, but before we devote our time to it I wish to call attention to two things.
+
+11. Obtaining a Passed Pawn
+
+When three or more pawns are opposed to each other in some such position as the one in Example 24, there is always a chance for one side or the other of obtaining a passed pawn.
+
+In this position the way of obtaining a passed pawn is to advance the centre pawn.
+
+Now if it had been Black's move, see this example:
+
+The Opposition Example 26 [Capablcmca, J. R.] Which Pawn Queens First? Example 25 [Capablanca, J. RJ l.Kd4 Kd6 [Here Black had the option of either opposing the passage of the White King by playing l ...Ad6 or, if he prefers, he can pass with his own King by La4 h5 2,a5 h4 3,b6 axb6 [Now comes a little replying 1...KI'5 ] calculation. White can capture the pawn, but it he does so, he will not, when Queening, command the square where Black will also Queen his pawn. Therefore, instead of taking, he pushes.] 4.a6 h3 5.a7 h2 6.a8Q [.And wins.]
+12. How to find out Which Pawn will be First to
+Queen
+
+When two pawns are free, or will be free, to advance to Queen, you can find out, by counting, which pawn will be the first to succeed.
+
+In this position whoever moves first wins. The first thing is to find out, by counting, whether the opposing King can be in time to stop the passed pawn from Queening. When, as in this case, it cannot be done, the point is to count which pawn comes in first. In this case the time is the same, but the pawn that reaches the last square first and becomes a Queen is in a position to capture the adversary's Queen when he makes one.
+
+The student would do well to acquaint himself with various simple endings of this sort, so as to acquire the habit of counting, and thus be able to know with ease when he can or cannot get there first. Once again I must call attention to the fact that a book cannot by itself teach how to play. It can only serve as a guide, and the rest must be learned by experience, and if a teacher can be had at the same time, so much the faster will the student be able to learn.
+
+13. The Opposition
+
+When Kings have to be moved, and one player can, by force, bring his King into a position similar to the one shown in the following diagram (see Example 26 for more), so that his adversary is forced to move and make way for him, the player obtaining that advantage is said to have the opposition.
+
+Notice that the Kings are directly opposed to each other, and the number of intervening squares between them is odd - one in this case.
+
+The opposition can take the form show above, which can be called actual or close frontal opposition; or this form:
+
+which can be called actual or close diagonal opposition. The Opposition Example 27 /CqpaWottca, J, /?.J
+[diagram]
+1.Ke2 Ke7
+[The process is comparatively simple in the variation given above, but Black has other lines of defense more difficult to overcome. Let us begin anew with J...Kd8 Now if 2.Nd3 Nd7, or Bf2.Qe3 A'e7, and Black obtains the opposition in both cases, (When the Kings are directly in front on one another, and the number of intervening squares between the Kings is odd, the player who has moved last has the opposition.) Now in order to win, the White King must advance. Hiere is only one other square where he can go, f3. and that is the right place. Therefore it is seen that in such cases when the opponent makes a so-called wailing move, you must advance, leaving a rank or file free between the Kings. Therefore we have
+2.Kt3 Kc7 Now. it would be bad to advance,
+because then Black, by bringing up his King in front of your King, would obtain the opposition. It is White's turn to play a similar move to Black's first move, viz,: 3.Ke3 when brings the position back to the main variation shown. The student would do well to familiarize himself with the handling of the King in all examples of opposition. 11 often means the winning or losing of a game. ]
+2.Ke3 Ke6 3.Ke4 Kf6 4,Kf4
+[White can exercise the option of either playing
+4.Kd5 and thus passing with his King, or of playing
+the text move and prevent the Black King from passing, thereby keeping the opposition. Mere counting will show that the former course will only lead to a draw, therefore White takes the latter course. |
+4...Kg0
+[If 4...Ke6 5.Kg5 will win. ] 5*Ke5 Kg7 [Now by counting it will be seen that White wins by capturing Black's b-pawn.J Or again, this form:
+
+which can be called actual or close lateral opposition.
+
+In practice they are all one and the same. The Kings always on squares of the same colour, there is only one intervening square between the Kings, and the player who has moved last "has the opposition".
+
+Now, if the student will take the trouble of moving each King backwards as in a game in the same frontal, diagonal or lateral line respectively shown in the diagrams, we shall have what may be called distant frontal, diagonal and lateral opposition respectively.
+
+The matter of the opposition is highly important, and takes at times somewhat complicated forms, all of which can be solved mathematically; but, for the present, the student should only consider the most simple forms. (An examination of some of the examples of King and pawns endings already given will show several cases of close opposition.)
+
+In all simple forms of opposition, when the Kings are on the same line and the number of intervening squares between them is even, the player who has the move has the opposition.
+
+The above position shows to advantage the enormous value of the opposition. The position is very simple. Very little is left on the board, and the position, to a beginner, probably looks absolutely even. It is not the The Opposition Example 28 [Capablancat J. R.J LKhl! [The position of the pawns does not permit White to draw by means of the actual or close opposition, hence he takes the distant opposition; in effect, if I. Kfl (actual or close opposition) Kd2 2.Kf2 Kd3 and White cannot continue to keep the lateral opposition essential to his safety, because of his own pawn al 13. J l...Kd2 [If l...g4 2.Kg2 (White docs not play 2.fxg4 because e4 will win.) 2... Kd2 (If 2...gxf3 3.Kxf3 followed by 4.Qe4? w ill draw. ) 3.fxg4 e4 and mere counting w ill show that both sides Queen, draw ing the game. ] 2-Kh2 Kd3 3TO13! Ke2 4.Kg2 Ke3 5.Kg3 Kd4
+6.Kg4 | Attacking the pawn and forcing Black's answer.
+| Ke3 7.Kg3 [White can come back to g3, as already shown, and always keep the opposition ] Two Knights vs Pawn Example 29 [Capablanca, J. R.J LNg6 h4 [White cannot take the pawn because the game will be drawn, as explained before.] 2.Ne5 h3
+3.Nc6 h2 4.Nb5 hlQ 5.Nc7#
+case, however. Whoever has the move wins. Notice that the Kings are directly in front of one another, and that the number of intervening squares is even.
+
+Now as to the procedure to win such a position. The proper way to begin is to move straight up, as given in the example.
+
+This position is an excellent proof of the value of the opposition as a means of defence. White is a pawn behind and apparently lost, yet he can manage to draw.
+
+If the student will now take the trouble to go back to the examples of King and pawns which I have given in this book, he will realize that in all of them the matter of the opposition is of paramount importance; as, in fact, it is in nearly all endings of King and pawns, except in such cases where the pawn position in itself ensures the win.
+
+14. The Relative Value of Knight and Bishop
+
+Before turning our attention to this matter it is well to state now that two Knights alone cannot mate, but, under certain conditions of course, they can do so if the opponent has one or more pawns.
+
+In the above position White cannot win, although the Black King is cornered, but in the following position, in which Black has a pawn, White wins with or without the move.
+
+The reason for this peculiarity in chess is evident. White with the two Knights can only stalemate the King, unless Black has a pawn which can be moved.
+
+[diagram]
+Knight vs Two Pawns Example 31 [Capablanca, J. R.J
+[diagram]
+1...K112 2.Ng4i Khl 3.Kfl g5 4,Kf2 h2 5,Ne3 g4
+6.Nfl g3 i 7,Nxg3#
+Although he is a Bishop and a pawn ahead the following position cannot be won by White.
+
+It is the greatest weakness of the Bishop, that when the h-pawn Queens on a square of opposite colour and the opposing King is in front of the pawn, the Bishop is absolutely worthless. All that Black has to do is to keep moving his King close to the corner square.
+
+In the above position White with or without the move can win. We have taken the most difficult variation.
+
+Now that we have seen these exceptional cases, we can analyse the different merits and the relative value of the Knight and the Bishop.
+
+It is generally thought by amateurs that the Knight is the more valuable piece of the two, the chief reason being that, unlike the Bishop, the Knight can command both black and white squares. However, the fact is generally overlooked that the Knight, at any one time, has the choice of one colour only. It takes much longer to bring a Knight from one wing to the other. Also, as shown in the following example, a Bishop can stalemate a Knight; a compliment which the Knight is unable to return.
+
+The weaker the player the more terrible the Knight is to him, but as a player increases in strength the value of the Bishop becomes more evident to him, and of course there is, or should be, a corresponding decrease in his estimation of the value of the Knight as compared to the Bishop. In this respect, as in many others, the masters of today are far ahead of the masters of former generations. While not so long ago some of the very best among them, like Pillsbury and Tchigorin, preferred Knights to Bishops, there is hardly a master of today who would not completely agree with the statements made above.
+
+[diagram]
+This is about the only case when the Knight is more valuable than the Bishop:
+
+It is what is called a "block position", and all the pawns are on one side of the board. (If there were pawns on both sides of the board there would be no advantage in having a Knight.) In such a position Black has excellent chances of winning. Of course, there is an extra source of weakness for White in having his pawns on the same colour squares as his Bishop. This is a mistake often made by players. The proper way, generally, in an ending, is to have your pawns on the squares of opposite colour to that of your own Bishop. When you have your pawns on squares of the same colour the action of your own Bishop is limited by them, and consequently the value of the Bishop is diminished, since the value of a piece can often be measured by the number of squares it commands. While on this subject, I shall also call attention to the fact that it is generally preferable to keep your pawns on squares of the same colour as that of the opposing Bishop, particularly if they are passed pawns supported by the King. The principles might be stated thus:
+
+When the opponent has a Bishop, keep your pawns on squares of the same colour as your opponent's Bishop.
+
+Whenever you have a Bishop, whether the opponent has also one or not, keep your pawns on squares of the opposite colour to that of your own Bishop.
+
+Naturally, there principles have sometimes to be modified to suit the exigencies of the position.
+
+In the following position the pawns are on one side of the board, and there is no advantage in having either a Knight or a Bishop. The game should surely end in a draw.
+
+Now let us add three pawns on each side to the above position, so that there are pawns on both sides of the board.
+
+[diagram]
+
+It is now preferable to have the Bishop, though the position, if properly played out, should end in a draw. The advantage of having the Bishop lies as much in its ability to command, at long range, both sides of the board from a central position as in its ability to move quickly from one side of the board to the other.
+
+In the above position it is unquestionably an advantage to have the Bishop, because, although each player has the same number of pawns, they are not balanced on each side of the board. Thus, on the Kingside, White has three to two, while on the Queenside it is Black that has three to two. Still, with proper play, the game should end in a draw, though White has somewhat better chances.
+
+Here is a position in which to have the Bishop is a decided advantage, since not only are there pawns on both sides of the board but there is a passed pawn (h- pawn for White, a-pawn for Black). Black should have extreme difficulty in drawing this position, if he can do it at all.
+
+Again Black would have great difficulty in drawing this position.
+
+The student should carefully consider these positions. I hope that the many examples will help him to understand, in their true value, the relative merits of the Knight and Bishop. As to the general method of procedure, a teacher, or practical experience, will be best. I might say generally, however, that the proper course is these endings, as in all similar endings, is: Advance of the King to the centre of the board or towards the passed pawns, or pawns that are susceptible of being attacked, and rapid advance of the passed pawn or pawns as far as is consistent with their safety.
+
+To give a fixed line of play would be folly. Each ending is different, and requires different handling, according to what the adversary proposes to do. Mate with Knight & Bishop Example 39 [Capablanca, J. R] Queen against Rook Example 40 fCqpa&tfrtca, J. RJ l.Ke2 Kd7 [Black in order to make it more difficult, goes toward the white-squared comer.] 2.Kd3 Kc6
+3.Bf4 Kd5 4,Ne2 Kc5 5.Nc3 Kb4 6.Kd4 Ka5
+7.Kc5 Ka6 8.Kc6 Ka7 9,Nd5 Ka8 [The first part is
+now over; the Black King is in the white-squared comer. The second and last part will consist in driving the Black King now from aS to al or h8 in order to mate him. In this position al will be the quickest .|
+10.Nb6+ Ka7 U.Bc7 Ka6 12.Bb8 Ka5 13.Nd5
+Ka4 14.Kc5! [Black tries to make for hl with his King. White has two ways to prevent that, one by 14. Be 5 Kb3
+15.Ne3 and the other which I give as the text, and
+which I consider better for the student to learn, because it is more methodical and more in accord with the spirit of all these endings, by using the King as much as possible. |
+14...Kb3 15.Nb4 Kc3 16.Bf4 Kb3 17.Be5 Ka4
+18.Kc4 Ka5 19,Bc7+ Ka4 2O.Nd3 Ka3 21.Bb6
+Ka4 22.NB2+ Ka3 23.Kc3 Ka2 24.Kc2 Ka3
+25.Bc5+ Ka2 26.Nd3 Kai 27,Bb4 Ka2 28.Ncl+
+Kal 29.Bc3# LQe5+ [Not l.Qa6 because Rc7+ 2.Kb6 Rc6+ 3.Kxc6 Stalemate. The beginner w ill invariably fall into this trap. | L..Ka8 2.Qal+ Kb8 3.Qa5 [hi a few moves we have accomplished our object. The first part is concluded. Now wc come to the second pari. The Rook can only go to a while square, otherwise the first check with the Queen will win it.] Rb3 [The student should find out by himself how to win if 3...Rbl 4.Qe5+ Ka7 See example 41. ]
+4 Qe5+ Ka8 [Best.] 5.Qh8+ Ka7 6,Qh7+ Ka8
+7.Qg8+ Rb8 8,Qa2#
+Calculation by visualising the future positions is what will count.
+
+15. How to Mate with a Knight and a Bishop
+
+Now, before going back again to the middle game and the openings, let us see how to mate with Knight and Bishop, and, then, how to win with a Queen against a Rook.
+
+With a Knight and a Bishop the mate can only be given in the corners of the same colour as the Bishop.
+
+In this example we must mate either at a1 or h8. The ending can be divided into two parts. Part one consists in driving the Black King to the last line. We might begin, as is generally done in all such cases, by advancing the King to the centre of the board.
+
+It will be seen that the ending is rather laborious. There are two outstanding features: the close following by the King, and the controlling of the squares of the opposite colour of the Bishop by the combined action of the Knight and King. The student will do well to exercise himself methodically in this ending, as it gives a very good idea of the actual power of the pieces, and it requires foresight in order to accomplish the mate within the fifty moves which are granted by the rules.
+
+16. Queen against Rook
+
+This is one of the most difficult endings without pawns. The resources of the defence are many, and when used skilfully only a very good player will prevail within the limit of fifty moves allowed by the rules. (The rules is that at any moment you may demand that your opponent mate you within fifty moves. However, every time a piece is exchanged or a pawn advanced the counting must begin afresh.)
+
+This is one of the standard positions which Black can often bring about. Now, it is White's move. If it were Black's move it would be simple, as he would have to Queen against Rook Example 42
+J. /?./
+[diagram]
+l.Qg5+! [Suppose we play 1.Qe5i Kf8 2.Kg6 Rd7 The only defense, but, unfortunately, a very effective one, which makes it very difficult lor White, since he cannot play 3.Qe6 (Nor can he win quickly by
+3.Qc5+ because ATe# 4.Kf6 Rd6\ driving back the
+King, because of 3...Rg7+ 4.K1'6 Rg6+ draws. Now that we have seen the difficulties of the situation let us go back. The best move is 1,@g5 i . | L..Kh8 [If 1...KH7 2.Qg6 i KhS 3. Kh61 Let us go back again ] [ 1...KT8 2.Qd8+ Kg7 3.Kg5 R13 (The best place for the Rook away from the King. Instead 3...Kh7
+4.Qd4 l 5.Kf6 would lead to positions similar
+to those already seen ) 4Qd44- Kf8 5,Kg6 (5.Qd6+ Kg7 6 Qe5 Kf8 7Xg6 would also win the Rook. The text move, however, is given to show the finesse of such endings. While now threatens mate at d8. ) 5...Rg3+ 6.Kf6 Rf3+ 7.Ke6 Rh3 While threatened mate at h8. 8.QC4 1 and the Rook is lost. ] 2>Qe5+ Kh7 [Best.] 3,Kg5 Ra7! [Best. If 3...Rg7 + then 4.Kf6 leads to a position similar to those in examples 40 and 41. ] 4*Qe4+ Kg8 5.Qc4+ Kh7 6+Kf6 Rg7 7.Qh4+ Kg8
+8.Qh5 | And we have the position of Example 40 with
+Black to move,] move his Rook away from the King (find out why), and then the Rook would be comparatively easy to win. We deduce from the above that the main object is to force the Black Rook away from the defending King, and that, in order to compel Black to do so, we must bring about the position in the diagram with Black to move. Once we know what is required, the way to proceed becomes easier to find.
+
+The procedure here is very similar. The things to bear in mind are that the Rook must be prevented from interposing at b8 because of an immediate mate, and in the same way the King must be prevented from going either a6 or c8.
+
+We shall now examine a more difficult position.
+
+Many players would be deceived by this position. The most likely looking move is not the best.
+
+Note, in these examples, that the checks at long range along the diagonals have often been the key to all the winning manoeuvres. Also that the Queen and King are often kept on different lines. The student should carefully go over these positions and consider all the possibilities not given in the text.
+
+He should once more go through everything already written before proceeding further with the book.
+
+Attacking without Knights Example 44 [Capablanca, J. R.J Attacking without Knights Example 43 [Capab/anca, J. R.j LRxa7+ Qxa7 2,Ra5 [And Black moves; White mates.]
+[diagram]
+Attacking without Knights Example 45 [Capabianca, J. RJ l."Rdg8! 2.RJ2 [If 2.Qxe7 Rxg2+ 3.Khl Bd5 and mate follows in a few moves. |
+2...Rxg2+ 3.Kfl Bc4+ 4.Nxc4 Rgl#
+l.Rxh6' gxh6 2.Bxh6+ Ke7 [If 2...Nxli6 3.Rxh6 and Black would he helpless. ] 3,Qh7+ Ke8 4.Qxg8+ Kd7 5,Qh7+ Qe7 6.Bf8 Qxh7 7Rxh7E Ke8 8.Rxa7 [Black Resigns] Chapter 3
+
+Planning a Win in Middlegame Play
+
+I shall now give a few winning positions taken from my own games. I have selected those that I believe can be considered as types, i.e. positions that may easily occur again in a somewhat similar form. A knowledge of such positions is of great help; in fact, one cannot know too many. It often may help the player to find, with little effort, the right move, which he might not be able to find at all without such knowledge.
+
+17. Attacking Without the Aid of Knights
+
+It is Black's move, and as he is a Knight and pawn behind he must win quickly, if at all.
+
+Black's last move was ...e4-e3, played with the object of stopping what he thought was White threat, viz.:
+1.Ra5, to which he would have answered 1...Qf4+ and
+drawn by perpetual check. White, however, has a more forceful move, and he mates in three moves.
+
+White has a beautiful position, but still he had better gain some material, if he can, before Black consolidates his defensive position. Attacking with Knights Example 47 fCapab/anca, J. R.] Attacking with Knights Example 46 [Capab/anca. J. R.J l.Bxh7+ Kxh7 2,Ng5+ Kg6 [Best If 2...K116 3.Nxf7i wins the Queen ] [and if 2...Kg8 3.Qh5 with an trresistahle attack. ] 3,Qg4 f5 4.Qg3 Kh6 [White finally won. This position is elaborated under Example 50.]
+1.Nfxg7 Nc5
+[Evidently an error which made the winning easier for White. as he simply took the Rook w ith the Knight and kept up the attack. Black should have played 1...Nxg7 Then would have followed 2.Nf6-1 Kg6 3.Nxd7 ft (Best) 4.e5 Kf7 5.Nxf6 Re7
+6.Ne4 and Black should lose, ]
+2.Nxe8
+
+In these few examples the attacking is being done by Rooks and Bishops in combination with the Queen. There are no Knights to take part in the attack. We shall now give some examples in which the Knights play a prominent part as an attacking force.
+
+18. Attacking with Knights as a Prominent Force
+
+White is two pawns behind. He must therefore press on his attack.
+
+The student should carefully examine the position, as the sacrifice of the Bishop in similar situations is typical, and the chance for it is of frequent occurrence in actual play.
+
+Winning by Indirect Attack Example 49 jCapablanca, J. R] Winning by Indirect Attack Example 48 [C'apablanca, J. R.] I.Nd41 [The obvious move LBc4 might be good enough, since after Rad8 2.b4 would make it difficult for Black. ] L,.cxd4 2.Rxc6 Nb4 [There is nothing better, as White threatened 3. c4.] 3.Bc4+ Kh8 4.Re6 d3
+5.Rxd3 [And White, with the better position, is a pawn
+ahead J
+1...Ra8 Za4
+| White's best move was 2.b3 when would follow Nxd2 3.Qxd2 Ra3 and Black would ultimately win the a- pawn, always keeping a slight advantage in position. Hie text move makes matters easier. ]
+2...Nxd2 3,Qxd2 Qc4 4Rfdl Reb8
+[Black could have regained the pawn by playing
+4...Bxc3 but he sees that there is more to be had, and
+therefore increases the pressure against White's Queenside. He now threatens, among other things,
+5...gxb2. 1
+5.Qe3 Rb4 [Threatening to win the Exchange by 6-
+Bd4.] 6-Qg5 Bd4+ 7,Khl Rab8 [This threatens to win the Knight, and thus forces White to give up the Exchange ] 8.Rxd4 Qxd4 9.Rdl Qc4 [Now Black will recover his pawn.)
+19. Winning by Indirect Attack
+
+We have so far given positions where the attacks were of a violent nature and directed against the King's position. Very often, however, in the middlegame attacks are made against a position or against pieces, or even pawns.
+
+The winning of a pawn among good players of even strength often means the winning of the game.
+
+Hence the study of such positions is of great importance. We give below two positions in which the attack aims at the gain of a mere pawn as a means of ultimately winning the game.
+
+Black is a pawn behind, and there is no violent direct attack against White's King. Black's pieces, however, are very well placed and free to act, and by co- ordinating the action of all his pieces he is soon able not only to regain the pawn but to obtain the better game. The student should carefully this position and the subsequent moves. It is a very good example of proper co-ordination in the management of forces.
+
+An examination of this position will show that Black's main weakness lies in the exposed position of his King, and in the fact that his Queen's Rook has not yet come into the game. Indeed, if it were Black's move, we might conclude that he would have the better game, on account of having three pawns to two on the Queenside, and his Bishop commanding the long diagonal. It is, however, White's move, and he has two courses to choose from. The obvious move, 1.Bc4, might be good enough (see note in example). But there is another move which completely upsets Black's position and wins a pawn, besides obtaining the better position.
+
+These positions have been given with the idea of acquainting the student with different types of combinations. I hope they will also help to develop his imagination, a very necessary quality in a good player. The student should note, in all these middlegame positions, that once the opportunity is offered, all the pieces are thrown into action en masse when necessary; and that all the pieces smoothly co-ordinate their action with machine-like precision.
+
+That, at least, is what the ideal middlegame play should be, if it is not so altogether in these examples. Direct Attacks en Masse Example 50 [Capablanca. J. RJ
+12.Bxh7+ Kxh7 13.Ng5+ Kg6 14.Qg4 fS
+[Best. 14...e5 would be immediately fatal, e.g.
+15.Nc6+ Kf6 16.f4! c4 17.Qg5+ Kxe6 18.Qe5+
+[diagram]
+2AM/6+ wins the Queen J 21. Rxd3 Qxd3 22.Rcl+ Kb6 (if 22... 7mateintwoJ23.Qc7+ and mate in five moves. ] 15Qg3 Kh6 16.Qh4+ Kg6 17.Qh7+ Kf6 [If 17...Kxg5 1 8.Qxg7 1 and mate in a few moves. ]
+18.e4 Ng6 19.exf5 exf5 20. Radi Nd3 21.QH3
+Ndf4 22.Qg3 Qc7 23,Rfel Ne2+ [This blunder loses at once, but the game could not be saved in any case, e g. 23...Be6 24.Rxe6+ Nxe6
+25.Nd5# ]
+24.Rxe2 Qxg3 25.Nh7+ Kf7 26.hxg3 Rh8 27.Ng5+
+Kf6 2S.f4 [Black Resigns] Chapter 4
+
+General Theory
+
+Before we revert to the technique of the openings it will be advisable to dwell a little on general theory, so that the openings in their relation to the rest of the game may be better understood.
+
+20. The Initiative
+
+As the pieces are set on the board both sides have the same position and the same amount of material. White, however, has the move, and the move is this case means "the initiative", and the initiative, other things being equal, is an advantage. Now this advantage must be kept as long as possible, and should only be given up if some other advantage, material or positional, is obtained in its place. White, according to the principles already laid down, develops his pieces as fast as possible, but in so doing he also tries to hinder his opponent's development, by applying pressure wherever possible. He tries first of all to control the center, and failing this to obtain some positional advantage that will make it possible for him to keep on harassing the enemy. He only relinquishes the initiative when he gets for it some material advantage under such favorable conditions as to make him feel assured that he will, in turn, be able to withstand his adversary's thrust; and finally, through his superiority of material, once more resume the initiative, which alone can give him the victory. This last assertion is self-evident, since, in order to win the game, the opposing King must be driven to a position where he is attacked without having any way to escape. Once the pieces have been properly developed the resulting positions may vary in character. It may be that a direct attack against the King is in order; or that it is a case of improving a position already advantageous; or, finally, that some material can be gained at the cost of relinquishing the initiative for a more or less prolonged period.
+
+21. Direct Attacks en Masse
+
+In the first case the attack must be carried on with sufficient force to guarantee its success. Under no consideration must a direct attack against the King be carried on a outrange unless there is absolute certainty in one's own mind that it will succeed, since failure in such cases means disaster.
+
+A good example of a successful direct attack against the King is shown in the following diagram:
+
+In this position White could simply play 1.Bc2 and still have the better position, but he prefers an immediate attack on the Kingside, with the certainty in his mind that the attack will lead to a win.
+
+We give, from now on, games and notes, so that the student may familiarise himself with the many and varied considerations that constantly are borne in the mind by the Chess Master. We must take it for granted that the student has already reached a stage where, while not being able fully to understand every move, yet he can derive benefit from any discussion with regard to them.
+
+Another example of this kind:
+
+Direct Attacks en Masse Example 51
+J. R.J
+2LBh4 Qd7 22.Nxc8 Qxc6 23 Qd8+ QeS 24.Be7+ Kf7 25.Nd6+ Kg6 26.NB4+ Kh5 27.Nxe8 Rxd8
+28.Nxg7+ Kh6 29,Ngf5+ Kh5 30,h3! ['Die climax
+of the combination started with 21. 114. White is still threatening mate, and the best way to avoid it is lor Black to give back all the material he has gained and to remain three pawns behind ]
+
+In this position the simple move 1.Nxe5 would win, but White looks for complications and their beauties. Such a course is highly risky until a wide experience of actual master play has developed a sufficient insight into all the possibilities of a position. This game won the brilliancy prize at St. Petersburg in 1914.
+
+The student should note that in the examples given the attack is carried out with every available piece, and that often, as in some of the variations pointed out, it is the coming into action of the last available piece that finally overthrows the enemy. It demonstrates the principle already stated:
+
+Direct and violent attacks against the King must be carried en masse, with full force, to ensure their success. The opposition must be overcome at all cost; the attack cannot be broken off, since in all such cases that means defeat.
+
+22. The Force of the Threatened Attack
+
+Failing an opportunity, in the second case, for direct attack, one must attempt to increase whatever weakness there may be in the opponent's position; or, if there is none, one or more must be created. It is always an advantage to threaten something, but such threats must be carried into effect only if something is to be gained immediately. For, holding the threat in hand, forces the opponent to provide against its execution and to keep material in readiness to meet it. Thus he may more easily overlook, or be able to parry, a thrust at another point. But once the threat is carried into effect, it exists no longer, and your opponent can devote his attention to his own schemes. One of the best and most successful manoeuvres in this type of game is to make a demonstration on one side, so as to draw the forces of your opponent to that side, then through the greater mobility of your pieces to shift your forces quickly to the other side and break through, before your opponent has had the time to bring over the necessary forces for the defence.
+
+A good example of positional play is shown in the following game.
+
+[Apparently the best way to meet the manifold threats ol White. 19...cxd5 would make matters worse, as the White Bishop would finally bear on the weak c-pawn via c4. J 2O.Rxe5 g6 21.Qh4 Kg7 22.QJ4 c5 [Forced, as White threatened 23.dxe6 and also 23.Rxa7.) 23,Qc3 [ 23...Qd6 was better. But Black wants to tempt While to play 24.dxc6. thinking that he will soon af ter regain his pawn w ith a safe position. Such, however, is not the case, as While quickly demonstrates. I must add that in any case Black's position is. in my opinion, untenable, since all his pieces are tied up for the defence of a pawn, while While's pieces arc free to act. ]
+24.dxe6 Bc8 25.Be2! [The deciding and timely
+maneuver. All the Black pieces arc useless after this Bishop reaches d5.] Bxe6 26.Bf3 Kf7 27,Bd5 Qd6 [Nowr it is evident that all the Black pieces arc tied up, and it only remains for White to find the quickest way to force the issue. White will now try to place his Queen at h 6, and then advance the h-pawn lo h5 in order to break up the Black pawns defending the King. J 28.Qe3 Re7 [If 28...f4 29.Q113 h5 3O.Qh4 Re7 31.Qg5 Kg7
+32.h4 Qd7 33.g3 fxg3 34.f4 and Black w ill soon
+be helpless, as he has to mark time with his pieces while While prepares to advance a2-a4-a5? and finally at the proper time to play Rxe6. |
+29.Qh6 Kg8 3O.h4 a6 3Lh5 f4 32.hxg6 hxg6
+33.Rxe6 [Black resigns. Commenting on this game, Dr.
+E. Lasker said al the time that if White's play were properly analyzed it might be found that there was no way to improve it upon it. These apparently simple games are often of the most difficult nature. Perfection in such cases is much more difficult to obtain than in those positions calling for brilliant direct attack agains t the King, involving sacrifices of pieces.] 1-0
+CIO
+[diagram]
+Masters Havana 1913 [Capablanca,J. R.'] 1x4 e6 2*d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Ne5 [Ibis move was first shown to me by the talented Venezuelan amateur, M. Ayala. The object is to prevent the development of Black's Queen's Bishop via b7, after ...b7-b6, which is Black's usual development in this variation. Generally it is bad to move the same piece twice in an opening before the other pieces are out, and the violation of that principle is the only objection that can be made to this move, which otherwise has everything to recommend it.] Bd6 8*Qf3 | 8.Bg5 might be better. The text move gives Black an opportunity of which he does not avail himself. ]
+8...C6
+| 8...c5 was the right move. It would have led to complications, in which Black might have held his own; at least, White's play would be very' difficult. The text move accomplishes nothing, and puts Black in an altogether defensive position. The veiled threat
+9...Nxe5 followed by 10..?3a5 < is easily met. ]
+9.c3 O-O 10.Bg5 Be7 [The fact that Black has now to
+move his Bishop back clearly demonstrates that Black's plan of development is faulty. He has lost too much lime, and White brings his pieces into their most attacking position without hindrance of any sort.]
+11.Bd3 Ne8
+[The alternative was 1 l...Nd5 Otherwise White would play 12.Qh3, and Black w ould be forced to play 12...g6 (not 12...h6. because of the 13. x116 sacrifice) seriously w eakening his Kingside. ]
+12.Qh3 f5 | White has no longer an attack, but he has
+compelled Black to creat a marked weakness. Now White's whole plan will be to exploit this weakness (the weak e-pawn), and the student can now see how the principles expounded previously are applied in this game. Every move is directed to make the w eak e- pawn untenable, or to profit by the inactivity of the Black pieces in defending the pawn, in order to improve the position of White al other points ]
+13.Bxe7 Qxe7 14.O-O Rf6 15,Rfel Nd6 16.Re2
+Bd7 | At last the Bishop comes out, not as an active attacking piece, but merely to make way for the Rook.]
+17.Rael Re8 18.c4 Nf7 [A very clever move,
+lending lo prevent c4-c5, and templing White to play Xd7.| 19.d5! | Bui it always happens in such cases that, if one line of attack is anticipated, there is another; and this is no exception to the rule, as will be seen. I9.N.xd7 Qxd7 followed by 2O.Bxf5 would be bad, as the following variation shows: Ng5 21.Qg4 Rxf5
+22.h4 h5 23.Qxf5 exf5 24.Rx$84 Kh7 25.hxg5
+Qxd4 |
+19...Nxe5
+
+23. Relinquishing the Initiative
+
+In the third case, there is nothing to do, once the material advantage is obtained, but to submit to the opponent's attack for a while, and once it has been repulsed to act quickly with all your forces and win on material. A good example of this type of games is given below.
+
+34.Nd2
+[ 34.Rf5+ might have been belter. The text move did not prove as strong as anticipated. J
+34...Kf6 35 Rd5 ReG 3G.Ne4+ Ke7
+[ 36...Rxe4 would lose easily. J
+37.Rxc5 d3! [Very fine.] 38.Kf2
+[White cannot play 3&Rc7+ because of Kd8
+39.Rxb7 Rxe4 winning. ]
+38...Bxe4 39*fxe4 Rxe4 4€.Rd5 Re3 [The ending is
+very difficult to win. At this point White had to make the last move before the game was adjourned.) 41.b4! Re4 42.Rxd3 Rxc4 43.Rh3 Rxb4 44 Rxh7+ Kf6
+45.Rxa7 Kf5 46.KI3 Rb2 47.Ra5+ Kf6 48.Ra4
+Kg5 49.Rxf4 Rxa2 5O.h4+ Kh5 51.Rf5+ Kh6
+52.g4 [Black resigns.]
+1-0
+C66
+Capablanca Jose Raul
+[diagram]
+Masters Havana 1913 fCap blanca, J. /?./ 1x4 e5 2,Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.Bxc6+ bxc6 6.d4 Be7 7.Nc3 [ 7.dxe5 might be better but at the time I was not familiar with that variation, and therefore I played what I knew to be good. |
+7...Nd7 8.dxe5 dxe5 9.Qe2 O-O lO.Rdl Bd6
+ll,Bg5 Qe8 12.NB4 g6 [Black offers the Exchange in order to gain time and to obtain at attack. Without considering at all whether or not such a course was justified on the part of Black, it is evident that as far as White is concerned there is only one thing to do, viz. , to w in the Exchange and then prepare to weather the storm. Then, once it is passed, to act quickly with all forces to derive the benefit of numerical superiority.]
+13.Bh6 Nc5 14.Rd2 Rb8 IS.Ndl Rb4 [To force
+While to play 16.c4, and thus create a hole at d4 lor his Knight. Such grand tactics show the hand of a master. A "hole" in chess parlance has come to mean a defect in pawn formation which allows the opponent to establish his forces in wedge formation or otherwise without the possibility of dislodging him by pawn moves. Thus, in the present position. Black has two "holes" at f6 and h6t where forces, e.g. at Knight or Bishop, could establish themselves, supported by pieces or pawns.] 16x4 Ne6 17.Bxf8 QxfB 18.Ne3 | 18.NF3 was better. | 18",Nd4 19.Qdl c5 [In order to prevent 2O.Hxd4 giving back the Exchange, but winning a pawn and relieving the position.] 20.b3 Rb8 [In order to play ... Jtb7 without blocking his Rook. Black's maneuvering for positional advantage is admirable throughout this game, and if he loses it is due entirely to the fact that the sacrifice of the Exchange, without even a pawn for it, could not succeed against sound defensive play.]
+21.Nf3 f5 22.exf5 gxf5 [The position begins to look
+really dangerous for White, hi reality Black's attack is reaching its maximum force. Very soon it will reach the apex, and then White, who is well prepared, will begin his counter action, and through his superiority in material obtain an undoubted advantage.] 23,Nil f4
+24.Nxd4 cxd4 25.Qh5 Bb7 26,Rel c5
+[He could not play 26...Re8 because of 27.Rxd4 Besides, he wants to be ready to play ...e5-e4. At present White cannot with safety play 27,Sxc5. but he w ill soon prepare the way for it. Then, by giving up a Rook for a Bishop and a pawn, he w ill completely upset Black's attack and come out a pawn ahead. It is on this basis that White's whole defensive maneuver is founded. ]
+27.13 Re8 28.Rde2 Re6 [Now the Black Rook enters
+into the game, but White is prepared. Il is now time to give back the Exchange.] 29.Rjce5 Bxe5 30.Rxe5 Rh6 31.Qe8 Qxe8 32.Rxe8+ Kf7 33.Re5 Rc6
+
+I have passed over the game lightly because of its difficult nature, and because we are at present concerned more with the opening and the middle-game than we are with the endings, which will be treated separately.
+
+24. Cutting Off Pieces from the Scene of Action
+
+Very often in a game a master only plays to cut off, so to speak, one of the pieces from the scene of actual conflict. Often a Bishop or a Knight is completely out of action. In such cases we might say that from that moment the game is won, because for all practical purposes there will be one more piece on one side than on the other. A very good illustration is furnished by the following game.
+
+either case, as will be seen, ]
+11...Qxf6 12.Bg3 Bg4 13.h3 Bxf3 14,Qxf3 Qxf3
+15.gxf3 f6 [A simple examination will show that
+White is minus a Bishop for all practical purposes. He can only free it by sacrificing one pawn, and possibly not even then. At least it would lose time besides the pawn. Black now devotes all his energy to the Queenside, and. having practically a Bishop more, the result cannot be in doubt. The rest of the game is given, so that the student may see how simple it is to win such a game.] 16.Kg2 a5 17.a4 Kf7 18.RK1 Ke6
+19.h4 Rfb8 [There is no necessity to pay any attention
+to the Ringside, because White gains nothing by exchanging pawns and opening the h-ftle.] 2O.hxg5 hxg5 21.b3 c6 22.Ra2 b5 23.Rhal c4 24.axb5 [If White takes the proffered pawn with 24,bxc4 bxc4 25.dxc4 Black regains it immediately by Rb4 ]
+24...cxb3 25.cxb3 Rxb5 26.Ra4 Rxb3 27,d4 Rb5
+28.Rc4 Rb4 29.Rxc6 Rxd4 [White resigns.]
+0-1
+C49
+A Winter,W
+[diagram]
+Victory Tournament 1919 [Capablanca, J. R.J Le4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Bxc6 [Nimzowitch's Variation, which I have played successfully in many a game. It gives White a very solid game. Nimzowitch's idea is that White will in due time be able to play 12-f4, opening a line for his Rooks, which, in combination with the posting of a Knight on 15, should be sufficient to win. He thinks that should Black attempt to stop the Knight from going to f5, he will have to weaken his game in some other way. Whether this is true or not remains to be proved, but in my opinion the move is perfectly good. On the other hand, there is no question that Black can easily develop his pieces. But it must be considered that in this variation White docs not attempt to hinder Black's development, he simply attempts to build up a position which he considers impregnable and from which he can start an attack in due course. | dxc6 [The alternative 6...bxc6 gives White the best of the game, without doubt. See the game Capablanca- Kupcluck, from the Havana International Masters Tournament Book 1913 (by J.R. Capablanca); or a game in the Carlsbad Tournament of 191 1, Vidmar playing Black against Alekliine. ]
+7.d3 Bd6 8.Bg5 [This move is not at all in
+accordance with the nature of this variation. The general strategical plan for White is to play h2-h3. to be followed in time by the advance of g2-g4, and bringing the Knight to f5 via 4Sc3-e2-g3-f5 (or Qc3- dl-c3-f5). Then if possible, the placing the other Knight at cither h4. g3 or e3 as the occasion demands. The White King sometimes remains at gl, and other times it is placed at g2, but mostly at hl. Finally, in mo st cases comes f2-f4, and then the real attack begins. Sometimes it is a direct assault against the King (see Nimzowitch's game in the All-Russian Masters Tournament 1914. at St. Petersburg, against Levitzki, I believe), and at other times it comes simply to finessing for positional advantage in the endgame, after most of the pieces have been exchanged. See the Capablanca-Janowski game. New York 1913. J h6
+9.Bh4 c5 [To prevent d3-d4 and to draw White into
+playing 10.Sd5, which would prove fatal. Black's plan is to play ...g7-g5, as soon as the circumstances permit, in order to free his Queen and Knight from the pin by the Bishop.] 10,Nd5 [White falls into the trap. Only lack of experience can account for this move. White should have considered that a player of my experience and strength could never allow such a move if it were good,] g5 [After this move White's game is lost.] ll.Nxf6+ [White cannot play 1 l.Nxg5 because Nxd5 will win a piece. Therefore he must play Bg3 either before or after Qxf6+, with disastrous results in
+
+D52
+[diagram]
+London CCch 1919 fCapablanca, J. R./ l.d4 d5 2.N£3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.Bg5 c6
+6.e3 Qa5 |"One of the objects of Black's method of
+defence is to attack White's Knight at c3 doubly by ... Qe4, followed by ...dxc4. But 7.Qid2 is probably a strong way of meeting this threat.'1 There are, besides, two good reasons for this method of defense; first, that it is not as much played as some of the other defenses and consequently not so well known, and second that it leaves Black with two Bishops against Bishop and Knight, which, in a general wav. constitutes an advantage.] 7.Bxf5 Nxf6 Ka3 Ne4 9.Qb3 Be7 [This is not the logical place for the Bishop which should have been posted at d6. In the opening, time is of great importance, and therefore the player should be extremely careful in his development and make sure that he posts his pieces in the right places. | 10.Bd3 Nxc3 ll.bxc3 dxc4 12.Bxc4 Bf6 |'T did not want White's Knight to come to c5, from where I could not dislodge it by ...17-1'6 without weakening my c-pawn." The same result could be accomplished by playing I2...Bd6 Incidentally it bears out my previous statement that the Bishop should have been originally played to d6. ]
+13.O-O
+[The alternative was 13.e4 followed by e4-e5, and then O-O. White would thereby assume the initiative but would weaken his pawn position considerably, and might be compelled to stake all on a violent attack against the King. Tins is a turning point in the game, and it is in such positions that the temperament and style of the player decide the course of the game. ]
+13...O-O 14x4 e5 15.d5
+["White might play 15.Rfdl keeping the option of breaking up the center later on. I wanted him to advance this pawn as there is now a fine post for my Bishop at c4" ] | By playing I5.d5 While shows that he does not understand the true value of his position. His only advantage consisted in the undeveloped condition of Black's Bishop on cX. He should therefore have made a plan to prevent the Bishop from coming out, or if that were not possible, then he should try to force Black to weaken his pawn position in order to come out w ith the Bishop. There were three moves to consider: first, 15.a4 in order to maintain the White Bishop in the dominating position that it now occupies. This would have been met by Qc7 ] [second, either of the Rooks to d 1 15. Rad 1 in order to threaten I6.dxe5 Jkxe5 17+ xe5 $?xe5 IX. xf7 1. This would have been met by Bg4 ] |and third 1 5.113 to prevent 1 5... g4 and by playing either Rook to dl, followed up as previously stated
+25. A Player's Motives Criticized in a Specimen Game
+
+Now that a few of my games with my own notes have been given, I offer for close perusal and study a very fine game played by Sir George Thomas, one of England's foremost players, against Mr. F.F.L. Alexander, in the championship of the City of London Chess Club in the winter of 1919-1920. It has the interesting feature for the student that Sir George Thomas kindly wrote the notes to the game for me at my request, and with the understanding that I would make the comments on them that I considered appropriate. Sir George Thomas' notes are in quotation marks ("")and thus will be distinguished from my own comments.
+
+to force Black to play ...b7-b5, which would weaken his Queenside pawns. Thus by playing 15.h3 White would have attained the desired object. The text move 1 5_d5 blocks the action of the White Bishop and facilitates Black's development. Hereafter While will act on the defensive, and the interest throughout the rest of the game will center mainly on Black's play and the manner in which he carries out the attack. |
+15...Qc7 16.Bd3 [''This seems wrong, as it makes the
+development of Black's Queen wing easier. He could not have played 16...b6. because of the reply 17.dxc6 followed by 18. d5."J b6 17.c4 Bb7 18.Rfcl [''With the idea of 19.Sabi and 20x5. But it only compels Black to bring his Bishop to c5, which he would do in any case."] Be7 19.Rc2 Bc5 2O.Qb2 f6 ["Il would have been better, probably, to play
+20...Rfe8 with the idea of ...f7-f5 presently" ]
+[Black's play hereabout is weak; it lacks force, and there seems to be no well-defined plan of attack. It is true that these are the most difficult positions to handle in a game. In such eases a player must conceive a plan on a large scale, which promises chances of success, and with it all, it must be a plan that can be carried out with the means at his disposal. From the look of the position it seems that Black's best chance would be to mass his forces for an attack against White's center, to be followed by a direct attack against the King. He should, therefore, play
+20...Rac8 threatening 21...f5. If White is able to
+defeat this plan, or rather to prevent it, then, once be has fixed some of the White pieces on the Ringside, he should quickly shift his attack to the Queenside, and open a line for his Rooks, which, once they enter in action, should produce an advantage on account of the great power of the two Bishops. ]
+21.RM Rad8 22.a4 Ba6 23,Rdl ["White has clearly
+lost Lime with his Rook's moves."] Rfe8 24,Qb3 ["To bring his Queen across after 4Bh4 and Rd6
+25.Nh4 g6 26.Be2 cxd5 f"I thought this exchange
+necessary here, as White is threatening to play his Bishop via g4 to e6. If he retook with the c-pawn I intended to exchange Bishops and rely on the two pawns to one on the Queen's wing. 1 did not expect him to retake it with the e-pawn, which seemed to expose him to a violent Ringside attack."] [Black's judgment in this instance I believe to be faulty, Had White retaken with the c-pawn, as he expected, he would have had a passed pawn well supported on the Queenside. His only advantage would lie in his having a very well posted Bishop against a badly posted Knight, and on the fact that in such positions as the above, the Bishop is invariably stronger than the Knight, He could and should have prevented all that, by playing 26,..Bc8 as, had White then replied with 27.Qg3 he then could play cxd5 and White would not have been able to retake
+[diagram]
+Exchange. |
+27.exd5 e4 28.g3 e3
+[I do not like this move. It would have been better to hold it in reserve and to have played 28...f5 to be followed in due time by ...g6-g5 and ...f5T4, after having placed the Queen at d7, f7. or some other square as the occasion demanded. Hie text move blocks the action of the powerful Bishop at c5, and tends to make White's position safer than it should have been. The move in itself is a very strong attacking move, but it is isolated, and there is no effective continuation. Such advances as a rule should only be made when they can be followed by a concerted action of the pieces. |
+29.f4 Bc8 30,ND Bf5 3LRb2 Re4 32,Kg2 Qc8
+33.Ngl g5 34.fxg5
+[''If now 34. BD gxf4 35.Bxe4 Bxe4+ with a winning attack." ]
+34...fxg5 35.Rfl g4
+[ 35...Rh6 was the alternative. White's only move would have been 36.Khl The position now is evidently won for Black, and it is only a question of finding the right course. The final attack is now carried on by Sir George Thomas in an irreproachable manner. ]
+36.Bd3 Rf6 37.Ne2 QD 38.Rbbl
+[If 38.Nf4 e2! (If, however. Black plays 38...QM and While 39.Qc2 I take pleasure in offering the position to my readers as a most beautiful and extra ordinary win for Black, beginning with Qh3+H 1 leave the variations for the student to work out. )
+39.Nxe2 Rxe2+ 4O.Rxe2 Be4+ 41.Bxe4 (Best.)
+Rxfl and White is lost. ]
+38...Qh6 ["Again preventing 39.Bxe4 by the masked
+attack on White's Rook. White therefore protects his Rook."] 39,Qc2 ["Making a double attack on the Rook - which still cannot be taken - and preparing to defend the h-pawn." If cither the Rook or Bishop arc taken White would he mated in a few moves.J Qh3+
+40.Khl Rxc41!
+["If 40...R116 4I.Ngl Qxg3 42.Qg2 Black therefore tries to get the Queen away from the defense." A very beautiful move, and the best way to carry on the attack. ]
+41.Qxc4
+["The best defense was 4 1.Rxf5 but Black would emerge with Queen against Rook and Knight." ]
+41...Bxd3
+["Again, not 41...Rh6 because of 42.d6+ " ]
+42.Rxf5
+["If 42.Qxd3 then, at last Rh6 wins." ]
+42...Bxc4 43.Nf4 e2! ["'Hie Queen has no escape, but
+White has no lime to take it."] 44,Rgl Qfl [While resigns. A very fine finish, | 0-1
+
+Attack Different Side Example 56 [Capablanca. J. R.]
+1...Re4+ 2.Re2 Ra4 3.Ra2 h5 [The idea, as will be
+seen very soon, is Io play ...h5-h4 in order to fix White* s Ringside pawns with a view to the future. It is evident to Black that White wants to bring his King to b.3 to support his two weak isolated pawns, and thus to free his Rooks. Black, therefore, makes a plan to shift the attack to the Ringside at the proper time, in order to obtain some advantage from the greater mobility of his Rooks.] 4,Rdl Rda5 [In order to force the Rook to a 1, keeping both Rooks tied up.] 5,Rdal h4 6*Kd2 Kg7 7.Kc2 Rg5 [Black begins to transfer his attack to the Ringside ] 8.Rgl [A serious mistake, which loses quickly. White should have played 8.Kb3 when Black would have answered Raa5 9.£3 and Black would have obtained an opening at g3 for his King, which in the end miglit give him the victory. J
+8...Rf4 9.Kd3
+[Now the King cannot go 9.Kb3 because of Rb5+ J
+9...RB+ 10.Ke2
+[If 10.gx£3 Rxgl followed by 11...Shi winning. J
+10...Rxh3 [And Black won after a few moves.]
+0-1 Chapter 5
+
+Endgame Strategy
+
+We must revert once more to the endings. Their importance will have become evident to the student who has taken the trouble to study my game with Janowski (Example 53). After an uneventful opening - a Ruy Lopez - in one of its normal variations, my opponent suddenly made things interesting by offering the exchange; an offer which, or course, I accepted. Then followed a very hard, arduous struggle, in which I had to defend myself against a very dangerous attack made possible by the excellent manoeuvring of my adversary. Finally, there came the time when I could give back the material and change off most of the pieces, and come to an ending in which I clearly have the advantage. But yet the ending itself was not as simple as it at first appeared, and finally - perhaps through one weak move on my part - it became a very difficult matter to find a win.
+
+Had I been a weak end-game player the game would probably have ended in a draw, and all my previous efforts would have been in vain. Unfortunately, that is very often the case among the large majority of players; they are weak in the endings; a failing from which masters of the first rank are at times not free.
+
+Incidentally, I might call attention to the fact that all the world's champions of the last sixty years have been exceedingly strong in the endings: Morphy, Steinitz, and Dr. Lasker had no superiors in this department of the game while they held their titles.
+
+26. The Sudden Attack from a Different Side
+
+I have previously stated, when speaking about general theory, that at times the way to win consists in attacking first on one side, then, granted greater mobility of the pieces, to transfer the attack quickly from one side to the other, breaking through before your opponent has been able to bring up sufficient forces to withstand the attack. This principle of the middlegame can sometimes be applied in the endings in somewhat similar manner.
+
+In the position below I, with the Black pieces, played as follows:
+
+Another good example, in which is shown the advantage of the greater mobility of the pieces in an ending, is the following from a game Capablanca- Kupchik played at the Havana Masters Tournament,
+1913. The full score and notes of the game can be
+found in the book of the tournament.
+
+of Rooks because of the threat 27...S116; but in reality it leads to nothing. The best chance was to play 26...Rg8 ]
+27.Rxe6 fxe6 28.f4
+[Up to now White had played with finesse, but this last move is weak. 28.Ra6 was the proper way to continue, so as to force Black to give up his a-pawn or c-pawn. ]
+28...Kc8 29.Kd2
+[Again a bad move. 29.Ra3 was the proper continuation, and if then Rb8 30.b3 Kb7 31.b4 Ka8 32.RH3 with excellent winning chances; in fact, I believe, a won game. ]
+29...Kb7
+| Black misses his only chance. 29. ..Rb8 w ould have drawn. ] 3O.Ra3 Rg8 3LRh3 Rg7 32.Ke2 Ka6 33.Rh6 Re7
+34.Kd3 Kb7 | He goes back with the King to support
+his c-pawn, and thus be able to utilize his Rook It is, h owe ver, useless, and only While's weak play later on gives him further chances of a draw,] 35,h4 Kc8
+36.Rh5 [To prevent the Black Rook from controlling
+the open file.] Kd7 37.Rg5 Rf7 38.Kc3 Kc8 [He must keep his King on that side because White threatens to march with his King to a6 via b4 ] 39.Kb4 Rf6 4O.Ka5 Kb7 41.a4 a6 42,h5 Rh6 [He can do nothing but wait for White, The text move stops White from moving his Rook, but only for one move ] 43.b 4 Rf6 [The only other move was 43...Ka7 when White could play 44.Rg7 or even 44.b5. ]
+44.b5
+[A weak move, which gives Black a fighting chance. In this ending, as is often the case w ith most players. White plays the best moves whenever the situation is difficult and requires careful handling, but once his position seems to be overwhelming he relaxes his efforts and the result is nothing to be proud of. The right move was 44.Rg7 ]
+44...axb5 45,axb5 Rfl8! 46.Rg7 Ra8+ 47,Kb4 cxbS
+48.Kxb5 Ra2 49,c6+ Kb8 5O.Rxh7 Rb2+ 51.Ka5
+Ra2+ 52,Kb4 Rxf2 [Black misses his last chance: 52...Rb2+ forcing the King to c3, in order to avoid the perpetual, w ould probably draw. The reader must bear in mind that my opponent was then a very young and inexperienced player, and consequently deserves a great deal of credit for the light he put up. ]
+53.Re7 Rxf4
+[ 53..,Rb2+ followed by 54...Sh2 offered better chances. ]
+54.h6! Rxd44- 55.Kb5 Rdl 56.h7 Rbl+ 57.Kc5
+Rcl+ 58.Kd4 Rdl+ 59.Ke5 Rel+ 60,Kf6 Rhl
+61.Re8+ Ka7 62,h8Q Rxh8 63.Rxh8 Kb6 64.Kxe6
+Kxc6 65.Kxf5 Kc5 66.Ke5 c6 <57.Rh6 Kb5 68.K44 1-0
+C49
+24.02.1913
+[diagram]
+Masters Havana /CapaManca, J. R./
+17.Re4 Rfe8 [With the object of repeating White's
+maneuver, and also not to allow White the control of the open file.] IS.Rael Re6 19.Rle3 Rce8 2O.Kfl Kf8 [Black wants to bring his King to the center of the board in order to be nearer to whatever point White decides to attack. The move is justified at least on the general rule that in such endings the King should be in the middle of the hoard. He does nothing after all but follow White's footsteps. Besides, it is hard to point out anything better. If 20. d5 2].Rg4+ fol lowed by 22.'l?e2, would leave Black in a very disagreeable position | [If 20..T5 21.Rd4! Rxe3? 22.fxe3 Rxe3 23.K12 Re7 24.Ra4 w inning the a-pawn. w hich w ould practically leave White with a passed pawn ahead on the Queenside, as the three pawns of Black on the Ringside would be held by the two of White. |
+21.Ke2 Ke7 22.Ra4 Ra8 23.Ra5! [Th is move has a
+manifold object. It practically fixes all of Black's pawns except the d-pawn Twhich is the only one that can advance two squares. It specially prevents the advance of Black's f-pawns, and al the same time threatens the advance of White's f-pawns to f4 and f5. By this threat it practically forces Black to play 23...d5 . which is all White desires, for reasons that will soon become evident.] d5 24.c4! Kd6 [Evidently forced, as the only other move to save a pawn would have been 24. ,.dxc4 which would have left all Black's Pawns isolated and weak | [If 24...d4 25.Re4 Kd6 26.B4! Rc5 27.Ra6 and Black's game is hopeless. ] 25,c5+ Kd7 26,d4 f5 [Apparently very strong, since it forces the exchange
+
+White's only advantage in the above position is that he possesses the open file and has the move, which will secure him the initiative. There is also the slight advantage of having his pawns on the Queenside united, while Black has an isolated a-pawn. The proper Danger of a Safe Position Example 58 [Ccipablanca, J, /?./
+1.g4 Rxa2
+[The mistakes begin. This is the first. Black sees that lie can take a pawn without any danger, and does not stop to think whether there is anything better Instead
+1...RC2- was the right move. If then 2.Kg.3
+f If White played 2.Ke4 instead, then Re5 + followed by 3...Kxa2. ) 2...R.xa2 |
+2.Rdl Ra4+
+[Mistake number two, and this time such a serious one as to almost lose the game. Ilie proper move was to play 2...f5 in order to break up White's pawns and at the same time make room for the Black King, which is actually in danger, as will soon be seen. ]
+3.Rd4 Raa5
+[Mistake number three and this time fatal. His best move was 3,..Rga5 After the text move there is no defense. Black's game is lost. This shows that even an apparently simple ending has to be played with care. From a practically won position Black finds himself with a lost game, and it has only taken three moves. |
+4.Rdd8 Rg7
+[If 4..T5 5Rh8+ Kg6 6.Rcg8+ Kf6 7.Rxh6+ Rg6 8,g5f Ke7 9.Rhxg6 fxg6 ID.RgYt Ke8 1 l.Rxg6 and wins easily. ]
+5.h4 h5 6.Rh8+
+[ 6.RI18+ and Black resigns. The reason is evident. If Kg6 7.gxh5+ Rxh5 S.Rxh5 K.xh5 9.RB8+ Kg6
+10.115#]
+1-0 course is to bring the Rooks forward, so that at least one of them may be able to shift from one side of the board to the other, and thus keep Black's Rooks from moving freely. What this means in general theory has been stated already; it really means: keep harassing the enemy; force him to use his big pieces to defend pawns. If he has a weak point, try to make it weaker, or create another weakness somewhere else and his position will collapse sooner or later. If he has a weakness, and he can get rid of it, make sure that you create another weakness somewhere else.
+
+This ending shows how easy it is to make weak moves, and how often, even in master play, mistakes are made and opportunities are lost. It shows that, so long as there is no great advantage of material, even with a good position, a player, no matter how strong, cannot afford to relax his attention even for one move.
+
+27. The Danger of a Safe Position
+
+A good proof of the previous statement is shown in the following ending between Marshall and Kupchik in one of their two games in the same Tournament (Havana, 1913).
+
+It is evident that Marshall (White) is under great difficulties in the above position. Not only is he bound to lose a pawn, but his position is rather poor. The best he could hope for was a draw unless something altogether unexpected happened, as it did. No reason Endings with Rook + Pawns Example 59 [Capablanca, J. K.J [ l.Rc7i wins. ]
+1...Rd6! [Now White has two continuations.] 2.f7
+[Or 2,Rc7+ A) Now suppose that Black did not realize that 2... Qd4 was the only move to draw, and consequently played 2...Kb6 instead. Now the best continuation would be 3.17 Rg6+(Best.) 4.Kfl R1'6 5.Rc7 Kc5 Best. White threatened to check with the Rook at e6. 6. Kc2 Al) Rest. If 6...Kc4 both 7.h4 (and 7XeS will win; this last-named move particularly would win with ease. A2) 6...63 7.Rc3 b2 (Best) 8.Rb3 Rxf7
+9.Rxb2 Rh7 10.Rd2 Rxh2 ll.Ke.3
+This position we have arrived al is won by White, because there are two files between the opposing King and the Pawn from which the King is cut off by the Rook, and besides, the paw n can advance to the fourth rank before the opponent's Rook can begin to check on the file. This last condition is very important, because if the Black Rook were at h8, and Black had the move, he could draw by preventing the advance of the paw n, either through constant check or by playing ."SfX at the proper time. Now that we have explained the reasons why this position is won, we leave it to the student to work out the correct solution. ; B) 2...Kd4! 3.f7 Rg6n I (a very important move, as against 5...Rf6 4.Re7 wins. ) 4.Kfl Rf6 5.R67 Kc3 and White will finally have to sacrifice the Rook for the pawn, or draw by perpetual check. ]
+2...Rd8!
+[If there were nothing more in the ending it would not be of any great value, but there are other very can be given for Black's loss of the game except that he felt so certain of having the best of it with a pawn more and what he considered a safe position, that he became exceedingly careless and did not consider the danger that actually existed.
+
+28. Endings with One Rook and Pawns
+
+The reader has probably realized by this time that endings of two Rooks and pawns are very difficult, and that the same hold true for endings of one Rook and pawns. Endings of two Rooks and pawns are not very common in actual play; but endings of one Rook and pawns are about the most common sort of endings arising on the chess board. Yet though they do occur so often, few have mastered them thoroughly. They are often of a very difficult nature, and sometimes while apparently very simple they are in reality extremely intricate. Here is an example from a game between Marshall and Rosenthal in the Manhattan Chess Club Championship Tournament of 1909-1910.
+
+interesting features. Now suppose that Black did not realize that 2...Sd8 was the only move to draw, there would he two other moves to try. Either 2...Rg6f
+3.Kf3 Rf6+ 4.Ke3
+A) If 4...b3 5.Rh5+ wins, because if the King goes hack Kc6 (and if'the King goes up 5...Kc4 then followed by 7.af4 wins. Alien
+6.Rh6 ;
+B) 4...Re6i 5,Kd3 Rf6 (If 5."Rd6) 6.fCe4 winsj 6.RJ15+ Kc6 7,Rh6 wins ] [Or 2...RC6 3.Rg7! Kc4 (If 3 4Jig? and White will either capture The pawn or go to f3, and come out with a winning ending. ) 4.h4 b3
+5.Rg4+ Kc5 6.Rg3 and White will either capture
+the pawn or play Sf3, according to the circumstances, and come out with a winning ending. ]
+3.Rh5+ Kc4 [And While will finally have to sacrifice
+the Rook for Black's pawn ]
+D02
+26.02.1910
+PI Capablanca ose Raul
+[diagram]
+Association Ch fCapabZanca, J. RJ
+21...Rae8
+[The first move is already wrong. There is nothing to gain by this move. Black should play 21...a5 to be followed by ...a5-a4; unless White plays b2-b3. That would fix the Queenside. After that he could decide what demonstration he could make with his Rooks to keep the opponent's Rooks at bay. ]
+22.Rd4 [This move not only prevents 22...f4 which
+Black intended, but threatens 23.b3, followed, after
+23...c.xb3 I 24.axb.3, by the attack with one or both
+Rooks against Black's a-pawn.| Rf6 [Probably w ith the idea of a demonstration on the Kingside by ...Sg6 and...ggZ] 23,b3 cxb3+ 24.axb3 Kf7 25.Kd3 [ 25. Rai should have been played now; in order to force Black to defend with Re7 White, however, does not want to disclose his plan al once, and thus aw aken Black to the danger of his position, hence this move, which seems to aim at the disruption of Black's Queenside pawns. |
+25...Re7 26.Rai Ke6
+| Ih is is a mistake. Black is unaware of the danger of his position. lie should have played 26...g5 threatening 27...ah6, and. by making this demonstration against White's h-pawn, stop the attack against his Queenside pawns, w hich will now develop. |
+27.Ra6 Rc7
+| He could not play 27...Kd6 because 28.c4 would win at least a pawn. This in itself condemns his last move 26...Qe6, which has done nothing but make his situation practically hopeless. ] 28,Rda4 g5 [Nowr forced, but it is a little too late. He could not play 28... RIT7 because 29.f4 would have left his
+
+In this position Marshall had a simple win by 1.Rc7+, but played 1.f6, and thereby gave Black a chance to draw. Luckily for Marshall, Black did not see the drawing move, played poorly, and lost. Had Black been up to the situation he would have drawn by playing 1...Rd6.
+
+The fact that out of one apparently simple ending we have been able to work out several most unusual and difficult endings should be sufficient to impress upon the student's mind the necessity of becoming well acquainted with all kinds of endings, and especially with endings of Rook and pawns.
+
+29. A Difficult Ending: Two Rooks and Pawns
+
+Following our idea that the best way to learn endings as well as openings is to study the games of the masters, we give two more endings of two Rooks and pawns. These endings, as already stated, are not very common, and the author is fortunate in having himself played more of these endings than is generally the case. By carefully comparing and studying the endings already given (Examples 56 and 57) with the following, the student no doubt can obtain an idea of the proper method to be followed in such cases. The way of procedure is somewhat similar in all of them.
+
+game completely paralyzed. Black now finally awakens to the danger, and tries to save the day by the counter-demonstration on the Ringside, which he should have started before. ]
+29.H4! g4
+[Black is now in a very disagreeable position. If he played 29...gxh4 30. Rxh4 would leave him in a very awkward situation, as he could not go back with the King, nor could he do much with either Rook. He practically would have to play h6 when White would answer 31,b4 threatening to win a pawn by .32.b5. or, if that were not enough, he might play Qd4, to be followed finally by the entry of the King at c5 or e5. ]
+30.Ke2 gxf3+
+[Again he cannot play 30...h5 because 31T4 would leave him paralyzed. The advance of his h- pawn would make While's h-pawn sat e, and consequently his King's Rook would have to retire to f7 to defened the a-pawn. That would make it impossible for his King to go to d7, because of the a- pawn. nor could he advance a single one of his pawns. On the other hand. White would play b3-b4? threatening to win a pawn by b4-b5, or he might first play Nd4 and then at the proper time b_3-b4-b5, if there was nothing better. Black meanwhile could really do nothing but mark time with one of his Rooks. ]
+31.Kxf3 RH7 32.Ke2
+[Probably w rong. The text move gives Black good chances of drawing. 32.b4 at once was the right move. ]
+32...Kdb 33.b4 Rb7 flliis could never have happened
+had White played 32.b4, as he could have followed it up by 33.b5 after Black's 32...±d6 ] 34,h5 [Not good. 34.f4 offered the best chances of winning by force. If then Rg7 35.h5 Rg2+ 36.Kd3 Rlil 37.Rxa7 Rxa7 3S.Rxa7 Rxh5 39.Ra6 with winning chances. ]
+34...h6
+[Black misses his last chance. 34. ..f4 would draw. If then 35.exf4 Rbe7H 36.KCI Rxl'4 37.Rxa7 Re3! ]
+35.f4 Rg7 36.Kd3 Rge7 37.Ral Rg7 38.Kd4 Rg2
+39.R6a2 Rbg7
+[ 39...Rgg7 would have offered greater resistance, but the position is lost in any case (I leave the student to work this out). ]
+40.Kd3! Rxa2 41.Rxa2 Re7
+[Nothing would avail. If 41 ...Rgl 42.Ra6! Rdl +
+43.Kc2 Rlil 44.b5 Rxh5 45.Rxc6+ Kd7 46.Ra6
+and White will win easily. ]
+42.Rg2 Reb 43,Rg7 Re7 44.Rg8 c5 [Black is
+desperate. He secs he can no longer defend his pawns.]
+45.Rg6+ Reb 46.bxc5+ Kd7 47.Rg7+ Kc6 48.Rxa7
+Kxc5 49.R17 1-0
+C48
+22.01.1913
+[diagram]
+National New York fCqpaZtfttnct*, J. RJ
+[diagram]
+27.g4 [Already preparing to play g4-g5 when the time
+comes.) bb [Black wants to play ...c6-e5, but White, or course, prevents it ] 28.b4! Kb7 [Tins King should come to the Kingside, where the danger lurks.] 29.Kf2 b5 [With the object of playing ...d?bb and ...a6-a?. followed by ...axb4, and thus have an open file for his Rook and be able to make a counter-demonstration on the Queenside in order to stop White's advance on the right. White, however, also prevents Ibis. | 30,a4! Rd4 [Of course if 3O...bxa4 Black will have all his pawns on the Queenside disrupted and isolated, and White can easily regain the lost pawn by playing either Rook on the a-file. ]
+31.Rbl Re5 [He still wants to play ...c6-c5. but as it is
+easy to foresee that White will again prevent it, the text move is really a serious loss of time. Black should bring his King over to the other side immediately.]
+32.Ke3 Rd7 33.a5 | The first part of White's strategic
+plan is now accomplished. Black's pawns on the Quccnsidc are fixed for all practical purposes. | Rc6 | If .33...Rxf5 .34.gxf5 would have given White a very powerful center. Yet it might have been the best chance for Black. ] 34,Rbfl Rde7 35.g5 fxg5 36.Rxg5 [The second part of White's strategical plan is now accomplished. It remains to find out if the advantage obtained is sufficient to win. White not only has a passed pawn, but his King is in a commanding position in the center of the board ready to support the advance of White's pawns, or, if necessary, to go to c5. or to move to the ri ghl wing in case of danger. Besides, While holds the open file with one of his Rooks. Altogether White's position is superior and his chances of winning are excellent.] Rh6 37.Rg3 Rhe6 [To prevent 38.d4,
+
+It is Black's move, and no doubt thinking that drawing such a position (that was all Black played for) would be easy, he contented himself with a waiting policy. Such conduct must always be criticised. It often leads to disaster. The best way to defend such positions is to assume the initiative and keep the opponent on the defensive.
+
+Also Black fears to keep his Rook in front of his two Kingsidc pawns which lie may want to utilize later.]
+38.h4 g6 39.Rg5 h6
+[White threatens 40.h5, which would finally force Black to take, and then White would double his Rooks against the isolated pawn and win it, or tie up Black's Rooks completely. The text move, however, only helps White; therefore Black had nothing better than to hold light and wail. 39...Re5 would not help much, as White would simply answer 4O.Rf8 Re8
+41.Rxc5 and whichever Rook Black took. White
+would have an easy game. The student should carefully study these variations. ] 4O.Rg4 Rg7 41.d4 Kc8 42.RT8+ Kb7 | 42...Kd7 would not help much, but since he made the previous move he should now he consistent and play it. |
+43.e5 g5 44.Ke4 Ree7 45.hxg5 hxg5 46.RT5 Kc8
+47.Rgxg5 Rh7 48,Rh5 Kd7 49.Rxh7 Rxh7 5O.Rf8
+Rh4+ 51.Kd3 Rh3+ 52.Kd2 c5 53.bxc5 Ra3 54,d5 [Black resigns.] 1-0 R + B vs R + N Example 62 [Capablanca. J. R. ]
+1...Rb8 2.b3 [Forced, but which blocks b3 for the
+White Knight.] Rb5 [Bringing the Rook to attack the Ringside pawns so as to force the King to that side to defend them, and thus indirectly making more secure the position of Black's Queenside pawns ] 3.c4 Rh5
+4.Kgl c5 [Note that the White Knights sphere of
+action is very limited, and that after 5;Nd2 White's own pawns arc in the way ] 5.Nd2 Kf7 6,Rfl4- |This check accomplishes nothing. IL merely drives Black's King where it wants to go. Consequently it is a very had move. 6.a3 at once was the best move. ]
+6...Ke7 7.a3 Rh6 [Getting ready to shift the attack to
+the Queenside, where he has the advantage in material and position.] 8.h4 Ra6 [Notice how similar are the maneuvers with this Rook to those seen in the previous endings.] 9.Rai Bg4 [Paralyzing the action of the Knight and fixing the whole Kingside.J 10.Kf2 Ke6
+11.a4
+[White cannot answer 1 l.Nf3 because BxfB followed by 1 2.Kxf3 Ke5 w ill win a pawn, on account of the check at f6 which cannot be stopped. ]
+11...Ke5 12.Kg2 Rf6 13.Rel d3 14.RH Kd4
+[Now the King attacks White's pawns and all will soon be over.] 15.Rxf6 gxf6 16.Kf2 c6 [Merely to exhaust White's move, which will finally force him to move either the King or the Knight.] 17.a5 a6 18.Nfl Kxe4 IRKel Be2 20,Nd2+ Ke3 21.Nbl f5
+22.Nd2 h5 23,Nbl KB 24,Nc3 Kxg3 25,Na4 f4
+26.Nxc5 f3 27,Ne4+ Kf4 [The quickest way to win.
+White should resign ] 28.Nd6 c5 29.b4 cxb4 30.c5 b3 3LNc4 Kg3 32,Ne3 b2 [White resigns. A very good example on Black's part of how to conduct such an ending.] 0-1
+
+Black's game has the disadvantage of his double c- pawn, which, to make matters worse, he cannot advance, because as soon as Black plays ...b7-b6, White replies b3-b4. It is on this fact that White builds his plans. He will stop Black's Queenside pawns from advancing, and will then bring his own King to e3. Then in due time he will play d3-d4, and finally e4-e5, or g2-g4-g5, thus forcing an exchange of pawns and obtaining in that way a clear passed pawn on the e-file. It will be seen that this plan was carried out during the course of the game, and that White obtained his winning advantage in that way. The play was based throughout on the chance of obtaining a passed pawn on the e-file, with which White expected to win.
+
+The winning tactics in all these endings have merely consisted in keeping the opponent's Rooks tied to the defence of one or more pawns, leaving my own Rooks free for action. This is a general principle which can be equally applied to any part of the game. It means in general terms:
+
+Keep freedom of manoeuvre while hampering your opponent.
+
+There is one more thing of great importance, and that is that the winning side has always had a general strategical plan capable of being carried out with the means at his disposal, while often the losing side had no plan at all, but simply moved according to the needs of the moment.
+
+30. Rook, Bishop and Pawns vs Rook, Knight and
+Pawns
+
+A final example of preserving freedom whilst imposing restraint. We shall now examine an ending of Rook, Bishop and pawns against Rook, Knight and pawns, where it will be seen that the Rook at times is used in the same way as in the endings already given.
+
+From the first game of the Lasker - Marshall Championship Match in 1907. In this position it is Black's move. To a beginner the position may look like a draw, but the advanced player will realise immediately that there are great possibilities for Black to win, not only because he has the initiative, but because of White's undeveloped Queenside and the fact that a Bishop in such a position is better than a Knight (see Section 14). It will take some time for White to bring his Rook and Knight into the fray, and Black can utilize it to obtain an advantage. There are two courses open to him. The most evident, and the one that most players would take, is to advance the pawn ...c6-c5-c4 immediately in conjunction with the Bishop check at a6 and any other move that might be necessary with the Black Rook. The other, and more subtle, course was taken by Black. It consists in utilizing his Rook in the same way as shown in the previous endings, forcing White to defend something all the time, restricting the action of White's Knight and White's Rook, while at the same time keeping freedom of action for his own Rook and Bishop.
+
+[diagram]
+Chapter 6
+
+Further Openings and Middlegames
+
+31. Some Salient Points about Pawns
+
+Before going back to the discussion of openings and middlegame positions, it might be well to bear in mind a few facts concerning pawn positions which will no doubt help to understand certain moves, and sometimes even the object of certain variations in the openings, and of some manoeuvres in the middle games.
+
+In the position of the diagram we have an exceedingly bad pawn formation on Black's side. Black's c-pawn is altogether backward, and White could by means of the open file concentrate his forces against that weak point. There is also the square c5, which is controlled by White, and from where a White piece once established could not be dislodged. In order to get rid of it, Black would have to exchange it, which is not always an easy matter, and often when possible not at all convenient. The same holds true with regard to Black's e-pawn, f-pawn and g-pawn, which create what is called a "hole" at f6. Such pawn formations invariably lead to disaster, and consequently must be avoided.
+
+In this position we might say that the White centre pawns have the attacking position, while the Black centre pawns have the defensive position. Such a formation of pawns occurs in the French Defence. In such positions White most often attempts, by means of f2-f4 and f4-f5, to obtain a crushing attack against Black's King, which is generally castled on the Kingside. To prevent that, and also to assume the initiative or obtain material advantage, Black makes a counter-demonstration by ...c7-c5, followed by ...cxd4 (when White defends the pawn by c2-c3), and the concentrating of Black's pieces against the White pawn at d4. This in substance might be said to be a determined attack against White's centre in order to paralyze the direct attack of White against Black's King. It must be remembered that at the beginning of the book it was stated that control of the centre was an essential condition to a successful attack against the King.
+
+In an abstract way we may say that two or more pawns are strongest when they are in the same rank next to one another. Thus the centre pawns are strongest in themselves, so to speak, when placed at e4 and d4 (or e5 and d5), hence the question of advancing either the one or the other to the fifth rank is one that must be most carefully considered. The advance of either pawn often determines the course the game will follow.
+
+Another thing to be considered is the matter of one or more passed pawns when they are isolated either singly or in pairs. We might say that a passed pawn is either very weak or very strong, and that its weakness or strength, whichever happens to be in the case to be considered, increases as it advances, and is at the same time in direct relation to the number of pieces on the board. In this last respect it might be generally said that a passed pawn increases in strength as the number of pieces on the board diminishes.
+
+[diagram]
+C82
+From a Ruy Lopez Example 65 fCapablanca, J. RJ l.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.BB3 d5 Rdxe5 Be6 9.c3 Be7 I0,Rel Nc5 ll.Bc2 Bg4 12.Nbd2 O-O 13.Nb3 Ne6 [So tar a very well known variation of the Ruy Ixipez. In fact, they arc the moves of the Janowski-Lasker game in Paris, 1912. | 14.Qd3 g6
+[diagram]
+Having all this clear in mind we will now revert to the openings and middlegame. We will analyze games carefully from beginning to end according to general principles. I shall, whenever possible, use my own games, not because they will better illustrate the point, but because, knowing them thoroughly, I shall be able to explain them more authoritatively than the games of others.
+
+32. Some Possible Developments from a Ruy Lopez
+
+That some of the variations in the openings and the manoeuvres in the middlegame are often based on some of the elementary principles just expounded can be easily seen in the following case.
+
+Let us suppose the game went on, and that in some way White, by playing one of the Knights to d4 at the proper time, forced the exchange of both Knights, and then afterwards both the Bishops were exchanged, and we arrived at some such position as shown in the following diagram. (I obtained such a position in a very similar way once at Lodz in Poland. I was playing the White pieces against a consulting team headed by Salwe.)
+
+Now we would have here the case of the backward c- pawn, which will in no way be able to advance to c5. Such a position may be said to be theoretically lost, and in practice a first-class master will invariably win it from Black. (If I may be excused the reference, I will say that I won the game above referred to.)
+
+After a few moves the position may be easily thus:
+
+The Black pieces can be said to be fixed. If White plays 1.Qc3, Black must answer 1...Qd7, otherwise he will lose a pawn, and if White returns with the Queen to a3 Black will again have to return with 2...Qb7 or lose a pawn. Thus Black can only move according to White's lead, and under such conditions White can easily advance with his pawns to f4 and g4, until Black will be forced to stop f4-f5 by playing ...f7-f5, and we might finally have some such position as the following:
+
+From a Ruy Lopez Example 66 [Capablanca. J. RJ [In this situation the game might go on as follows.] Lgxf5 gxf5 2.Qf3 Qd7 [White tlircatcncd to win a pawn by 3.Qxd5? and Black could not play 2...Rf8 because 3.Rxc6 would also win a pawn at least. ] 3,R5c2 Rg6 4.Rg2 Kh8 5.Rcgl Rcg8 6.Qh5 Rxg2
+7.Rxg2 Rxg2 8.Kxg2 Qg7+ 9.Kh2 Qg6 10,Qxg6
+hxg6 11.b4 [And White wins ] 1-0
+[diagram]
+
+Now suppose that in the position in the preceding diagram it were Black's move, and he played 1...Rf8. White would then simply defend his f-pawn by some move like 2.Qf3, threatening 3.Rxc6, and then he would bring his King up to g3, and when the time came, break through, as in the previous case. White might even be able to obtain the following position.
+
+Black would now be forced to play 1...Rc8, and White could then play 2.Qc2, and follow it up with 3.Kf3, and thus force Black to play ...fxg4, which would give White a greater advantage.
+
+A careful examination of all these position will reveal that, besides the advantage of freedom of manoeuvre on White's part, the power of the pawn at e5 is enormous, and that it is the commanding position of this pawn, and the fact that it is free to advance, once all the pieces are exchanged, that constitute the pivot of all White's manoeuvres.
+
+I have purposely given positions without the moves which lead to them so that the student may become accustomed to build up in his own mind possible positions that may arise (out of any given situation). Thus he will learn to make strategical plans and be on his way to the master class. The student can derive enormous benefit by further practice of this kind.
+
+33. The Influence of a "Hole"
+
+The influence of a so-called "hole" in a game has already been illustrated in my game against Blanco (Example 52), where has been shown the influence exercised by the different pieces posted in the hole created at e5.
+
+In order to further illustrate this point, I now give a game played in the Havana International Masters Tournament of 1913.
+
+D53
+I I Janowski,David Markelowicz
+[diagram]
+Masters International 1913 [Capablanca, J. R.] I.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7
+6.Bd3 dxc4 7.Bxc4 Nb6
+[Of course the idea is to post a Knight al d57 but as it is the other Knight which will he posted there this maneuver does not seem logical. Ihe Knight at b6 does nothing except to prevent the development of his own Queen's Bishop. The normal course 7..,O-O followed by ...c7-c5, is more reasonable. For a beautiful illustration of how to play White in that variation, see the Janowski-Rubinstein game of the St. Petersburg Tournament of 1914. ]
+8.Bd3
+[ 8_Bb3 has sonic points in its favor in this position, the most important being the possibility of advancing the e- pawn immediately after Nfd5 9.Bxe7 Qxe7 ]
+8...Nfd5 9,Bxe7 Qxe7 10.Nf3
+[Had White's Bishop been at b3 he could now play
+10.e4 as indicated in the previous note, a move
+which he cannot make in the present position, because of Nf4 threatening, not only the g-pawti, but also ll...Qxd3+, As White's King's Bishop should never be exchanged in this opening without a very good reason White therefore cannot play 10.c4. |
+10...0.0 11.O-O Bd7 12.Rcl
+[ 12.Rcl White is perfectly developed, and now threatens to win a pawn as follows: - 13.Nxd5 Nxd5 14.e4 followed by 15.Rxc7. ]
+12...c6
+[The fact that Black is practically forced to make this move in order to avoid the loss of a pawn is sufficient reason in itself to condemn the whole system of development on Black's part. In effect, he plays . ,.Nd7, and now he has to shut off the action of his own Bishop, which thereby becomes little more than a pawn for a while. In fact, it is hard to see how this Bishop will ever be able to attack anything. Besides, it can be easily seen that White will soon post his two Knights at e5 and c5 respectively, and that Black will not be able to dislodge them without seriously weakening his game, if he can do it at all. From all these reasons it can be gathered that it would probably have been better for Black to play
+12...Nxc3 and get rid of one of the tw o White
+Knights before assuming such a defensive position. In such cases, the less the number of pieces on the board, the better chances there are to escape. ]
+13.Ne4 f5 [This practically amounts to committing
+suicide, since it creates a hole at e5 for White's Knight, from where it will be practically impossible to dislodge him. If Black intended to make such a move he should have done it before, when at least there would have been an object in preventing the White Knight from reaching c5.] 14.Nc5 Be8 15.Ne5 [The position of White's Knights, especially the one at c5, might be said to be ideal, and a single glance shows how they dominate the position. lhe question henceforth will be how is White going to derive the full benefit from such an advantageous situation. This we shall soon see.] Rb8 [There is no object in this move, unless it is to be followed by ...Qd7. As that is not the case, he might have gone with the Rook to 15...Rc8 as he docs later. ] 16,Rel Rf6 17.QB Rh6 18.Qg3 Rc8 [White threatened to win the Exchange by playing either 19.Qf7 or 19.<Sg4J 19.13 Rc7 20.a3 Kh8 2Lh3 [Perhaps all these precautions are unnecessary, but White feels that he has more than enough lime to prepare his attack, and wants to be secure in every way before he begins.] g5 22.e4 f4 23.Qf2 Ne3 [ He had better have played 23,..Nf6 and later try to get rid of White's Knights by means of ...? d7. ] 24,Rxe3 [With this sacrifice of the Rook for a Knight and pawn White obtains an overwhelming position.] fxe3 25.Qxe3 Nc8 [ 25...Nd7 was better in order to get rid of one of the two White Knights. There were, however, any number of good replies to it. among them 26.Ncxd7 Bxd7 27.Qxg5 Qxg5 28.Nf7+ Kg7 29.Nxg5 and w ith two pawns for the Exchange, and the position so much in his favor. White should have no trouble in winning. ] 26,Ng4 Rg6 27.e5 Rg7 28.Bc4 Bf7 [All these moves arc practically forced, and as it is easily seen they tie up Black's position more and more. White's maneuvers from move 24 onwards arc highly instructive.] 29.Nf6 Nb6 [This wandering Knight has done nothing throughout the game. | 3O.Nce4 h6 31h4 Nd5 32.Qd2 Rg6 334Bxg5 QfB [If 33...hxg5 34.Kf2 and Black would be helpless. ] 34T4 Ne7 35.g4 hxg5 36.fxg5 [After 36.fxg5 Black resigns. There is nothing to be done. If Bg8 37.Q112+ Kg7 38.Bxe6 The student should notice that, apait from other things. White throughout the game has had control of the Black squares, principally those at c5 and c5. J 1-0
+
+Chapter 7 Illustrative Games
+
+From now on to the end of the book I shall give a collection of my games both lost and won, chosen so as to serve as illustrations of the general principles laid down in the foregoing pages.
+
+Game 1 Marshall, F - Capablanca, J 1-0 Game 2 Rubinstein, A - Capablanca, J 1-0 Game 3 Janowski, D - Capablanca, J 1-0 Game 4 Capablanca, J - Znosko Borovsky, E 0-1 Game 5 Lasker, E - Capablanca, J 1-0 Game 6 Chajes, O - Capablanca, J 1-0 Game 7 Capablanca, J - Burn, A 1-0 Game 8 Mieses, J - Capablanca , J 0-1 Game 9 Capablanca, J - Teichmann, R 1-0 Game 10 Capablanca, J - Marshall, F 1-0 Game 11 Capablanca, J - Janowski, D 1-0 Game 12 Capablanca, J - Chajes, O 1-0 Game 13 Morrison, J - Capablanca, J 0-1 Game 14 Marshall, F - Capablanca, J 0-1
+D53
+[diagram]
+match Scranton 01.05.1909 [Capablanca, J. R.j l.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Ne4 [I had played this defense twice before in the match with good results, and although I lost this game I still p layed it until the very last game, when I changed my tactics. The reason was my total lack of knowledge of the different variations in this opening, coupled with the fact that 1 knew that Dr. E, Lasker had been successful with it against Marshall himself in 1907. I thought that since Dr. I ,asker had played it so often, it should be good. Hie object is to exchange a couple of pieces and at the same time to bring about a position full of possibilities and with promising chances of success once the endgame stage is reached. On general principles it should be wrong, because the same Knight is moved three times in the opening, although it involves the exchange of two pieces. In reality the difficulty in this variation, as well as in nearly all the variations of the Queen's gambit, lies in the slow development of the Black Queen's Bishop. How ever, whether this variation can or cannot be safely played is a question still to be decided, and it is outside the scop e of tills book. I may add that al present my preference is for a different system of development, but it is not unlikely that I should some time come back to this variation.] 6.Bxe7 Qxe7 7*Bd3 [ 7,cxd5 is preferable for reasons that we shall soon see. ]
+7...Nxc3 8.bxc3 Nd7
+[Now 8...dxc4 would be a better way to develop the game. The idea is that after 9.Bxc4 b6 followed by would give Black's Bishop a powerful range. for this variation see the eleventh game of the match. ]
+9.Nf3 O-O
+[No longer would 9...dxc4 10.Bxc4 b6 be good, because 1 l.Bb5 would prevent Bb7 on account of l2.Ne5] KUxdS exd5 U.Qb3 Nf6 12,a4 c5 | Played with the intention of obtaining the majority of pawns on the Queenside. Yet it is doubtful whether this move is good, since it leaves Black's Queenside pawns disrupted in a way. The safer course would have been to play 1 2...c6 ]
+13.Qa3 b6
+|This exposes Black to further attack by a4-a5 without any compensation for it. If I had to play this position nowadays I would simply play 13...Re8 Then after 14.Qxc5 flf, instead. White played then Bg4 would give Black an excellent game. ) 14...Qxc5 would follow and I believe that Black would regain the pawn. ]
+14.a5 Bb7 15.O-O Qc7 16.Rfbl Nd7
+[Black's position was bad and perhaps lost in any case, but the text move makes matters worse. As a matter of fact I never saw White's reply 17. U'5. Il never even passed through my mind that this was threatened. Black's best move would have been
+16..,Rfb8 If that loses, then any other move would
+lose as well. ]
+17.Bf5 RfcS
+[From bad to worse. 17...N16 offered the only hope. ]
+18 Bxd7 Qxd7 19 a6 Bc6 20,dxc5 bxc5 2LQxc5
+Rab8 [The game was lost. One move was as good as another.] 22.Rxb8 Rxb8 23,Ne5 Qf5 24,f4 Rb6
+25.Qxb6!
+[Black resigns. Of course, if 25.Nxc6? Rh1-F would have been drawrn. The text move is pretty and finishes quickly. A well played game on Marshall's part. | 1-0
+
+D33
+[diagram]
+San Sebastian 13.03.1911 [Capablanccii J. R.] l.d4 d5 2.Nf3 c5 3.c4 e6 4.cxd5 exd5 5.Nc3 Nc6
+6.g3 Be6
+[ 6...N16 is the normal move in this variation. White's development was first introduced by Schlechter and elaborated later on by Rubinstein. It aims at the isolation of Black's d-pawn, against which the White pieces are gradually concentrated. In making the text move I was trying to avoid the beaten track. Being a developing move there should be no objection to it in the way of general principles, except that the Knights ought to come out before the Bishops. ]
+7.Bg2 Be7 8.O-O Rc8
+[In pursuance of the idea of changing the normal course of this variation, but with very poor success. The move in theory ought to be unsound, since the Black King's Knight is yet undeveloped. I had not yet learned of the attack founded on Qg5 and the exchange of the Bishop at e6. Either 8...Nf6 ] [or 8...h6 to prevent cither g5 or 4}g5? was right. ]
+9.dxc5 Bxc5 lO.NgS Nffi ll,Nxe6 fxe6 12.Bh3
+Qe7 13.Bg5 O-O? [This is a mistake. The right move was 13...Rd8 in order to get the Rook away from the line of the Bishop at h3 and at the same time to support d5. Incidentally it shows that White failed to take proper advantage of Black's weak opening moves. Against the text move White makes a very fine combination which I had seen, but which I thought could be defeated. ] 14Bxf6 Qxf6 [I considered 14...gxf6 which it seemed would give me a playable game, but 1 thought White's combination unsound and therefore let him play it, to my lasting regret. ]
+15.Nxd5! Qh6 16.Kg2!
+[ Illis is the move which I had not considered. I thought that Rubinstein would have to play 16.Bg2 when I had in mind the following winning combination: Ne5! L7.Nf4 (if 17.Rcl Qxcl J8.Oxcl Bxpi wins; 17...Ng4 18.h3 (if J8.Nh3 Bxf2+ wins the Exchange ) 18...Nxf2 19.Rxf2 Bxf2 1 2O.Kxf2 g5 and Black should win. It is curious that this combination has been overlooked. It has been taken for granted that I did not sec the move 17.Qcl. ]
+16...Rcd8 [After White's last move there was nothing
+for me to do but submit to the inevitable.] 17.Qcl! exd5 18,Qxc5 Qd2 19.Qb5 Nd4 2O.Qd3 Qxd3
+21.exd3 Rfe8 22.Bg4
+[Tli is gives Black a chance. He should have played
+22.Rfel It*then Nc2 23.Rxe8+ Rxc8 24.Rcl Rc2
+25,Kfl Nd4 (if Kf8 27,Bxd5 would win J 26.Rc8 i Kf7 27.Rc7+ Re7 28.Rc5 wins. ]
+22...R66 23.Rfel Rxel 24,Rxel Rb6 25.Re5 Rxb2
+26.Rxd5 Nc6 27,Be6+ Kf8 28.Rf5+ Ke8 29.B17+
+Kd7 3O.Bc4 a6 [A bad move, which gives away any legitimate chance Black had to draw. It loses a very important move. In fact, as the course of the game will show, it loses several moves. The proper way was to play 3O...Kd6 If then 31.Rb5 Rxb5 32.Bxb5 Nd4 " followed by _.b7-b5; and White would have an exceedingly difficult game to draw on account of the dominating position of the Knight at d4 in conjunction with the extra pawn on the Queenside and the awkward position of While's King. (See how this is so.) ]
+31.Rf7+ Kd6 32.Rxg7 b5 33 Bg8 aS 34.Rxh7 a4
+35.h4 b4 36.RB6+ Kc5 37.Rh5+ Kb6 38.Bd5
+[With these last three moves White again gives Black a chance. Even before the last move 38. Be 4 would have won with comparative ease, but the text move is a downright blunder, of which, fortunately for him. Black docs not avail himself. ]
+38...b3
+[ 38...Rxa2 would make it practically impossible for White to win, if he can win at all. White's best continuation then would have been 39.Bc4 Rc2 4O.Rb5+ Kc7 41.Bg8 a.3 42.h5 a2 43.Bxa2 Rxa2 and if there is a win it is very difficult to find it, as against 44.h6 Ra6! offers excellent chances for a draw. ]
+39.axb3 a3 4O.Bxc6 Rxb3
+| If 40...a2 41.Rb5+ Ka6 42.Rb8 |
+41.Bd5 a2 42.Rh6+ [Resigns. As an endgame, this is
+rather a sad exhibition for two masters. The redeeming feature of the game is Rubinstein's line combination in the middlegame, beginning w ith 14. xf6 ] 1-0
+
+reason 1 9.h4 appears the proper way to carry' on the attack. ]
+19...Rad8 20.Radi g5 [This move is preparatory to ...
+g7-g6, which would make Black's position secure. Unfortunately for Black, he did not carry out his original plan.[ 2Lc4 Rxd3 | 21...g6 w ould have left Black with a perfectly safe game. ]
+22.Rxd3 Rd8
+[A very serious mistake, which loses a pawn. 22...gb was the right move, and would have left Black with a very good game. In fact, if it should come to a simple ending, the position of the Black King would be an advantage. ]
+23.Rxd8 NxdS 24.B4 [This wins a pawn, as will soon
+be seen.] gxh4 [Black cannot reply 24...Ne6 because 25.hxg5+ Nxg5 26.Qh4 wins the Knight. ]
+25.Qxh4+ Ke6 26,Qg4+ Kf6 27.Qg5+ Ke6
+28.Qxg7 Qd6 29.c5 Qd5 30.e4! Qdl+ 31.Kh2 f6
+32.Qg4+! Ke7 33.Nxe5 Qxg4 34.Nxg4 Neb 35.e5
+fxe5 36.Nxe5 Nd4 [The game went on for a few more moves, and, there being no way to counteract the advance of White's two passed pawns. Black resigned. ] 37.g4 Ke6 38,f4 a5 39,bxa5 Kd5 4O.g5 Kxc5
+41.gb Nf5 42.Kh3 Kd5 43.Kg4 Ng7 44.Kg5 c5
+45.Nd7 c4 46.Nb6+ Kd4 47.Nxc4 Kxc4 48,f5 Kd5
+49.f6 Ne6+ 5O.Kh6
+1-0
+A46
+22.02.1913
+[diagram]
+Havana [Capablanccii J. R.] l.d4 Nf6 2,Nf3 d6 3.Bg5 Nbd7 4.e3 e5 5.Nc3 c6
+6.Bd3 Be7 7.Qe2 Qa5 8.O-O NfB 9.Rfdl Bg4
+[At last Black is on bis way to obtain full development. The idea of this irregular opening is mainly to throw White on his own resources. At the time the game was played, the system of defense was not was as well known as the regular forms of the Queen's Pawn openings. Whether it is sound or not remains yet to he proved. Its good features are that it keeps the center int act without creating any particular weakness, and that it gives plenty of opportunity for deep and concealed maneuvering. The drawback is the long time it takes Black to develop his game. It is natural to suppose that White will employ that time to prepare a well- conceived attack, or that he will use the advantage of his development actually to prevent Black's complete development, or failing that, to obtain some definite material advantage.] 10.h3 Bh5 ll.dxe5 dxe5
+12.Ne4 Nxe4
+| A very serious mistake. I considered 1 2...O-O-O which was the right move, but desisted because I was afraid that by playing 13.Bxf6 gxf6 !4.Ng3 Bg6 15.Nf5 While would obtain a winning position for the endgame. Whether right or wrong this shows how closely related are all parts of the game, and consequently how one will influence the other. |
+13. Bxe7 Kxe7 14.Bxe4 Bg6
+[Not good. The natural and proper move would have been 14...Nc6 in order to bring all the Black pieces into play ] [ 1 4...Bxf3 at once was also good, as it would have relieved the pressure against Black's e-pawn, and at the same time have simplified the game. Here it is seen how failure to comply with the elementary logical reasons, that govern any given position, often brings the player into trouble. I was no doubt influenced in my choice of moves by the fear of J f5, which was a very threatening move. ]
+15.Qc4 Ne6 16,b4 Qc7 17.Bxg6 hxg6 18.Qe4 Kf6
+19.Rd3
+[ 19.h4 to be followed by g2-g4, might have been a more vigorous way to cany on the attack. Black's weak point is unquestionably the pawn at e5, which he is compelled to defend with the King ] | the text move 19.Rd3 aims al doubling the Rooks, with the ultimate object of placing one of them at d6, supported by a pawn at c5. Black could only stop this by playing ...c6-c5, which would create a "hole" at d5; or by playing ...b7-b6, which would tie the Black Queen to the defense of the c-pawn as well as the e-pawn, which she already defends. Black, however, can meet all this by offering the exchange of Rooks, which destroys White's plans. For this
+
+C12
+[diagram]
+St. Petersburg m 18.12.1913 [Capablanccii J. R.] l.d4 e6 2.e4 d5 3.Nc3 Nf6 4.Bg5 Bb4 [This constitutes the McCutcheon Variation. Il aims al taking the initiative away from While. Instead of defending, Black makes a counter demonstration on the Queenside. It leads to highly interesting games ] S.exdS | At the time this game was played the variation 5.e5 was in vogue, hut I considered then, as I do now, the text move to be the stronger. ]
+5.,.Qxd5 |fhis is considered superior to 5...exd5. It has
+for its object, as 1 said before, to take the initiative a way from White by disrupting White's Queenside. White, however, has more than ample compensation through his breaking up Black's Ringside, It might laid down as a principle of the opening that the breaking up of the Ringside is of more importance than a similar occurrence on the Queenside. J 6,Bxf6 Bxc3+ 7.bxc3 gxf6 8.NJ3 b6 [The plan ofBIack in this variation is to post his Bishop on the long diagonal so as to be able later on, in conjunction with the action of his Rooks along the open g-file, to make a violent attack against White's King. Il is, of course, expected that White will castle on the Kingside because of the broken- up condition of his Queenside pawns ] 9,Qd2 Bb7
+10.Be2 Nd7 !Lc4 Qf5 12.O-O-O [An original idea, I
+believe, played for the first lime in a similar position i n a game against Mr. Walter Penn Shipley, of Philadelphia. My idea is that as there is no Black Bishop and because Black's pieces have been developed with a view to an attack on the Ringside, it will be impossible for Black to take advantage of the apparently unprotected position of White's King. Two possibilities must be considered. Firstly: If Black castles on the Queenside, as in this game, it is evident I hat there is no danger of an attack. Secondly: If Black castles on the Ringside, White begins the attack first, taking advantage of the awkward position of the Black Queen. In addition to the attacking probabilities of the text move. White in one move brings his King into safety and brings one of his Rooks into play. Thus he gains several moves, "tempi" as they are called, which will serve him to develop whatever plan he may wish to evolve.] O-O-O 13.Qe3 Rhg8 14.g3 Qa5 [Unquestionably a mistake, overlooking White's fine reply, but a careful examination will show that White already has the better position ] 15.Rd31 Kb8
+16.Rhdl Qf5 17.Nh4 [This move has been criticized
+because it puts the Knight out of the way for a few moves. But by forcing 17...Rg5, White gains a very important move with 12-14, which not only consolidates his position, but also drives the Queen away, putting it out of the game for the moment. Certain ly the Queen is far more valuable than the Knight, to say nothing of the time gained and the freedom of action obtained thereby for White's more important pieces.] Qg5 18.f4 Qg7 19.Bf3 [In such positions it is generally very advantageous to get rid of the Black Bishop controlling a6 and c6, which form "holes" for White's pieces. The Bishop in such positions is of very great defensive value, hence the advantage of getting rid of it.] Rge8 2O.Bxb7 Kxb7 21.c5! c6 '[White threatened 22.c6+.] 22.Nf3 QC8 [To prevent the Knight from moving to d6 via d2 and e4 or c4. It is self-evident that White has a great ad vantage of position. | 23,Nd2? 11 had considered 23.Rb3 which was the right move, but gave it up because it seemed loo slow, and that in such a position there bad to be some quicker way of winning. ]
+23...bxc5 24.Nc4
+[24.4je4 or 24.Nb3 would have brought about an ending advantageous to White. ]
+24...Nb6 25*Na5+ KaS 26.dxc5 NdS 27.Qd4 Rc8
+[If 27.,.Rb8 28.Nxc6 RbcS 29.Nxa7 would win. ]
+28.c4
+| 28.Nc4 was the right move. 1 was, however, still looking for the "grand combination", and thought that the pawn I would later on have at d6 would win the game. Black deserves great credit for the way in which he conducted this exceedingly difficult defense. He could easily have gone wrong any number of times, but from move 22 onwards he always played the best move. ]
+28...e5! 29*Qgl e4 3O.cxd5 exd3 31.d6 Re2 32.d7
+Rc2+ 33.Kbl Rb8+ 34.Nb3 Qe7 35.Rxd3 ffhe position is most interesting. 1 believe I lost here my last chance to win the game, and if that is true it would vindicate my judgment when I played 28.c4. The student can find out what would happen if White plays 35.Qd4 at once. I have gone over the variations following Rxli2 (of course if 35...Rxc5
+36. 0 winsj 36.Qxd3! Rd8 37.Qa6 Kb8
+( best, for if 38,Kal Kb8 39.Rbl\ )
+38.Qxc6 and While will al least have a draw. ]
+35...Re2 36,Qd4 Rd8 37,Qa4 Qe4 38.Qa6 Kb8
+[There is nothing to be done against this simple move ] 39-Kcl | White cannot play 39. Nd4 because Qhl+ mates. |
+39...Rxd7 40.Nd4 Rel+ [White resigns. Avery
+interesting battle.] 0-1
+
+C68
+LI] Lasker,Emanuel
+[diagram]
+finals St. Petersburg 18.05.1914 [Capablanccii J. R.} I.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 [The object of this move is to bring about speedily a middlegame without Queens, in which While has four pawns to three on the Kingside, while Black's superiority of pawns on the other side is somewhat balanced by the fact that one of Black's pawns is doubled. On the other hand. Black has the advantage of remaining with two Bishops while White has only one ] dxcfi 5.d4 exd4
+6.Qxd4 Qxd4 7.Nxd4 Bd6 [Black's idea is to castle
+on the Kingsidc. His reason is that the King ought to remain on the weaker side to oppose later the advance of White's pawns. Theoretically there is very much to be said in favor of this reasoning, but whether in practice that would be the best system w ould be rather difficult to prove. The student should notice that if now all the pieces were exchanged While would practically be a pawn ahead, and would therefore have a won ending.] 8.Nc3 Ne7 [A perfectly sound form of development. In any other form adopted the Black Knight could not be developed either as quickly or as well. The natural position for the Black Knight is e7 in this variation, in order nol to obstruct Black's pawns, and also, in some eventualities, in order to go to g6. There is also the possibility of its going to d4 via ch af ter ...c6-c5.| 9,O-O O-O 10.f4 [This move I considered weak at the time, and 1 do still. It leaves the e-pawn weak, unless it advances to e5, and it also makes it possible for Black to pin the Knight by ...Jkc5.] Re8 [The text move 10...Re8 is best. It threatens 11.- Be5 12.Be3 Nd5 ] II. Nb3 | It also prevents H.Be3 because of Nd5 or ll...Bc5. ] ll...f6 [Preparatory to ...b7-b6, followed by ...c6-c5 and ..Jib 7 in conjunction with ...4&g6, which would put White in great difficulties to meet the combined attack against the two center pawns.] 12.f5 |It has been wrongly claimed that this wins the game, but I would like nothing better than to have such a position again. It required several mistakes on my pari finally to obtain a lost position.] b6 13.Bf4 Bb7 | Played against my better judgment. The right move of course was 13...Bxf4 Dr. Lasker gives the following variation: 14.Rxf4 c5 15.Rdl Bb7
+16.Rf2 RadS (But, as Nimzowitsch pointed out
+immediately after the game, 16...Sad8 given in Dr. Lasker's variation, is not the best. If 16...Rac8! then White will have great difficulty in drawing the game, since there is no good way to stop Black from playing ..*Nc6, followed by threatening ... ftc4. And should While attempt to meet this maneuver by w ithdraw ing the Knight at b3, then the Black Knight can go to d4, and the White pawn at e4 w ill be the object of the attack. ) 17.Rxd8 Rxd8
+18.Rd2 Rxd2 19.Nxd2 and he claims that White has
+the best of it Taking Dr. Lasker's variation, however, whatever advantage there might be disappears at once if Black plays Nc6 threatening 20...Qb4 and also 2O...?ki4. neither of which can be stopped. If White answers 2O.Nd5 then Nd4 for Black will at least draw . In fact, alter 19".$Bc6 Black threatens so many things that it is difficult to see how While can prevent the loss of one or more pawns. ]
+14.Bxd6 cxd6 15.Nd4 [It is a curious but true fact
+that I did not see this move when I played 13...Ab7, otherwise I would have played the right move 13... J xf4. | Rad8 [The game is yet far from lost, as against the entry of the Knight, Black can later on play ...c6- c5. followed by ...d6-d5.| 16,NQ6 Rd7 17.Radl Nc8 11 now was on the point of playing 17...c5 to be followed by ...d6-d5, which I thought wrould give me a draw, but suddenly I became ambitious and thought that I could play the text move and later on sacrifice the Exchange for the Knight at e6, winning a pawn for it. and leaving White's e-pawn still weaker. I intended to cany this plan either before or after playing ...g7-g5 as the circumstances demanded. Now let us analyze: If A) Again IS.RfZ d5 19.exd5 Bxd5 2().Nxd5 f best, since if 2O.Rfd2 Rxe6 gives Black the advantage j 20...Rxd5 21.Rxd5 Nxd 5 and there is no good reason why Black should lose, ; B) 18+Nd5 Bxd5 19.exd5 b5 and a careful analysis will show that Black has nothing to fear. Black's plan in this case would be to work his Knight around to e5 via c8, b6, and c4 or d7. |
+18.Rf2 b5 19.Rfd2 Rde7 2O.b4 Kf7 21.a3 Ba8
+[Once more changing my plan and this time without any good reason. Had I now played 21...Rxe6
+22.fxe6 t Rxe6 as I intended to do when I went back
+w ith the Knight to c8, 1 doubt very much if While would have been able to win the game. At least it would have been extremely difficult. ]
+22.KQ Ra7 23.g4 h6 24.Rd3 a5 25.h4 axb4
+26.axb4 Rae7
+[This, of course, has no object now. Black, with a bad game, flounders around for a move. It would have been better to play 26...Ra3 to keep the open file, and at the same time to threaten to come out w ith the Knight at b6 and c4. ]
+27. Kf3 Rg8 28.Kf4 g6
+[Again bad. White's last two moves were weak, since the While's King docs nothing here. lie should have played his Rook to g3 on the 27th move. Black now should have played 28...g5 I After missing this chance White has it all his own way, and finishes the game most accurately, and Black becomes more helpless w ith each move. The game needs no further comment, excepting that my play throughout was of an altogether irresolute character. When a plan is made, it must be carried out if at all possible. Regaiding the play of White, I consider his 1 Oth and
+
+12th moves were very weak; he played well after that up to the 27th move, which was bad. as well as his 28th move. The rest of his play was good, probably perfect. ] 29,Rg3 g5+ 30*Kf3 Nb6 3Lhxg5 hxg5 32.Rh3 Rd7 33.Kg3! Ke8 34.Rdhl Bb7 35x5 dxe5
+36.Ne4 Nd5 37.N6c5 Bc8 38.Nxd7 Bxd7 39.Rh7
+Rf8 40.Rai Kd8 41.Ra8+ Bc8 42.Nc5 [Black resigns.] 1-0
+
+C12
+[diagram]
+Rice Memorial 08.02.1916 [Capablanccii J. R.] l.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 [Of all the variations of the French Defence I like this best, because it gives Black more chances to obtain the initiative ] 5.e5 [Though I consider 5.exd5 the best move, there is much to be said in favor of this move, but not of the variation as a whole, which White adopted in this game. ]
+5...h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 KfB
+| By the text move Black gives up castling, but gains time for an attack against White's center and Qucensidc. The alternative 8".g6 leaves Black's Ringside very weak. White by playing 9.h4 would force Black to play h5 and later on. White's Bishop by going to d3 would threaten the weakened g-pawn. ]
+9.Bel c5 | threatening 10.,.S{a5 and stopping thereby
+White's threat of a3. It demonstrates that White's last move was a complete loss of time and merely weakened his position.] 10.Bd3 QaS !LNe2 cxd4
+12.O-O dxc3 13.Bxe4 dxe4 14.Qxe4 Nc6
+[Black has conic out of the opening with a pawn to the good. His development, however, has suffered somewhat, and there are Bishops of opposite color, so that it cannot be said as yet, that Black has a won game; but lie has certainly the best of the position, because, besides being a pawn to the good, he threatens White's c-pawn, which must of course be defended, and this in turn will give him the opportunity to post his Knight at d5 via e7. When the Black Knight is posted at d5, the Bishop will be developed to c6 via d7, as soon as the opportunity presents itself, and it will be Black that wil 1 then have ibe initiative, and can consequently decide the course of the game.] 15,Rdl [ 15.Rdl was played to prevent Ne7 which would be answered by 16.Nxc3 or still better by 16.Na3. The move, however, is strategically wrong, since by bringing his pieces to the Qucensidc, White loses any chance he might have of making a determined attack on the Kingside before Black is thoroughly prepared for it. ]
+15...g6 16,f4 Kg7 17,Be3
+[Better w ould have been 17.a4 ]
+17...Ne7 18.Bf2 Nd5 [This Knight completely
+paralyzes the attack, as it dominates the whole situation, and there is no w ay to dislodge it. Behind it Black can quietly develop his pieces. The game can now be said to be won for Black strategically. ] 19.Rd3 Bd7 2O.Nd4 Rac8 21.Rg3 Kh7 22.h4 Rhg8 23.h5 Qb4 [In order to pin the Knight and be ready to come back to either e7 or f8. Also to prevent 24,Sb I . In reality nearly all these precautions are unnecessary, since White's attack amounts to nothing. Probably Black should have left aside all these considerations, and played 23...Q&4 now, in order to follow it up with ...f7-f5, as he did later, but under less favorable circumstances. ]
+24.Rh3 f5
+| Not the best, as White w ill soon prove. 24...Qf8 would have avoided every thing, but Black wants to assume the initiative at once and plunges into complications. However, as will soon be seen, the move is not a losing one by any means. ]
+25.exf6 Nxf6 26.hxg6+ Rxg6 27.Rxh6+
+|This wins the Queen.| Kxh6 28.Nf5+ exf5 29.Qxb4 [The position looks most interesting ] Rcg8 [I thought it would be possible to get up such an attack against the While King as to make it impossible for him to hold out much longer, but I wras wrong, unless it could have been done by playing 29...Bc6 first, forcing 30.g3 and then playing Kh5 I followed a similar plan, but lost a very important move by playing 29...Scg8, which gave While lime to play 3O.Sdl. I am convinced, however, that 29,..Bc6 at once was the right move. White would be forced to play 30.g3, and Black would reply with either 3L..@h5 as already indicated, w hich looks the best (the plan, of course, is to play 32..,iRh8 and follow it up with ... ?g4, threatening male, or some other move according to circumstances. In some cases, of course, it w ill be better to first play T.. ?g4)7 or 3L-4&e4? which will at least give him a draw. There are so many possibilities in this positon that it would be impossible to give them all. It will be worth the reader's time to go carefully through lhe lines of play indicated above. ]
+30.g3 Bc6 31 Rdl Kh5
+[The plan, of course, as explained above, is to go to g4 in due time and threaten mate at hl, but it is now too late, the White Rook having come in time to prevent the maneuver. Instead of the text move, therefore, Black should have played 31...Ne4 which w ould have given him a drawr at the very least. After the text moves the tables are tin ned. It is now White who has lhe upper hand, and Black who has to right for a draw. ] 32Rd6 Be4 [ 32...Nc4 was still the right move, and probably the last chance Black had to draw against White's best play. ]
+33.Qxc3 Nd5 34.Rxg6 Kxg6
+| 34...Nxc3 35.Rxg8 Nxa2 was no better, j
+35 Qe5 Kf7 36.c4 Re8 37.Qb2 Nf5 38 Bd4 Rh8
+39.Qb5 Rhl+ 4O.Kf2 a6 4LQb6 Rh2+ 42.Kel
+Nd7 43.Qd6 Bc6 44.g4 fxg4 45.f5 Rhl+ 46.Kd2 Ke8 47.f6 Rh7 48.Qe6+ Kf8 49.Be3 Rf7 5O.Bh6+ Kg8 51.Bg7 [Most players will be wondering, as the spectators did, why I did not resign. 'Hie reason is that while I knew the game to be lost, I was hoping for the
+
+following variation, which Chajes came very near playing: 5i.Qxg4+ Kh7 52,Qh5 Rxf6 53.Bg5+ Kg7 54.Bxf6+ Kxl'6 and while White has a won game it is by no means easy. If the reader does not believe it. let him take the White pieces against a master and see what happens. My opponent, who decided to take no chances, played 51.Jlg7f and finally won a shown below. |
+51...g3 52.Ke2 g2 53.Kf2 Nf8 54.Qg4 Nd7
+55.Kgl a5 56 a4 Bxa4 57.Qh3 Rxf6 58 Bxf6 Nxf6
+59.Qxg2+ KfS 6O.Qxb7 [And after a very few moves
+Black resigned. | Beg 6LQb6 Ke7 62,QxaS Nd7
+63.Kf2 Bf7 64.Ke3 Kd6 65.KJ4 Kc6 66.Qf5
+[A very fine game on Chajes' part from move 25 on, for while Black, having the best of the position, missed several chances. White, on the other hand, missed none. | 1-0
+
+C77
+[diagram]
+San Sebastian 23.02.1911 [Capablanccii J. R.] l.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 [This is a very solid development, to which I was much addicted at the time, because of my ignorance of the multiple variations of the openings.] d6 6x3 Be7 [In this variation there is the alternative of developing this Bishop via g7, after 6...g6 |
+7.Nbd2 O-O 8.Nfl b5 9.Bc2 d5 10.Qe2 dxe4
+lldbce4 Be5 [Evidently to make room for the Queen at e7? but 1 do not think the move advisable at this stage. 1 l...Be6 is a more natural and effective move. It develops a piece and threatens 12.,.Nc4, which would have to be stopped. ]
+12.Bg5 Be6 [Now it is not so effective, because the
+White Queen's Bishop is out, and the Knight, in going to c3 to defend the square c4, does not block the Queen's Bishop. | 13.N&3 Re8 14.O-O Qe7 [This is bad. Black's game was already not good. He probably had no choice but to take 14...Bxc3 before making this move. |
+15.Nd5 Bxd5 16.exd5 Nb8 [In order to bring it to d7,
+to support lire other Knight and also his c-pawn. While, however, does not allow lime for this, and by taking advantage of his superior position is able to win a pawn.] 17.a4 b4 [Since he had no way to prevent the loss of a pawn, he should have given it up where it is, and played
+17.. .Nbd7 in order to make his position more solid.
+The text move not only loses a pawn, but leaves Black's game very much weakened. ]
+18.cxb4 Bxb4 19.Bxf6 Qxf6 2O.Qe4 Bd6
+21.Qxh7+ Kf8 [With a pawn more and all his pieces
+ready for action, while Black is still backward in development, it only remains for White to drive home his advantage before Black can come out with his pieces, in which case, by using the open h-file. Black might be ahle to start a strong attack against White's King. White is able by his next move to eliminate all danger.! 22.Nh4 Qh6 [This is practically forced. Black could not play
+22...g6 because of 23.Bxg6 and White meanwhile
+[diagram]
+23.Qxh6 gxh6 24.Nf5 h5 25,Bdl Nd7 26.Bxh5
+Nf6 27.Be2 Nxd5 28.Rfdl Nf4 29.Be4 Red8
+30.h4 a5 [Black must lose lime assuring the safety of
+this pawn ] 31 g3 Ne6 32.Bxe6 fxe6 33.Ne3 Rdb8
+34.Nc4 Ke7 [Black fights a hopeless battle. He is two
+pawns down for all practical purposes, and the pawns he has are isolated and have to be defended by pieces. |
+35. Rael Ra7 [White threatened 36.ftxd6, followed by
+37.su7+.] 36.Rel Kf6 37.Re4 Rb4 38.g4 Ra6
+[If 38...Rxa4 39.Nxd6 of course would win a piece. ]
+39.Rc3 Bc5 40.R13+ Kg7 41.b3 Bd4 42.Kg2 Ra8
+43.R5 Ra6 44.h5 Rxc4 45,bxc4 Rc6 46.g6
+[Black resigns.] 1-0
+
+C22
+[diagram]
+Berlin 18.1 L 1913 [Capablanccii J. R.] I.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re8 |ln Ibis position, instead of the text move, 7...d6 is often played in order to develop the Queen's Bishop. My idea was to exert sufficient pressure on the e-pawn to win it, and thus gain a material advantage, which would, at least, compensate whatever slight advantage of position White might have. The plan, I think is quite feasible, my subsequent difficulties being due to faulty execution of the plan. |
+8.Qg3 Nxe4 9.Nxe4 Rxe4 10.Bf4 Qf6
+[White's threat to regain the pawn was merely with the idea of gaining time to develop his pieces. Black could have played 1O...dti opening the way for his Queen's Bishop, when would have followed 1 l.Bd3 Re8 12.N13 and White would soon start a powerful direct attack against Black's King. With the text move Black aims al taking the initiative away from White in accordance with the principles laid down in this book. ]
+II. NB3
+| If 11.13xc7 d6 and White's Bishop would be completely shut off, and could only be extricated, if at all, with serious loss of position. The text move aims al quick development to keep the initiative. | ll...d6 [dliis now is not only a developing move, but it also threatens to win a piece by 12... Axli3.] 12.Bd3 Nd4 [Tills complicates the game unnecessarily. 1 2...Re8 was simple, and perfectly safe. ]
+13.Be3 Bg4
+f this is a serious mistake. 'Ihe position was most interesting, and though in appearance dangerous for Black, not so in reality. The right move would have been 13... Rg4 when we would have 14.Bxd4 Rxd4 I5.c3 Bxc3 I6.bxc3 Rg4 17.Qe3(best) Qxc3+ I8.Bc2 Qxe3+ 19.fxc3 Rxg2 and Black has the best of the game with four pawns for a Knight, besides the fact that all the White pawns are isolated. ]
+14.Ng5! Rxe3 [ [here is nothing better. | 15,Qxg41
+Ne2+ 16.Bxe2! Rxe2 17.Ne4! Rxe4 18.Qxe4 Qg5-F
+19.f4 Qb5 20.c3 Bc5 21.Rhel Qc6 22.Rd5
+| 22.Qxc6 would have given White a decided advantage, enough to win with proper play. Mieses, however, feared the difficulties of an ending where, while having the Exchange, he would be a pawn minus, lie preferred to keep the Queens on the board and keep up the attack. At first sight, and even alter careful thought, there seems to be no objection to his plan; but in truth such is not the case. From this point the game will gradually improve in Black's favor until, with the Exchange ahead. White is lost. |
+22...Qd7 23T5 c6 24.Rd2 d5 [My plan for the
+moment is very simple. It will consist in bringing my Bishop around to f6. Then I shall try to paralyze White's attack against my King by playing ...h7-h6. and also prevent White from ever playing g2-g4-g5. Once my King is safe from attack I shall begin to advance my Queenside pawns, where there arc four to three; and that advantage, coupled w ith the enormous attacking power of my Bishop at f6, will at least assure me an even chance of success ] 25.Qf3 Be7 26.Rde2 Bf6 27.Qh5 h6 28.g4 Kh7! | 28...Kh7 prevents 29. h4 which I would answer with g6 winning the Queen. It can now he considered that my King is safe from attack. White will have to withdraw his Queen via h3, and Black can use the time to begin his advance on the Queenside. ]
+29.Kbl Rd8 30,Rdl c5 [Notice that, on assuming the
+defensive. White has placed bis Rooks correctly from tlie point of view of strategy. They are both on white squares free from the possible attack of the Black Bishop. | 31.Qh3 Qa4 [This gains time by attacking the Rook and holding the White Queen at h3 for the moment, on account of the g-pawn. Besides, the Queen must be in the middle of the fray now that the attack has to be brought home. White has actually more value in material, and therefore Black must utilize every thing at his command in order to succeed. |
+32.Red2 Qe4+ 33.Kal b5 [Threatening ...b5- b4,
+which would open the line of action of the Bishop and also secure a passed pawn. | 34,Qg2 Qa4 | 34...Qa4 indirectly defends the d-pawn, which White cannot lake with 35.Rxd5 on account of Qxdl+]
+35.Kbl b4 [The attack increases in force as it is
+gradually brought home directly against the King. The position now is most interesting and extremely difficult. It is doubtful if there is any valid defense ag ainsl Black's best play. The variations are numerous and difficult.] 36.cxb4 Qxb4 [Black has now a passed pawn, and his Bishop exerts great pressure.] 37,a3 [White cannot very well play now 37.Rxd5 because of RxdS 38.Rxd5 Bxb2 and White could not take 39.Qxb2 because Oe4+ would win the Rook, leaving Black a clear passed pawn ahead. ]
+37...Qa4! 38,Rxd5 Rb8 39.Rld2 c4 40,Qg3 Rb3
+41.Qd6 c3
+[ 41 ,..Bxb2 would also win, which shows that While's game is altogether gone. In these cases, however, it is not the prettiest move that should be played, but the most effective one, the move that will make your opponent resign soonest. ]
+42.Rc2 cxb2 43.Rd3 Qe4 44.Rdl Rc3
+[Of course after 44...Rc3 White must play 45.Qd2 and then Black plays Rxa3 ] 0-1
+
+D63
+[diagram]
+Berlin 20.1 L1913 [Capablanccii J. R.] l.d4 d5 2.Nf3 Nf6 3.c4 &6 4.Bg5 Be7 5.Nc3 Nbd7 6,e3 O-O 7.Rcl b6 8.cxd5 exd5 9.Bb5 [An invention of my own, I believe. I played it on the spur of the moment simply to change the normal course of the game. Generally the Bishop goes to d3? or a6 after Ra4. Hie text move is in the nature of an ordinary' developing move, and as it violates no principle it cannot be bad.] Bb7 10.O-O ll.Ba4 Rc8 12.Qe2 c5 13.dxc5 Nxc5 | If 13... bxc5 14.Rfd 1 and While would play to win one of Black's center pawns. The drawback to the text move is that it leaves Black's d-pawn isolated, and consequently weak and subject to attack. ]
+14. Rfd1 Nxa4
+[The alternative would have been 14...b5 !5.Bc2 b4
+16.Na4 Ncc4 ]
+15.Nxa4 b5 16.Rxc8 Qxc8 17.Nc3 Qc4
+[Black aims at the exchange of Queens in order to remain w ith two Bishops for the ending, but in this position such a course is a mistake, because the Bishop at b7 is inactive and cannot come into the game by any means, unless Black gives up the isolated d-pawn which the Bishop must defend. ] 18,Nd4 [Not, of course, 18.Rd4 because of Qxe2 19.Nxe2 Re8 and there is no good way to prevent 2O...Sc2. ]
+18..,Qxe2 19.Ncxe2! [Notice the coordination of the
+Knights' moves, They are maneuvered chain-like, so to speak, in order to maintain one of them, cither at d4 or ready to go there. Now White threatens to take the open file, and therefore forces Black's next move.] Rc8 [The student should examine this position carefully. There seems to be no particular danger, yet, as White will demonstrate. Black may be said to he lost. If the game is nut altogether lost, the defense is at least oft he most difficult kind: indeed, I must confess that I can see no adequate defense against White's next move. ] 20.Nf5! Kf8 | If 20...Bd8 21.Nd6 Rc7 22.Nxb7 Rxb7 23.Bxf6 Bxf6 24.Rxd5 Rc7 25.Rd2 and White is a pawn ahead. If the Bishop moves anywhere else, then 21. Axf6. doubling the f-pawns and isolating all of Black's Ringside pawns. |
+21.Nxe7 Kxe7 22.Nd4 g6 [This is practically forced,
+as White threatened 23.4hf5+. Notice that the Black Knight is pinned in such a way that no relief can be afforded except by giving by the h-pawn or abandoning the open file with the Rook, which would be disastrous, as White would immediately sieze it.]
+23.£3! h6 | Black could do nothing else except mark
+time with his Rook along the open file, since as soon as he moved away White would take it. White, on the other hand, threatens to march up with his King to e5 via f2-g3-f4, after having, of course, prepared the way. Ilence, Black's best chance was to give up a pawn, as in the text, in order to free his Knight.] 24.Bxh6 Nd7
+25.h4 Nc5 26.Bf4 Ne6 [Black exchanges Knights to
+remain with Bishops of opposite colors, which gives him the best chance to draw.] 27.Nxe6 Kxe6 | 27...fxe6 would be worse, as White would then be able to post his Bishop e5. ]
+28.Rd2 Rh8
+[Black wants to force Hg3. The text move is weak, however, as will soon be seen. His best chance was to play 28... h4 and follow' it up with ...a6-a5 and ... Ba6. While meanwhile could play 29.g4 and h4-h5, obtaining a passed pawn, which, with proper play, should win. ]
+29.Rc2!
+| 29.g3 would be bad, on account of d4 which would get the Black Bishop into the game, even though White could answer 30.c4 ]
+29...Rc8 3O.Rxc8 Bxc8 [There arc now Bishops of
+opposite color, but nevertheless White has an easily won game ] 31.Kf2 d4 [Practically forced. Otherwise the White King would march up to d4 and then to c5 and win Black's Queenside pawns. If Black attempted to stop this by putting his King at c6 then the White King would enter through c5 into Black's Ringside and win just as easily. | 32,exd4 Kd5 33.Ke3 Be6
+34.Kd3 Kc6 35.a3 Bc4+ 36.Ke3 Be6 37.B116
+[Il is better not to hurry 37.g4 because of 1'5 for although White could win in any case, it would take longer. Now' the White King threatens to help by going in through f4 after posting the Bishop at g7, where it not only protects the d-pawn, but indirectly also the b-pawn. |
+37...Kd5 38.Bg7 Black resigns. The student ought to
+have realized by this time the enormous importance of playing well every kind of ending. In this game again, practically from the opening. White aimed at nothing but the isolation of Black's d-pawn. Once he obtained that, he tried for and obtained, fortunately, another advantage of position elsewhere which translated itself into the material advantage of a pawn. Then by accurate playing in the ending he gradually forced home his advantage. This ending has the merit of having been played against one of the finest players in the world. | 1-0
+
+C42
+[diagram]
+finals St. Petersburg 14.05.1914 [Capablanccii J. /?./ I.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 [Played by Morphy, and a very line move. The point is that should Black exchange Queens he will be a move behind in development and consequently will get a cramped game if White plays accurately. | Be6 | Marshall thought at the time that his was the best move and consequently played it in preference to
+7...Qxe2i ]
+8.Nc3 h6 9,Bxf6 Qxf6 1044 Be7 U.Qb5+ Nd7
+12. Bd3! [It is now time to examine the result of the
+opening. On White's side we find the minor pieces well posted and the Queen out in a somewhat odd place, it is true, but safe from attack and actually attac king a pawn. White is also ready to castle. White's position is evidently free from danger and his pieces can easily maneuver. On Black's side the first thing we notice is that he has retained both his Bishops, unquestionably an advantage; but on the other hand we find his pieces bunched together too much, and the Queen in danger of being attacked without having any good square to go to. The Bishop at c7 has no freedom and it blocks the Queen, which. in its turn, blocks the Bishop ] g5 [To make room for his Queen, threatening also ...g5- g4. Besides, Black catmot castle on the Ringside with 12...O-O because 13.Qxb7 RfbS 14.Qe4 tlireatening mate, wins a pawn ] [Nor can he castle on the Queenside with 12...O-O-O because 13.Qa5 would put Black's game in imminent danger, since he cannot play a6 f nor can he play 13...Kb8 because of 14.N65 ) because of I4.1Bxa6 Consequently we must conclude that the opening is all in White's favor. ]
+13.h3
+[ 13.h3 makes it difficult for Black to find a move, as White threatens -- 14.Ne4 and should Black go Qg7 then 15.d5 Bf5 16. Nxd6+ followed by 17Axf5. ]
+13...O-O |Giving up a pawn in an attempt to free his
+game and take the initiative.] 14.Qxb7 Rab8 15.Qe4 Qg7 1643 c5 [In order to break up While's center and bring his Knight to c5 and thus lay the foundation for a violent attack against White's King. The plan, however, fails, as it always must in such cases, because Black's development is backward, and consequently his pieces are not properly placed ]
+17.O-O cxd4 18.Nd5! [A simple move, which
+destorys Black's plan utterly. Black will now have no concerted action of his pieces, and, as his pawns are all weak, he will sooner or later lose them.] Bd8
+19.Bc4 Nc5 2O.Qxd4 Qxd4 [The fact that he has to
+exchange Queens when he is a paw n behind shows that Black's game is lost ] 21.Nxd4 Bxd5 22.Bxd5 Bf6 23.Radi Bxd4 [ Hie Knight was too threatening. But now the ending brought about is one in which the Bishop is stronger that the Knight; which makes Black's plight a desperate one. The game has no further interest, and it is only because of its value as a study of this variation of the Petroff that 1 have given i t. Black was able to fight it out until the sixtieth move on account of some poor play on White's part. The rest of the moves are given merely as a matter of form ]
+24 Rxd4 Kg7 25.Bc4 Rb6 26.Rel Kf6 27.f4 Neb
+28.fxg5+ hxg5 29.RH+ Ke7 3O.Rg4 Rg8 31.Rf5
+Rc6 32.h4 Rgc8 33.hxg5 Rc5 34.Bxe6 fxe6
+35.Rxc5 Rxc5 36.g6 Kf8 37.Rc4 Ra5 38.a4 Kg7
+39.Rc6 Rd5 40,Rc7+ Kxg6 41.Rxa7 Rdl+ 42.Kh2
+d5 43.aS Rcl 44.Rc7 Rai 4S.b4 Ra4 44 c3 d4
+47.Rc6 dxc3 48.Rxc3 Rxb4 49.Ra3 Rb7 50,a6
+Ra7 51.Ra5 Kf6 52.g4 Ke7 53.Kg3 Kd6 54.Kf4 Kc7 55.Ke5 Kd7 S6.g5 Ke7 57.g6 Kf8 58.Kxs6 Ke8 59*g7 Rxg7 60+a7 Rg6+ 61.Kf5 [Black resigns.
+J
+1-0
+
+C68
+[diagram]
+prelim St. Petersburg 03.05.1914 [Capablanccii J. R.} l.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 [I played this move alter having discussed it with Alekhine on several occasions. Alekhine considered it, at the time, superior to 5.d4 which is generally played. He played it himself later on in the Tournament, in one of his games against Dr. E.
+1.asket\ and obtained the superior game, which he
+only lost through a b kinder. ]
+5...Bc5
+| 5..T6 is probably the best move in this position. I do not like the text move. |
+6.d3 Bg4 7.Be3 Bxe3 [Tills opens the f-file for
+While, and also reinforces his center, but Black naturally did not want to make a second move with this Bishop.] 8.fxe3 Qe7 9.O-O O-O-O [Bold play, typical of JanowskyJ lO.Qel Nh6 [The problem for White now is to advance his b-pawn to bS as fast as he can.] ll.Rbll [If he plays 1 l.b4 at once, Black simply takes it ] | If he plays first 1 1.a.3 and then b2-b4, he will still have to protect his b-pawn before he can go on and play a3-a4 and b4-b5. As a matter of fact While played a rather unusual move, but one which, under the circumstances, was the best, since after it he could at once play b2-b4 and then a2-a4 and b4-b5. ] lL,,f6 12.b4 Nf7 13.a4 Bxf3 |lie simplifies, hoping to lighten White's attack, which will have to be conducted practically with only the heavy pieces on the board. lie may have also done it in order to play ... #Bf7-g5-e6.J 14.RxB [Taking with 14.gxf3 would have opened a possibility for a counterattack. |
+14...b6
+[He is forced to this in order to avoid the breaking up of his Queens ide pawns. The only alternative would have been 14...b5 which on the face of it looks bad. ] IS.bS exb5 16,axb5 aS 17.Nd5 Qc5 18x4 [The White Knight is now a tower of strength. Behind it White will be able to prepare an attack, which will begin with d3-d4, to drive away the Black Queen and thus leave himself free to play c4-c5, There is only one thing to take care of and that is to prevent Black from sacrificing the Rook for the Knight and a pawn.] Ng5
+19.R12
+[Had White played 19.Rfl instead of 19.Rf2, Black could have played Ne6 2O.Qc3 and now Rxd5 ( instead of the text move 20...W7J 21.exd5 Qxe3+ followed by 22... c5 with a winning game. ]
+19...Ne6 20 Qc3 Rd7 21.Rdl Kb7
+[The text move loses very rapidly. It would have been better for Black to play 21 ...Kd8 ]
+22.d4 Qd6 23.Rc2 exd4 24.exd4 Nf4 25x5 Nxd5
+26.exd5 Qxd5 27x6+ Kb8 28.cxd7 Qxd7 29.d5
+Re8 30.d6 cxd6 3l.Qc6 [Black resigns.] 1-0
+
+CIO
+26.10.1918
+goes Qh3 and White will have to face serious difficulties. In this situation White decides that the only course is to bring his King to g3, so as to defend the squares h3 and g4, where the Black Queen might otherwise become a source of annoyance, ] 3S..,Kg8 36,Kfl KfH 37.Kg2 KgS 38,Kg3 KfB | Now that he has completed his march with the King, While is ready lo advance.] 39.h5 gxh5 [ 39...g5 would be answered by 4O.Qf5 w ith a winning game. ]
+40.gxh5 Qe7
+[Against 40...Kg8 White would play 41.Qg4 practically forcing the exchange of Queens, after which White would have little trouble in winning the ending, since Black's Bishop could not do much damage in the resulting position. [
+41.Qf5 Kg8
+[Black overlooks the force of 42.ad 7. His best defense was 41...Rd8 against which White could either advance the King or play 42.Nh4 threatening 43Ag6+J
+42.Rd7 Bxe5+ [This loses a piece, but Black's
+position was altogether hopeless. | 43.Kg4 Qf6
+44.Nxe5 Qg7+ 45.Kf4 [The interest of this game
+centers mainly on the opening and on the march of the White King during the final stage of the game. It is an instance of the King becoming a fighting piece, even while the Queens arc still on the board.] 1-0
+[diagram]
+New York {Capablanca* J. R.j l.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bd3 |Not the most favored move, but a perfectly natural developing one, and consequently it cannot be bad.] dxe4 [ 4...c5 is generally play in this case instead of the text move. ]
+5.Nxe4 Nbd7 6.Nxf6+ Nxf6 7,Nf3 Be7 8.Qe2
+I'fhis is played to prevent ...b7-b6 followed by ",Bb7, which is the general form of development for Black in this variation.] O-O | If Black now plays 8...b6 9.Bb5+ Bd7 lO.NeS and White obtains a considerable advantage in position. ]
+9.Bg5 h6
+[Of course Black could not play 9...b6 because of
+10.Bxf6 followed by Bxf6 1 1.Qe4 ]
+10. Bxf6 Bxf6 ll.Qe4 g6
+|This weakens Black's Kingside. 1 L..Re8 was the right move. ] 12,h4 e5 | lliis is merely giving up a pawn in order to come out quickly with his Queen's Bishop. But as he does not obtain any compensation for his pawn, the move is bad. He should have played 12...Qd5 and tried to fight the game out that way. It might have continued thus: 13.Qf4 Bg7 14.Qxc7 Bxd4 15.Nxd4 Qxd4
+16.O-O-O with considerable advantage of position for
+White. The text move might he considered a mild form of suicide. ]
+13.dxe5 Bf5 I4.Qf4 Bxd3 15.O-O-O Bg7 16.Rxd3
+Qe7 17-Qc4 [In order to keep the Black Queen from coming into the game.] Rad8 IRRhdl | A better plan would have been to play 18.Rel threatening e5-e6. [ 18 .Rxd3 19.Rxd3 Re8 2O.c3 c€ [Black with a pawn minus fights very hard. Of course if 2()...Bxe5 21.Nxe5 Qxe5'22.Re3] [With Black's 20,..c6 the pawn has now to be defended, because alter 21.-- Bxe5 22.Nxe5 Qxc5 23,Re3 Black could play Qb8 defending the Rook. ]
+21.Re3 c5 22.Kc2 b6 23.a4 [White's plan now is to
+fix the Queenside in order to be able to manocuver freely on the other side, where he has the advantage of material.] Qd7 24.Rd3 Qc8 25.Qe4 Qe6 26.Rd5 Kf8 27.c4 Kg8 [Black sees that he now stands in his best defensive position, and therefore waits for White to show how he intends to break through. He notices, of course, that the White Knight is in the way of the f- pawn, which cannot advance to f4 to defend, or support rather, the pawn at e5. | 28.b3 K£8 29.KJ3 Kg8 3O.Rd6 Qc8 31.RJ5 Qe6 32.g4 Kf8 33.Qf4 Kg8 34.Qe4 Kf8 [Black persists in wailing for developments.] 35.Ke2 [Black sees that if 35.h5 gxh5 36.gxh5 the Queen
+
+C62
+[diagram]
+New York 03.1 L1918 [CapcManca, J. R.] l.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.Nc3 Bd7 5.d4 exd4 6.Nxd4 g6 [In this form of defense of the Ruy Lopez the development of the King's Bishop via g7 is, I think, of great importance, The Bishop at g7 exerts great pressure along the long diagonal- At the same time the position of the Bishop and pawns in front of the King, once it is castled, is one of great defensive st rongth. Therefore, in this form of development, the Bishop? we might say7 exerts its maximum strength. Compare this note with the one in the Capablanca- Burn game at San Sebastian, | 7.Nf3 Bg7 8.Bg5 Nf6 [Of course not 8."Ngc7 because of 9.Nd5 ] [The alternative would have been 8...1'6 to be followed by ... ge7; but in this position it is preferable to have the Knight at f6. ]
+9.Qd2 h6 10.BH4
+[An error of judgment. White wants to keep the Knight pinned, but it was more important to prevent Black from castling immediately. 10.Bf4 would have done this. |
+10...O-O 11.O-O-O [Bold play, but again faulty
+judgment, unless he intended to play to win or lose, throwing safety to the winds. The Black Bishop at g7 becomes very powerful attacking piece. The strategical disposition of the Black pieces is now far superior to White's, therefore it will be Black who will take the offensive ! 12.Rhel (White wanted to keep his Queen's Rook on the open file, and consequently brings over his other Rook to the center to defend his c- pawn, which Black threatened to win by 1 2...g5 followed by I3... xe4.] g5! [Now- that the King's Rook is in the center. Black can safely advance, since, in order to attack on the Kingside, White would have to shift his Rooks, which he cannot do so long as Black keeps up the pressure in the center.] 13,Bg3 Nh5 14.Nd5 [By uncovering the Bishop, which now acts along the long diagonal. Black has at the same time prevented 14.e5 w hich would be answered by Nxg3
+15.hxg3 Nxe5 etc., winning a pawn. ]
+14...a6 [Black drives the Bishop away so as to unpin
+his pieces and be able to maneuver freely. ] 15.Bd3 Be6 [Preparing the onslaught. Black's pieces begin to bear against the King's position.] 16.c3 [With the last move While not only blocks the action of the Black King's Bishop, but he also aims at placing his Bishop at bl and his Queen at c2, and then advancing his e- pawn, to check at 117.| f5! | Initiating an attack to which there is no reply, and which has for its ultimate object either the winning of the White Queen's Bishop or cutting it off from the game. Compare this game with the Winter-Capablanca game at Hastings.] 17,h4 f4 [The Bishop is now out of action. White naturally counterattacks violently against the seemingly exposed position of the Black King, and, with very good judgment, even offers the Bishop.] 18,hxg51 hxg51 [Taking the Bishop would be dangerous, if not actually bad. w hile the text move accomplishes Black's object, which is to put the Bishop out of action. | 19.Rhl Bf7 2O.Kbl [This move unquestionably loses time. Since he would have to retire 2O.Bh2 sooner or later, he might have done it immediately. It is doubtful, however, if at this stage of the game it would be possible for White to save the game. |
+20...Ne5 21.Nxe5 Rxe5 | It was difficult to decide
+which way to retake. I took with the Rook in order to have it prepared for a possible attack against the King. ] 22.Bh2 Nf6 [Now that the White Bishop has been driven back, Black wants to get rid of White's strongly posted Knight at d5, which blocks the attack of the Bishop at 17. It may be said that the Knight al d5 is the key to White's defense.J 23,g3 [White strives not only to have play for his Bishop, but also he wants to break up Black's pawns in order to counterattack. Hie alternative would have been
+23.Nxf6 1 Qxf6 and Black would be threatening 24...
+Sa5 and also 24...Qc6. The student should notice that Black's drawback in all this is the fact that he is playing minus the services of his Queen's Rook. It is this fact that makes it possible for White to hold out longer, |
+23...Nxe4 24,Bxe4 Rxe4 25.gxf4 c6 26.Ne3
+[ 26.Nb4 was the alternative, but in any event White could not resist the attack. I leave it to the reader to work this out for himself, as the variations are so numerous that they would take up too much space. ]
+26...Qa5 27x4 Qxd2 28.Rxd2 gxf4 29,Ng4 Bg6
+[This forces the King to the corner, where he will be in a mating net.] 3O.Kal Rae8 [Now at last the Queen's Rook enters into the game and soon the battle is over. |
+31.a3
+[If 3LRxd6 Rel+ 32.Rdl R8e2 ]
+31...Rel+ 32,Rxel Rxel+ 33.Ka2 Bf7 34,Kb3 d5
+['the quickest way to finish the game.] 35.Bxf4 dxc4+
+36.Kb4 c3 37,bxc3 Re4+ 38.Ka5 Rxf4 39.Rd8+
+Kh7 4O.Rd7 Be6 [White resigns. A very lively game. 1 0-1
+
+D64
+[diagram]
+New York 0111.1918 [Capablanccii J. R.] l.d4 d5 2.Nf3 Nf5 3.c4 &6 4.Nc3 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Rcl c6 [This is one of the oldest systems of defense against the Queen's Gambit. I had played it before in this tournament against Kostic, and no doubt Marshall expected it. At times I change my defenses, or rather systems of defense; on the other hand, during a tournament, if one of them has given me good results, I generally play it all the time ] SJ rQc2 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11,O-O Nxc3
+12.Qxc3 bN [ lliis is the key to this system of defense.
+Having simplified the game considerably by a series of exchanges. Black will now develop his Queen's Bishop along the long diagonal without having created any apparent weakness, llie proper development of the Queen's Bishop is Black's greatest problem in the Queen's Gambit.] 13.e4 Bb7 14.Rfel Rfd8 |The developing stage can now be said to be complete on both sides. The opening is over and the middlegame begins. White, as is generally the case, has obtained the center. Black, on the other hand, is entrenched in his first three ranks, and if given time will post his Que eifs Rook al c8 and his Knight al 1'6, and finally play ... c6-c5, in order to break up While's center and give full action to the Black Bishop posted at b7. In this game White attempts to anticipate that plan by initiating an advance on the center, which, when carefully analysed, is truly an attack against Black's e-pawn. j 15.d5 Nc51 [Against Kostic in a previous game I had played
+15...NF8 It was carelessness on my part, but Marshall
+believed differently, otherwise he would not have played this variation, since, had he analyzed this move, he would, I think, have realized that Black would obtain an excellent game. Black now threatens not only 16...cxd5. but also 16..* xe4 followed by 17,..cxd5. The position is very interesting and full of possibilities. ]
+16.dxe6 Nxe6 17.Bxe6 Qxe6 [Played under the
+impression that White had to lose lime in defending his a-pawn. when I could play 18...c5, obtaining a very superior game. But, as will be seen, my opponent had quite a little surprise for me.] 18.Nd4! Qe5! [Of course, if 1 8...Qxa2 1 9. Rai would win the Queen. The text move is probably the only satisfactory move in the position | [The obvious move would have been 18...Qd7 to defend the c-pawn, and then would come 19.Nf5 f6 20.Qg3 (threatening 21.Scdl) Kh8 21.Rcdl Qt7
+22.h4 with a tremendous advantage in position. The
+text move, on the other hand, assures Black an even game at the very least, as will soon be seen. ]
+19.Nxc6 Qxc3 2O.Rxc3 Rd2 2LRbl
+[A very serious error of judgment. White is under the impression that he has the better game, because he is a pawn ahead, but that is not so. llie powerful position of the Black Rook at d2 fully compensates Black for the pawn minus. Besides, the Bishop is better with Rooks than the Knight (see Examples 29- 38, where the relative values of the Knight and Bishop are compared), and, as already stated, with paw ns on both sides of the board the Bishop is superior because of its long range. Incidentally, this ending will demonstrate the great power of the Bishop. White's best chance was to take a draw at once, thus: 2LNe7+ Kf8 22.Rc7 Re 8 (not
+22...Bxe4 because 23.[3 would give While the best
+of it ) 23.Rxb7 (best, and not because of followed by 24.Rxb~ Rxe4 ) 23 -Rxe7
+24.Rb84- Re8 25.R.xe8 < Kxe8 and w ith proper play
+White w ill draw. It is curious that, although a pawn ahead. White is the one is always in danger. It is only now, after seeing this analysis, that the value of Black's move 18...Qe5 can be fully appreciated. ]
+21...Re8 [With this powerful move Black begins,
+against White's center, an assault which will soon be shifted against the King itself] 22.e5 | White is afraid to play 22.13 because of f5 |
+22...g5 [To prevent f2-f4. The White Knight is
+practically pinned, because he does not dare move on account of ,..Kxe5.| 23,h4 ['This is a sequal to the previous move. White expects to disrupts Black's pawns, and thus make them weak.] gxh4 |'though doubled and isolated this pawn exercises enormous pressure. Black now threatens 24...S&6; to be followed by ...2g6 and ,..h3-h2 at the proper time.]
+24.Rel [White cannot stand the slow death any longer.
+He sees danger everywhere, and wants to avert it by giving up his Queenside pawns, expecting to regain his fortunes later on by taking the initiative on the Kingside.] Re6! [Much better than taking pawns. This forces White to defend the Knight with the Rook at el, because of the threat 25. ..Rg6. | 25.Reel Kg7 | Preparatory' to ...Sg6. 'lhe game is going to be decided on the Kingside, and it is the isolated double pawn that will supply the finishing touch.] 26.b4 b5 [ l o prevent b4-b5, defending the Knight and liberating the Rooks ] 27.a3 Rg6 28.KH Ra2 [Notice the remarkable position of the pieces. While cannot move anything without incurring some loss.) 29.Kgl [His best chance would have been to play 29.e6 but that would only have prolonged the game, which is lost in any case. ]
+29...h3 30.g3 a6 [Again forcing White to move and to
+lose something thereby, as all his pieces are tied up.]
+31.e6 Rxe6 32.g4
+[Not even now can White move the Knight because
+32.Na5 h2t- 33.Kxh2 Rh6 1 34.Kgl Rhl# ]
+32...Rh6 3343
+| If 33.g5 h2+ 34.Khl Rxc6 35,Rxc6 Rxf2 winning easily. ]
+33...Rd6 34.Ne7 Rdd2 35.Nf5+ Kf6 36.Nh4 Ke5
+37.Nf5 Rg2+ 38.Kfl h2 3914+ Kxf4
+
+| White resigns. An ending worth very careful study. | 0-1
